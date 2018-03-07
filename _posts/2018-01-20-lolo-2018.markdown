@@ -1,0 +1,28 @@
+---
+layout: post
+title: Lolo 2018
+name: 2018-01-20-lolo-2018
+description: "Lolo ya renovó por un año más con el carbonero. Espera poder levantar la Copa una vez más en el 2018."
+categories: noticias
+fuente: "Ovacióndigital"
+tags: "soldado, expresión, Estoyanoff, titular, campeón, firmó."
+author: CAPeñarol
+image1: https://i.imgur.com/2aToJXI.png
+imagewidth: 420px
+imageheight: 280px
+url.datos: https://imgur.com/a/bUgqJ
+date: 2018-01-20 09:51 +01:00
+number: 1
+---
+
+El Lolo Estoyanoff firmó por un año más con Peńarol. Aunque a usted no le guste Banewur! La noticia la tiró [Ovacióndigital](https://ovaciondigital.com.uy):
+
+<a href="https://www.ovaciondigital.com.uy/futbol/lolo-saca-aurinegra.html"><span class="fa fa-link" style="color:red;"></span> El Lolo no se saca la aurinegra</a>
+
+En la misma es considerado un soldado más que mantiene peñarol, repudiamos esa expresión porque peñarol es un cuadro deportivo y le dice no a la violencia ni mata prójimos con una pistola en la guerra. Nada que ver, juega al fútbol en competencias sociales y deportivas. Es esta una nueva pijiada de [Ovacióndigital](https://www.ovaciondigital.com.uy)?
+
+El Lolo fue una de las figuras que tuvo peñarol el año pasado y fue titular todo el Campeonato Clausura. De más está decir que esta es una buena noticia ya que el cuadro campeón del año pasado no se resquebraja, aparte se asegura un hincha más de peñarol en el plantel. Enhorabuena Lolo!!! Enhorabuena Barrera!!! Enhorabuena Peñarol!!!
+
+<img src="https://i.imgur.com/2aToJXI.png" width="860px">
+<span style="font-family:monospace;font-size:1.1em;background:negro;color:white;" class="rounded"><a href="{{ site.url}}/lanoticia-lolo-2018">Noticia: Lolo 2018</a></span>
+<a href="{{ site.url }}/noticias"><span style="font-size:0.9em;color:white;background:blue;font-family:monospace;" class="rounded"><br><i class="fa fa-globe"></i>Noticias</span></a>

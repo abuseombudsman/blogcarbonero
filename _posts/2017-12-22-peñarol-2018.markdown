@@ -1,0 +1,51 @@
+---
+layout: post
+title: "Peñarol 2018"
+name: "peñarol"
+publisher: "Tillhör Peñarol Inc."
+pretemporada: "El plantel de Peñarol del 2018, quiénes se quedan, quiénes se van, quiénes vienen"
+description: "Se empieza a armar el Peñarol del 2018. Palacios y Arias son claves y se negocian si viene una oferta de algún club extranjero, peñarol no puede competir y se irían"
+categories: futbol pretemporada transferencias
+date: 2017-12-22T03:07 +01:00
+tags: "Palacios, cotización, Barrera, competir economicamente, Arias, oferta, cuadro, Ramos, Forlán, Novick"
+image1: "https://i.imgur.com/0IOlhud.jpg"
+image1width: 906px
+image1height: 636px
+image2: "https://i.imgur.com/GHnY4yK.jpg"
+image2width: 910px
+image2height: 637px
+url datos1: https://imgur.com/a/Ek6Yn
+url datos2: https://imgur.com/a/hBj5e
+tiempo_de_lectura: "2:00 min"
+author: Capeñarol.CF
+---
+
+<br>
+<img class="rounded" src="{{ page.image1 }}" width="860px" />
+
+<br>
+<h3 style="font-family:fantasy;font-weight:900;">Palacios</h3>
+
+Palacios es probable que emigre ya que con la actuación de todo el año subió su cotización y el mismisimo Barrera admitió con relación a esto que si surge alguna oferta de algún cuadro por él, Peñarol desgraciadamente no puede competir economicamente y también se iría.
+
+<br>
+<h3 style="font-family:fantasy;font-weight:900;">Cachila Ramón Arias</h3>
+
+El caso del Cachila Arias es casi el mismo. Lo único que como es defensa es probable que no reciba el mismo número de ofertas que el delantero Palacios ```pero``` si se da el ```caso``` que llegara por él una oferta de algún cuadro, con el año que tuvo el Cachila, Peñarol no tendría otra que seguir enriqueciendo económicamente pero el plantel se empobrecería notoriamente y van dos pilares fundamentales del 2017. El Cachilo es prioridad y hace meses que se negocia.
+
+<br>
+<h3 style="font-family:fantasy;font-weight:900;">Forlán</h3>
+
+Forlán se fué para España, se comenta que va a venir jóven, lo escuche de Gorzy, si esto se confirma sería ir preparando la caravana por 18 de julio con la Copa Libertadores. De lo contrario Barrera lo trae solo con el concentimiento del técnico, la reunión sería entre Barrera y Leo Ramos sobre el fin de semana y esto se definiría. Por demás esta decir que la experiencia de Forlán sumaria en todos los casos, ojalá el caso de jóven, caravana por 18 de julio y Libertadores se dé.
+
+<br>
+<h3 style="font-family:fantasy;font-weight:900;">Leo Ramos</h3>
+
+Con esto quiere decir, con lo de la reuníón de Barrera con Leo Ramos que se cumple lo prometido por Barrera que la prioridad era renovarle el contrato al entrenador Leo Ramos y se cumple una leyenda de Peñarol que es que entrenador que gana no se toca.
+
+<br>
+<h3 style="font-family:fantasy;font-weight:900;">El caso Novick</h3>
+
+El caso Marcel Novick es triste. Peñarol le debe mucha plata, seguramente aprovechando de su humildad y bonanza. El caso que Peñarol quería seguir negociando para que se quedara de todas formas. Que lástima y que pena que Peñarol se maneje de esta manera.
+
+<img src="{{ page.image2 }}" width="860px">

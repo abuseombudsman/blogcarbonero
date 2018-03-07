@@ -1,0 +1,43 @@
+		
+		<!-- START SIDEBAR1 -->
+		
+		<div id="sidebar1" class="sidebar">
+			<ul>
+				<li>
+					<h4 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;" class="rounded"><span> </span><i class="fa fa-rss" style="font-size:1.0em;"></i> Últimas Entradas</h4>
+					<ul>
+					  {% for post in site.posts limit:10 %}
+					    <li>
+							<span style="font-family:fantasy;font-style:italic;color:yellow;font-size:0.6em;" class="rounded">{{ post.date | date: "%B %e, %Y" }}</span> &raquo;
+							<p class="tags"><a tabindex="-1" href="{{ post.url }}"><span style="color:lightsteelblue;<!--#dcb208-->width:180;">{{ post.title }}</a></p>
+						</li>
+					  {% endfor %}
+					</ul>
+				</li>
+				<!--<li>
+					<h4 style="font-family:fantasy;font-style:italic;color:#000;background:#5a5a5a;" class="rounded"><i class="glyphicon glyphicon-compressed" style="font-size:1.0em;"></i> Archivo</h4>
+					<ul>
+			                  {% include JB/setup %}
+
+					  {% assign posts_collate = site.posts %}
+					  {% include JB/posts_collate %}
+					</ul>
+				</li>-->
+				<li>
+                                        <h4 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;" class="rounded"><i class="glyphicon glyphicon-comment" style="font-size:1.0em;"></i> Últimos Comentarios</h4>
+                                        <ul>
+                                                <li><a href="http://templated.co" rel="nofollow">TEMPLATED</a> on <a href="#"\
+>Aliquam libero</a></li>
+                                                <li><a href="http://templated.co" rel="nofollow">TEMPLATED</a> on <a href="#"\
+>Consectetuer adipiscing elit</a></li>
+                                                <li><a href="http://templated.co" rel="nofollow">TEMPLATED</a> on <a href="#"\
+>Metus aliquam pellentesque</a></li>
+                                                <li><a href="http://templated.co" rel="nofollow">TEMPLATED</a> on <a href="#"\
+>Suspendisse iaculis mauris</a></li>
+                                        </ul>
+                                </li>
+
+			</ul>
+		</div>
+		
+		<!--  END SIDEBAR1 -->

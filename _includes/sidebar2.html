@@ -1,0 +1,156 @@
+		
+		
+		<!-- START SIDEBAR2 -->
+		
+		<div id="sidebar2" class="sidebar">
+			<ul>
+				<li>
+					<form id="searchform" method="get" action="#">
+						<div>
+							<h4 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;" class="rounded"><i class="glyphicon glyphicon-search gi-4x" style="font-size:1.0em;"></i> Búsqueda</h4>
+							<input type="text" name="s" id="s" size="15" value="" />
+						</div>
+					</form>
+				</li>
+				<li>
+				  <h4 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;" class="rounded"><i class="fa fa-check" style="font-size:1.0em;"></i> Contenidos del Sitio</h4>
+				  {% include JB/setup %}
+				  <ul class="tags_box inline">
+				    {% assign categories_list = site.categories %}
+				    {% include JB/categories_list %}
+				  </ul>
+				</li>
+				<li>
+					<h4 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;" class="rounded"><i class="glyphicon glyphicon-calendar gi-4x" style="font-size:1.0em;"></i> Calendario</h4>
+					<div id="calendar_wrap">
+						<table summary="Calendar" style="line-height:1.5rem;">
+							<center>
+							<span style="font-family:fantasy;font-style:italic;color:yellow;font-size:0.6em;" class="rounded"> Marzo 2018 </span>
+							</center></O><caption></caption><O>
+							<thead>
+								<tr>
+									<th abbr="Lunes" scope="col" title="Lunes"><h4><span style="font-size:0.4em;">Lun</span></h4></th>
+									<th abbr="Martes" scope="col" title="Martes"><h4><span style="font-size:0.4em;">Mar</span></h4></th>
+									<th abbr="Miércoles" scope="col" title="Miércoles"><h4><span style="font-size:0.4em;">Mié</span></h4></th>
+									<th abbr="Jueves" scope="col" title="Jueves"><h4><span style="font-size:0.4em;">Jue</span></h4></th>
+									<th abbr="Viernes" scope="col" title="Viernes"><h4><span style="font-size:0.4em;">Vie</span></h4></th>
+									<th abbr="Sábado" scope="col" title="Sábado"><h4><span style="font-size:0.4em;">Sáb</span></h4></th>
+									<th abbr="Domingo" scope="col" title="Domingo"><h4><span style="font-size:0.4em;">Dom</span></h4></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td class="pad" colspan="3">&nbsp;</td>
+									<td>1</td>
+									<td>2</td>
+									<td>3</td>
+									<td id="today">4</td>
+								</tr>
+								<tr>
+									<td>5</td>
+									<td>6</td>
+									<td>7</td>
+									<td>8</td>
+									<td>9</td>
+									<td><span style="border:2px solid #777">10</span></td>
+									<td><!--<span style="border:2px solid #777">-->11<!--</span>--></td>
+								</tr>
+								<tr>
+									<td>12</td>
+									<td>13</td>
+									<td>14</td>
+									<td><span style="border:2px solid yellow">15</span></td>
+									<td>16</td>
+									<td><!--<span style="border:2px solid #777">-->17<!--</span>--></td>
+									<td><!--<span style="border:2px solid #777">-->18<!--</span>--></td>
+								</tr>
+								<tr>
+									<td>19</td>
+									<td>20</td>
+									<td><!--<span style="border:2px solid #777">-->21<!--</span>--></td>
+									<td>22</td>
+									<td><!--<span style="border:2px solid #777">-->23<!--</span>--></td>
+									<td><!--<span style="border:2px solid #777">-->24<!--</span>--></td>
+									<td>25</td>
+								</tr>
+								<tr>
+									<td>26</td>
+									<td>27</td>
+									<td>28</td>
+									<td><!--<span style="border:2px solid #777">-->29<!--</span>--></td>
+									<td>30</td>
+									<td>31</td>
+									<td class="pad" colspan="1">&nbsp;</td>
+								</tr>
+								
+				                          </tbody>
+                                                  </table>
+												  
+												  <span style="font-family:fantasy;font-style:italic;color:yellow;<!--background:#5a5a5a;-->font-size:0.6em;margin-bottom:5px;" class="rounded"><center> Próximo Partido </center></span><br>
+												  
+												  <h4><span style="color:#fd5206;text-decoration:underline;font-size:0.5em;">Sábado 10: </span><span style="font-family:monospace;font-size:0.7em;color:lightsteelblue;"><img src="{{ site.url }}/images/98.gif" width="30px"> PEÑ X BOS	 <img src="{{ site.url }}/images/957.gif" width="30px"></span></h4>
+												  
+												  <h4><span style="color:#fd5206;text-decoration:underline;font-size:0.5em;">Jueves 15: </span><span style="font-family:monospace;font-size:0.7em;color:lightsteelblue;"> <br>PEÑ X THE (Libertadores) </span></h4>
+												  
+												  <date>{{ date }}</date>
+												  <br>
+												  <br>
+												  <span style="font-family:fantasy;font-style:italic;color:yellow;font-size:0.8em;" class="rounded"><center> Apertura 2018 </center></span>
+												  <br>
+												  <table class="table table-bordered table-striped table-responsive" style="background:#777;color:#fff;font-weight:500;">
+													<thead style="color:#fff;font-weight:900;">
+														<tr>
+															<th style="color:#000;background:transparent;">Equipo</th> 
+                                                            <th style="color:#000;background:transparent;">Pts</th>															
+														</tr>
+													</thead>
+													<tbody>
+														<tr>
+															<td style="color:#fff;background:#777;"><img src="{{ site.url }}/images/72.gif" width="30px;"> </td>
+															<td style="color:#fff;background:#777;"> 13</td>
+														</tr>
+														<tr>
+															<td style="color:#fff;background:#777;"><img src="{{ site.url }}/images/83.gif" width="30px;"> </td>
+															<td style="color:#fff;background:#777;"> 12</td>
+														</tr>
+														<tr>
+															<td style="color:#fff;background:#777;"><img src="{{ site.url }}/images/98.gif" width="30px;"> </td>
+															<td style="color:#fff;background:#777;"> 10</td>
+														</tr>
+														<tr>
+															<td style="color:#fff;background:#777;"><img src="{{ site.url }}/images/191.gif" width="30px;"> </td>
+															<td style="color:#fff;background:#777;"> 8</td>
+														</tr>
+														<tr>
+															<td style="color:#fff;background:#777;"><img src="{{ site.url }}/images/957.gif" width="30px;"> </td>
+															<td style="color:#fff;background:#777;"> 8</td>
+														</tr>
+														<tr>
+															<td style="color:#fff;background:#777;"><img src="{{ site.url }}/images/510.gif" width="30px;"> </td>
+															<td style="color:#fff;background:#777;"> 7</td>
+														</tr>
+													</tbody>
+												  </table>
+												  
+                                            </div>
+                                                  
+                                                  
+                                                  <!--!--<small><span style="color:#fd5206;text-decoration:underline;">Viernes 26:</span></small><br>-->
+                                                  <!--<<small><span>Supercopa: NAC 1:3 PEÑ</span></small>-->
+					
+				</li>
+				<li>
+					<h4 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;" class="rounded"><i class="glyphicon glyphicon-tags gi-4x" style="font-size:1.0em;"></i> Etiqueteado</h4>
+					<p class="tag">{{ tags_list }}</p>
+					{% unless page.tags == empty %}
+					  <ul class="tag_box inline">
+					    {% assign tags_list = page.tags %}
+					    {% include JB/tags_list %}
+					  </ul>
+					{% endunless %}
+				</li>
+				
+			</ul>
+		</div>
+		
+		<!-- END SIDEBAR2 -->

@@ -1,0 +1,530 @@
+
+
+/*
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+*/
+
+body {
+	margin: 30px 0px 0px 0px;
+	padding: 0;
+	background: #000;
+	background-repeat: no-repeat;
+	background-position: center top;
+	color: #FFF;
+	text-align: justify;
+	font-family: sans-serif; /*Tahoma, Arial, Helvetica, sans-serif;*/
+	font-size: 11px;
+}
+
+h1, h2, h3 {
+	margin-top: 0;
+}
+
+h1 {
+	font-size: 1.6em;
+	font-weight: normal;
+}
+
+h2 {
+	font-size: 1.6em;
+}
+
+h3 {
+	font-size: 1em;
+}
+
+h4 {
+    margin: 10px 0;
+    font-family: cursive;
+    font-weight: bold;
+    line-height: 20px;
+    color: #d9deb0;
+    text-rendering: auto;
+}
+
+ul {
+}
+
+a {
+	text-decoration: none;
+	color: #2C4449;
+}
+
+a:hover {
+	border-bottom: none;
+}
+
+a img {
+	border: none;
+}
+
+img.left {
+	float: left;
+	margin: 20 20px 20px 0;
+}
+
+img.right {
+	float: right;
+	margin: 0 0 0 20px;
+}
+
+#header {
+	width: 960px;
+	margin: 0 auto;
+	margin-top: 0px;
+}
+
+.headerpordos {
+    background: grey url({{ site.url }}/images/locomotora3.png) no-repeat top center;
+    width: 100%;
+    position: sticky;
+    top: 0px;
+}
+
+/* Header */
+
+#logo {
+	width: 960px;
+	height: 560px; <!--191-->
+	margin: 0 auto;
+	margin-top: 0px;
+	background: url(/images/img02.png) no-repeat left top;
+}
+
+#logo h1, #logo p {
+	margin: 0 auto;
+	color: #FFFFFF;
+}
+
+#logo span {
+	color: #FFFFFF;
+}
+
+#logo h1 {
+	padding: -20px 0 0 40px;
+	letter-spacing: -1px;
+	text-transform: none;
+	font-weight: normal;
+	font-size: 4.8em;
+}
+
+#logo p {
+	text-transform: none;
+	padding: 4px 0 0 43px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 22px;
+	color: #FFFFFF;
+}
+
+#logo a {
+	border: none;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+/* Menu */
+
+#menu {
+	width: 960px;
+	margin: 0 -1px auto;
+	padding: 0;
+	height: 55px;
+	padding-top: 35px;
+	padding-left: 0 10px 10px 10px;
+	background: url(/images/img01.jpg) repeat-x left top;
+	font-style: italic;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 0px 0 0 0px;
+	list-style: none;
+}
+
+#menu li {
+	float: left;
+	display: inline;
+}
+
+#menu a {
+	height: 40px;
+	margin: 0;
+	padding: 40px 30px 5px 30px;
+	background: url(bitmap.png) no-repeat right center 15px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-weight: bold;
+	font-style: italic;
+	color: #5e360f;
+}
+
+#menu a:hover {
+	color: orange;
+}
+
+#menu .current_page_item a {
+	color: #ffffff;
+}
+
+/* Wrapper */
+
+#wrapper {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	background-color: #000;
+	background: url(/images/fondo_122B.jpg);
+	background-attachment: fixed;
+	background-position: 29px 0px 0px 0px;
+}
+
+/* Page */
+
+#page {
+	width: 960px;/*960px*/
+	margin: 0 0px auto;/* 0 auto */
+	margin-top: 0px;
+	padding: 0px;
+	background: url(/images/img03.png) no-repeat left top;
+}
+
+#page-bg {
+	back
+}
+
+/* Latest Post */
+
+#latest-post {
+	padding: 20px;
+	border-bottom: 1px #2C4449 solid;
+}
+
+/* Content */
+
+#content {
+	float: left;
+	width: 435px; /*460px*/
+	margin: 0px 20px 20px 20px;
+	 /*san-serif;Lato;Lucida Sans Unicode;Lucida Grande;*/
+	letter-spacing: em;
+	font-size: 1.2em;
+}
+
+#content h2 {
+    color: lightsteelblue;
+}
+
+#content p {
+    color: #86846a;
+}
+
+#content h1, h2, h3 {
+    font-family: fantasy;
+}
+
+.post {
+	padding-bottom: 15px;
+	line-height: 150%;
+	border-bottom: 1px #2C4449 solid;
+}
+
+.post h1 {
+	font-weight: normal;
+}
+
+.title {
+	margin: 0;
+	padding: 30px 0 4px 0px;
+	font-size: 28px;
+	font-weight: normal;
+}
+
+.title a {
+	border-bottom: none;
+	color: #FFFFFF;
+}
+
+.title a:hover {
+	border-bottom: 1px dotted #000000;
+}
+
+.byline {
+	margin: 10px 0px 20px 0px;
+	padding: 4px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+}
+
+.tag {
+	padding: 0 15px;
+}
+
+.entry {
+	padding: 0px 0px;
+}
+
+.links {
+	width: 80px;
+	height: 33px;
+	background: url(/images/img05.jpg) no-repeat left top;
+	text-align: right;
+	font-weight: bold;
+}
+
+.links a {
+	display: block;
+	height: 25px;
+	padding-top: 8px;
+	padding-left: 10px;
+	text-align: left;
+}
+
+.links a:hover {
+}
+
+/* Sidebars */
+
+#sidebar1 {
+	float: left;
+	width: 230px;
+	font-family: monospace;
+	padding: 6px;
+	font-size: x-large;
+}
+
+#sidebar2 {
+	float: center;
+	width: 230px;
+	font-family: monospace;
+	padding: 6px;
+	font-size: x-large;
+}
+
+.sidebar {
+	float: left;
+	padding: 0;
+	color: #737373;
+}
+
+.sidebar ul {
+	margin: 0;
+	padding: 20px 0 0 0;
+	list-style: none;
+}
+
+.sidebar li {
+	padding: 0 0 20px 0;
+}
+
+.sidebar li ul {
+	background: none;
+	padding-bottom: 20px;
+}
+
+.sidebar li li {
+	margin: 0px 15px;
+	padding: 8px 0px;
+	border-bottom: 1px #314A4F dashed;
+	background: none;
+}
+
+
+.sidebar li h2 {
+	height: 26px;
+	margin: 0 15px;
+	padding: 14px 15px 0px 0px;
+	border-bottom: 1px #2C4449 solid;
+	text-transform: capitalize;
+	font-size: 18px;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+
+.sidebar a {
+	color: lightsteelblue;
+}
+
+.sidebar a:hover {
+	color: #edf169;
+}
+
+/* Search */
+
+#searchform {
+	margin: 0;
+	padding: 0 0 20px 0;
+}
+
+#searchform br {
+	display: none;
+}
+
+#searchform h2 {
+}
+
+#s {
+	margin: 10px 0px 0 15px;
+	padding: 2px 2px;
+	width: 165px;
+	height: 18px;
+	border: 1px solid #CCCCCC;
+	background: #FFFFFF;
+	font-size: 10px;
+	color: #000000;
+}
+
+#x {
+	margin: 0;
+	padding: 2px 5px;
+	height: 25px;
+	background: #CA8186;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #CCCCCC;
+}
+/* Calendar */
+
+#calendar_wrap {
+	padding: 10px 15px;
+	text-align: center;
+}
+
+#calendar_wrap table {
+	width: 100%;
+}
+
+#calendar_wrap th {
+}
+
+#calendar_wrap td {
+}
+
+#calendar_wrap tfoot td {
+	border: none;
+}
+
+#calendar_wrap tfoot td#prev {
+	text-align: left;
+	font-weight: bold;
+	border: none;
+}
+
+#calendar_wrap tfoot td#prev a {
+	border: none;
+}
+
+#calendar_wrap tfoot td#next {
+	text-align: right;
+	font-weight: bold;
+	border: none;
+}
+
+#calendar_wrap tfoot td#next a {
+	border: none;
+}
+
+/* Image */
+
+	.image {
+		border-radius: 0;
+		border: 0;
+		display: inline-block;
+		position: relative;
+	}
+
+		.image img {
+			border-radius: 0;
+			display: block;
+		}
+
+		.image.left, .image.right {
+			max-width: 40%;
+		}
+
+			.image.left img, .image.right img {
+				width: 100%;
+			}
+
+		.image.round img {
+			border-radius: 100%;
+		}
+
+		.image.left {
+			float: left;
+			padding: 0 1.5em 1em 0;
+			top: 0.25em;
+		}
+
+		.image.right {
+			float: right;
+			padding: 0 0 1em 1.5em;
+			top: 0.25em;
+		}
+
+		.image.fit {
+			display: block;
+			margin: 0 0 2em 0;
+			width: 100%;
+		}
+
+			.image.fit img {
+				width: 100%;
+			}
+
+		.image.main {
+			display: block;
+			margin: 0 0 3em 0;
+			width: 100%;
+		}
+
+			.image.main img {
+				width: 100%;
+			}
+
+/* Footer */
+
+#footer {
+	width: 960px;
+	height: 80px;
+	margin: 0 auto;
+	padding: 0 20px;
+	border-top: 1px solid #2C4449;
+	font-family: monospace;
+	font-size: 1.3em;
+}
+
+#footer p {
+	margin: 0;
+	padding: 10px 0 0 0;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #737373;
+}
+
+#footer a {
+	color: #BDBDBD;
+}
+
+#footer .link {
+}
+
+#footer .copyright {
+}
+
+/* To change the bigger glyphicons */
+/*
+.gi-2x{font-size: 2em;}
+.gi-3x{font-size: 3em;}
+.gi-4x{font-size: 4em;}
+.gi-5x{font-size: 5em;}
+*/

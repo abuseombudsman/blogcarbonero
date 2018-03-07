@@ -1,0 +1,60 @@
+<h1 style="color:yellow;">Calendario</h1>
+	<br>
+	<div id="CalendarioCAPeñarolEnero2018">
+     	     <img src="{{ site.url }}/images/CalendarioPeñarolEnero2018.jpg">
+	</div>
+	<br>
+
+<h1 style="color:yellow;">Últimas Noticias</h1>
+	<br>
+
+{% assign sort_result = site.pages | sort: "date" %}
+	{% assign reversed = "," | split: "," %}
+    {% for index in (1..sort_result.size) %}
+      {% assign i = sort_result.size | minus: index %}
+      {% assign reversed = reversed | push: sort_result[i] %}
+    {% endfor %}
+	{% assign sort_result = reversed %}
+	{% assign reversed = nil %}
+	{% assign pages_list = sort_result %}
+
+
+	<ul>
+  
+		{% for page in sort_result limit: 5 %}
+   
+		{% if page.group != diarios %}
+		{% if page.title != 'Imágenes' %}
+		{% if page.title != 'Noticias' %}
+   
+	  
+	  
+			<li>
+				<h3><a href="{{ site.url }}/{{ page.url }}"><span>{{ page.title | tap: 'number'	}}</span></a></h3>
+				<a href="{{ site.url }}/{{ page.url }}"><p><span><img src="{{ page.image }}" width="180px" class="image left">{{ page.description }}</span></p></a>
+				<center>
+			   
+					<p><span style="float:left;color:#fd5206;">Orígen: {{ page.fuente }}</span></p><p><span style="float:right;"><i class="fa fa-globe"></i>Noticias</span></p>
+				
+				</center><br>
+				<hr /><br>
+			
+			</li>
+	  
+		{% endif %}
+		{% endif %}
+		{% endif %}
+    
+		{% endfor %}
+  
+	</ul>
+
+<div class="bs-callout bs-callout-warning">
+     <h2 style="color:#f6d312;font-family:monospace;">Peñarol Campeón Uruguayo 2017</h2>
+     <p>Peñarol se coronó campeón del Campeonato Uruguayo 2017, Copa Coca Cola ganándole a Defensor Sporting la semifinal tras empatar 0 a 0 y definición por penales</p>
+	 <h1 style="font-family:monospace;color:blanco;background:blue;" class="rounded"><i class="fa fa-trophy" style="font-size:1.0em;"></i>= 51</h1>
+</div><br><br>
+<div class="bs-callout bs-callout-warning">
+	<h2 style="color:#f6d312;font-family:monospace;">Barrera, lista 21</h2>
+	<p>Será el nuevo presidente de Peñarol en el próximo lustro tras ganar las elecciones del 9 de diciembre 2017</p>
+</div><br><br>

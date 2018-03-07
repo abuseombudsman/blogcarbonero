@@ -1,0 +1,72 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es_UY">
+
+{% include encabezado.html %}
+
+    <body style="background-color:#000;"> <!--#bfaf79-->
+
+          
+        <div id="sponsors">
+            {% include sponsors.html %}
+        </div>
+          
+
+                                <!-- start wrapper -->
+                                <div id="wrapper" style="margin-top:90px;">
+
+                                        {% include menuvertical.html %}
+
+                                                <!-- start header -->
+                                                <div id="header" class="col-xs-10">
+
+                                                  {% include menuhorizontalsinactivo.html %}
+
+												</div>
+                                                <!-- end header -->
+												
+										<!-- MAIN! -->
+											<main role="main">
+										    
+											    <div class="encomienda">
+												  <div class="container">
+												    
+													<!-- START Carousel -->
+													  {% include CarouselRacingPenarol.html %}
+													<!-- END Carousel -->
+												  
+												  </div>
+												</div>
+												
+
+						                        <!-- start page -->
+                                                        <div id="page" style="margin:0 472px auto;">
+
+                                                                <!-- start content -->
+                                                                <div id="content">
+
+                                                                        {{ content }}
+
+                                                                </div>
+                                                                <!-- end content -->
+																
+															 <div style="clear: both;">&nbsp;</div>
+                                                        
+														</div>
+                                                <!-- end page -->
+									    
+											</main>
+							
+                                </div>
+                              <!-- end wrapper -->
+                            <div id="footer">
+                                {% include footer.html %}
+							</div>
+							
+							<!-- Bootstrap core JavaScript
+                            ================================================== --> 
+                            <!-- Placed at the end of the document so the pages load faster -->
+                            <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+                            <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/PlantillaCarousel/jquery-3.3.1.min.js"><\/script>')</script>
+                            <script src="{{ site.url }}/assets/PlantillaCarousel/popper.min.js"></script>
+                            <script src="{{ site.url }}/assets/PlantillaCarousel/bootstrap.min.js"></script>
+	</body>
+</html>

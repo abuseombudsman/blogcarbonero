@@ -1,0 +1,55 @@
+---
+layout: DefaultSinCarouselblog
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h4 class="post-title" itemprop="name headline" style="color:#c1bab4;">{{ page.title | escape }}</h4>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" style="color:white;margin-right:10px;" itemprop="datePublished">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                <i class="glyphicon glyphicon-calendar" style="color:#dcb208;"><span> </span></i>
+        {{ page.date | date: date_format }}
+      </time>
+      {% if page.author %}
+        <!--•--> <i class="glyphicon glyphicon-user" style="color:#dcb208;"><span> </span></i> <span itemprop="author" itemsc\
+ope itemtype="http://schema.org/Person" style="margin-right:10px;"><span itemprop="name">{{ page.author }}</span></span>
+      {% endif %}
+          {% if page.tiempo_de_lectura %}
+            <!--<span> •--> <i class="glyphicon glyphicon-time" style="color:#dcb208;"></i><span> </span> <span> lectura: {{ page.tiempo_de_lectura }}</span>
+          {% endif %}</p>
+  </header>
+  <h4>Compartir esto:</h4>
+  <a href="https://facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"><i class="fa fa-facebook rounded" style="font-size:1.5em;margin-right:10px;"></i></a>
+	<span> </span>
+<a href="{{ site.url }}/{{ page.url }}/?share=twitter&nb=1"><i class="fa fa-twitter rounded" style="font-size:1.5em;margin-right:10px"></i></a>
+	<span> </span>
+	<a href="https://plus.google.com/share?url={{ site.url }}/{{ page.url }}"><i class="faz fa-google-plus rounded" style="font-size:1.5em;margin-right:10px;"></i></a>
+	<span> </span>
+	<a href="https://pinterest.com/pin/create/button/?url={{ site.url }}/{{ page.url }}&media={{ site.url }}/images/g5627.png&description={{ page.description }}"><i class="fa fa-pinterest rounded" style="font-size:1.5em;margin-right:10px;"></i></a>
+	<span> </span>
+<a href="{{ site.url }}/{{ page.url }}/?share=reddit&nb=1"><i class="fa fa-reddit rounded" style="font-size:1.5em;margin-right:10px;"></i></a>
+	<span> </span>
+	<a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}/{{ page.url }}&title={{ page.title }}&summary=&source="><i class="fa fa-linkedin rounded" style="font-size:1.5em;margin-right:10px;"></i></a>
+	<span> </span>
+<a href="{{ site.url }}/{{ page.url }}/?share=instagram&nb=1"><i class="fa fa-instagram rounded" style="font-size:1.5em;margin-right:10px;"></i></a>
+	<span> </span>
+<a href="{{ site.url }}/{{ page.url }}/?share=youtube&nb=1"><i class="fa fa-youtube rounded" style="font-size:1.5em;margin-right:10px;"></i></a>
+<br>
+  <!-- Coloca esta etiqueta donde quieras que aparezca Botón Compartir. -->
+  <div class="g-plus" data-action="share" style="display:inline;"></div>
+  <br>
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+  <!-- Coloca esta etiqueta donde quieras que aparezca Botón Compartir. -->
+  <div class="g-plus" data-action="share" style="display:inline;"></div>
+  <!-- Your share button code -->
+  <div class="fb-share-button" style="display:inline"
+    data-href="{{ site.url }}/{{ page.url }}" 
+    data-layout="box_count">
+  </div>
+  {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+  {% endif %}
+</article>

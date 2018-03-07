@@ -1,0 +1,2 @@
+<meta name="description" content="{{ page.excerpt | default: page.description | strip_html | normalize_whitespace | truncate: 160 }}">
+<meta name="keywords" content="{% if page.tags %}{{ page.tags }}{% endif %}">
