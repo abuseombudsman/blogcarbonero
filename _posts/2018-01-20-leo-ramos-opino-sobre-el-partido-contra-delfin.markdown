@@ -17,6 +17,7 @@ url.datos: https://imgur.com/a/hOACk
 date: 2018-01-20 10:36 +01:00
 number: 7
 tiempo_de_lectura: "2:00 min"
+comments: true
 ---
 
 [Referi](http://www.referi.com.uy) habló con el DT de Peñarol Ramos:

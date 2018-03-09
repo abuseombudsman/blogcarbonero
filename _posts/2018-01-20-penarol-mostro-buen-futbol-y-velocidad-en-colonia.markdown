@@ -16,6 +16,7 @@ url.datos: https://imgur.com/hudS5Hj
 date: 2018-01-20 10:35 +01:00
 number: 6
 tiempo_de_lectura: "2:00 min"
+comments: true
 ---
 
 [Ovacióndigital](http://www.ovaciondigital.com.uy) estuvo en Colonia cubriendo lo que fué la pretemporada de Peñarol. Enun artículo muy interesante informa lo que fueron los dos juegos de Peñarol ante el seleccionado de Colonia Interior:

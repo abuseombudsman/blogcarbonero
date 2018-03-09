@@ -9,6 +9,7 @@ categories: futbol uruguayo apertura
 author: CAPeñarol
 tiempo_de_lectura: "1:00 min"
 image1: https://i.imgur.com/Fbnpegd.jpg
+comments: true
 ---
 
 Entendemos que Peniarol comienza la Libertadores en marzo sin embargo es hoy que el carbonero no podrá contar con los recursos de su capitán Cristian Rodriguez. Para ello Ramos confirmó la titularidad de Guzmán Perira como el substituto natural del Cebolla y Walter Gargano. Pero esta situación de tener partido de suspención por doble amarilla es algo que puede suceder a menudo, tanto Gargano como el Cebolla por la tarea de contención que realizan ambos dos ejecutando el doble cinco. Nos parece que la posición de Guzman se resguarda y apuntala más con la presencia de un juvenil con potencia física como Giovani Gonzalez en lugar del Lolo Estoyanoff quién puede ingresar en el segundo tiempo si las cosas no salen. Veremos que decide el Captor Ramos.

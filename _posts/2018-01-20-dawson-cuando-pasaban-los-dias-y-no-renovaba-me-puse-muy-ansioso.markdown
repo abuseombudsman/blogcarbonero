@@ -16,6 +16,7 @@ url.datos: https://imgur.com/tk126zc
 date: 2018-01-20 10:34 +01:00
 number: 5
 tiempo_de_lectura: "2:00 min"
+comments: true
 ---
 
 [Ovacióndigital](https://www.ovaciondigital.com.uy) habló con Dawson en Colonia, donde realiza la pretemporada, la renovación de su contrato era prioridad en Peñarol. Reflexionó sobre el año que pasó y el futuro de los dos clásicos que se vienen:

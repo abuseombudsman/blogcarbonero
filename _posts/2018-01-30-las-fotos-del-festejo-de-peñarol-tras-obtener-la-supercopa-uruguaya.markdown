@@ -16,6 +16,7 @@ image9: http://i.imgur.com/HfbgucK.jpg
 url.datos: https://imgur.com/a/9Knji
 categories: futbol supercopa
 author: CAPeñarol
+comments: true
 ---
 
 

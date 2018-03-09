@@ -37,8 +37,9 @@ source:			"."
 destination:		"/_site"
 port:			9001
 baseurl:		""
-url:			http://xn--capearol-g3a.cf
+url:			http://localhost:9001
 encoding:		UTF-8
+
 
 
 
@@ -56,6 +57,8 @@ github_username:  	abuseombudsman
 
 
 
+
+
 # Build settings
 
 theme: minima
@@ -67,7 +70,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
-repo:			https://github.com/abuseombudsman/xn--capearol-xwa.ga
+repo:			https://github.com/abuseombudsman/blogcarbonero
 paginate: 4
 paginate_path: "/blog/page:num/"
 

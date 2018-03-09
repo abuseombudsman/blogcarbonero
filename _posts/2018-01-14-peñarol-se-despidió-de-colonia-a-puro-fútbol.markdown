@@ -11,6 +11,7 @@ url datos1: https://imgur.com/a/4Ncio
 url datos2: https://imgur.com/a/4Ncio
 author: CAPeñarol
 tiempo_de_lectura: "2:00 min"
+comments: true
 ---
 
 ![Palacios](http://i.imgur.com/A6Tq43j.jpg)

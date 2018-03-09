@@ -8,6 +8,7 @@ tags: "conferencia prensa medios Apertura 2018 peñarol Lucas Hernández Maxi Ro
 image1: https://i.imgur.com/FCMlUgn.png
 date: 2018-02-23 00:00:00 +01:00
 author: CAPeñarol
+comments: true
 ---
 
 <span style="font-family:fantasy;font-style:italic;color:#fff;background:#5a5a5a;font-size:1.2em;" class="rounded">Conferencia para los medios de prensa, previa de la fecha 4 del Apertura en el CDS Peñarol X Liverpool, hablan Lucas Hernández y Maxi Rodriguez, súbidas a la web por Peñarol OFICIAL<sup>&reg;</sup></span>

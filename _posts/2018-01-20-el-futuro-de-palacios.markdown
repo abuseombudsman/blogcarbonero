@@ -13,6 +13,7 @@ image1height: 279px
 url.datos: https://imgur.com/a/3LaLh
 date: 2018-01-20 09:52 +01:00
 number: 2
+comments: true
 ---
 
 La noticia sobre el posible traspaso de Palacios a otro club lo anuncia [referi](https://www.referi.uy) en un artículo titulado:

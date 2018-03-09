@@ -15,6 +15,7 @@ url.datos: https://imgur.com/a/7FIdr
 date: 2018-02-04 20:00 +01:00
 number: 5
 tiempo_de_lectura: "1:00 min"
+comments: true
 ---
 
 <h4 style="color:#c1bab4;font-family:fantasy;">Los 11 de Peñarol convocados para el inicio del apertura contra Racing</h4>

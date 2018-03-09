@@ -18,6 +18,7 @@ url.datos: https://imgur.com/gallery/MMu12
 tiempo_de_lectura: "3:00 min"
 author: CAPeñarol
 date: 2018-02-16T14:35:00+01:00
+comments: true
 ---
 <div id="zona-libre">
 <div class="container">

@@ -34,6 +34,7 @@ categories: futbol uruguayo apertura
 date: 2018-02-26 17:00:00 +01:00
 tiempo_de_lectura: "2:00 min"
 author: CAPeñarol
+comments: true
 ---
 
 Peñarol tal como estaba previsto en la fecha No 4 del Torneo Apertura 2018 se medía con Liverpool en el CDS. Tal como lo adelantáramos en nuestras entregas anteriores no iba a tener un rival fácil pero acotábamos que Peñarol jugaba de local en el CDS y era tranquilizador. Leo Ramos tiene razón cuando dice que a Peñarol le quieren ganar todos los rivales y también tiene razón cuando dice que lo que la historia va a decir de un día como hoy es que Peñarol se quedó con los 3 puntos ante Liverpool.

@@ -13,6 +13,7 @@ imageheight: 280px
 url.datos: https://imgur.com/a/bUgqJ
 date: 2018-01-20 09:51 +01:00
 number: 1
+comments: true
 ---
 
 El Lolo Estoyanoff firmó por un año más con Peńarol. Aunque a usted no le guste Banewur! La noticia la tiró [Ovacióndigital](https://ovaciondigital.com.uy):

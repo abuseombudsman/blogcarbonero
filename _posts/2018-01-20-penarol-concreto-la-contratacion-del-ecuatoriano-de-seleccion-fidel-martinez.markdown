@@ -16,6 +16,7 @@ url.datos: https://imgur.com/a/Bx5Ok
 date: 2018-01-20 09:54 +01:00
 number: 4
 tiempo_de_lectura: "2:00 min"
+comments: true
 ---
 
 Esta noticia apareció en [Referi](https://www.referi.uy)., el pase es a prestamo con una opción de compra del 50% de la ficha que se aboarían en cuotas el enlace al artículo original:

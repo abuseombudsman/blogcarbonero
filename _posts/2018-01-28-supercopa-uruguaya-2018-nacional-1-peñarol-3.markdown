@@ -24,6 +24,7 @@ image5.height: 528px
 date: 2018-01-28T00:00:00 +01:00
 author: CAPeñarol
 tiempo_de_lectura: "3:00 min"
+comments: true
 ---
 
 <img src="http://i.imgur.com/UFqRXNk.jpg">

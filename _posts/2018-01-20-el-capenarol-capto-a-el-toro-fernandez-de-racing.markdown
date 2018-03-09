@@ -17,6 +17,7 @@ url.datos: https://imgur.com/a/eI73z
 date: 2018-01-22 07:09	 +01:00
 number: 7
 tiempo_de_lectura: "02:00 min"
+comments: true
 ---
 
 [Referi](http://www.referi.com.uy) entrevistó la flamante incorporación de los aurinegros El Toro Fernández, pagó 750 mil por el 50% de la ficha luego de haberse caído el año pasado su pase a el Gremio por una lesión.

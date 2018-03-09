@@ -18,6 +18,7 @@ url.datos: https://imgur.com/a/bKBcO
 tiempo_de_lectura: "2:00 min"
 author: CAPeñarol
 date: 2018-02-05T17:30:00 +01:00
+comments: true
 ---
 
 Ante un Racing bien plantado en la primera media hora inicial Peñarol volvió a mostrar efectividad en el arco rival. El ecuatoriano Martínez fue el primero que mojó. Incluso en esa primera parte el árbitro le anuló otro gol al ecuatoriano por posición adelantada que no fué, Fidel se perdió otra que se fue pegada al segundo palo, Cannobio se perdió otra cuando no le salió un globo que le quiso hacer al golero.

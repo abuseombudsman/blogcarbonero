@@ -14,6 +14,7 @@ url.datos: https://imgur.com/a/TDpiu
 date: 2018-01-20 09:53 +01:00
 number: 3
 tiempo_de_lectura: "2:00 min"
+comments: true
 ---
 
 Esta noticia apareció en [La Republica](https://www.larepublica.com.uy). En la misma se da conocimiento público que la institución carbonera abrió un canal de tuiter: #FuerzaLucas de apoyo a Lucas Viatri quien se recupera del accidente sufrido.

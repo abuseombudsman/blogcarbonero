@@ -12,6 +12,7 @@ url.datos: https://imgur.com/a/LQDr9
 date: 2018-02-05 02:25 +01:00
 number: 9
 tiempo_de_lectura: "00:00 min"
+comments: true
 ---
 
 <img src="http://i.imgur.com/FPIKDWs.jpg">

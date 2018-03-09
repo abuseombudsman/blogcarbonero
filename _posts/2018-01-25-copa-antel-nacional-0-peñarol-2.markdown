@@ -53,6 +53,7 @@ image43: http://i.imgur.com/JAbIL0V.jpg
 image44: http://i.imgur.com/CmDwrP4.jpg
 url.datos: https://imgur.com/gallery/l7HJQ
 tiempo_de_lectura: "2:00 min"
+comments: true
 ---
 
 El primer clásico del año se lo llevo Peñarol, quién vino a jugarlo en condición de favorito y se lo llevo. El viernes se enfrentan de nuevo esta vez oficialmente por la Copa Uruguaya. A Nacional pensamos le vienen mal estos clásicos a menos de dos semanas del partido con Chapecoense.

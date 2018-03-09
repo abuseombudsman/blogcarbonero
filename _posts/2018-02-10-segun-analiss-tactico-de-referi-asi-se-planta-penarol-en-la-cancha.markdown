@@ -13,6 +13,7 @@ image1: https://i.imgur.com/kbF2eLy.jpg
 date: 2018-02-10T20:01:00 +01:00
 number: 10
 tiempo_de_lectura: "01:00 min"
+comments: true
 ---
 
 El funcionamiento de peñarol es analizado por [Referi](https://www.referi.uy), en este interesante análisis: <br>

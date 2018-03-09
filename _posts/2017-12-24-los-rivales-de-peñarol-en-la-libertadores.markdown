@@ -14,6 +14,7 @@ url datos1: https://imgur.com/a/QD3cc
 url datos2: https://imgur.com/a/QD3cc
 tiempo_de_lectura: "3:00 min"
 author: CAPeñarol
+comments: true
 ---
 
 <br>
