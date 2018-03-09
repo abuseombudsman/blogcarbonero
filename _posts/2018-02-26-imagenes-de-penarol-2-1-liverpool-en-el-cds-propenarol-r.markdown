@@ -49,7 +49,7 @@ image41: https://i.imgur.com/jMvHWc8.png
 image42: https://i.imgur.com/59LlxbJ.png
 image43: https://i.imgur.com/TqfS1VY.png
 author: CAPeñarol
-comment: true
+comments: true
 ---
 
 <div id="carousel" style="margin: 0 -32px auto;">
