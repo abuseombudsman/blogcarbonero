@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Peñarol responde ante cerro por la copa Coca Cola hoy a partir de las 17:30 hora uruguaya
+title: "Peñarol responde ante Cerro por la Copa Coca Cola hoy a partir de las 17:30 hora uruguaya (Suspendido)
 name: 2018-03-18-penarol-responde-ante-cerro-por-la-copa-coca-cola-hoy-a-partir-de-las-17-30
 description: "Este es el equipo que pone Leo Ramos ante Cerro por el Campeonato Uruguayo 2018"
 tags:
