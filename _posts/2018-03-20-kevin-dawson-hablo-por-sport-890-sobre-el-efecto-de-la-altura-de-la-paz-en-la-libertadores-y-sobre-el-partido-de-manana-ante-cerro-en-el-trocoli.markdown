@@ -7,6 +7,7 @@ categories: futbol uruguayo apertura
 author: CAPeñarol
 description: "Kevin Dawson habló en exclusiva con Sport 890 sobre el partido de Peñarol por el Apertura mañana ante Cerro en el Trócoli y sobre el debut de Peñarol en la Libertadores y los efectos de la altura en La Paz"
 date: 2018-03-20 22:10 +01:00
+image: https://i.imgur.com/wmzcK4Y.jpg
 comments: true
 ---
 
