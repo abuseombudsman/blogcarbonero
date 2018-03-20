@@ -1,8 +1,8 @@
 ---
 layout: post
 name: 2018-03-20-kevin-dawson-hablo-por-sport-890-sobre-el-efecto-de-la-altura-de-la-paz-en-la-libertadores-y-sobre-el-partido-de-manana-ante-cerro-en-el-trocoli
-title: "Kevin Dawson habló por radio Sport sobre el efecto de la altura en la paz en el debut de Peñarol en Libertadoresy sobre el partido de mañana ante Cerro en el Trócoli"
-tags: Peñarol altura libertadores apertura cerro
+title: "Entrevista a Kevin Dawson por Sport 890"
+tags: Peñarol entrevista Kevin Dawson sport890 altura libertadores apertura cerro
 categories: futbol uruguayo apertura
 author: CAPeñarol
 description: "Kevin Dawson habló en exclusiva con Sport 890 sobre el partido de Peñarol por el Apertura mañana ante Cerro en el Trócoli y sobre el debut de Peñarol en la Libertadores y los efectos de la altura en La Paz"
