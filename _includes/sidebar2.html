@@ -11,6 +11,7 @@
 							<input type="text" name="s" id="s" size="15" value="" />
 						</div>
 					</form>-->
+					  <h4 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;" class="rounded"><i class="glyphicon glyphicon-search gi-4x" style="font-size:1.0em;"></i> Buscar en este sitio</h4>
                                          <script>
  						 (function() {
    							 var cx = '015903443594646426127:3xi-cxoqxko';
@@ -56,7 +57,7 @@
 									<td>1</td>
 									<td>2</td>
 									<td>3</td>
-									<td id="today">4</td>
+									<td>4</td>
 								</tr>
 								<tr>
 									<td>5</td>
@@ -64,14 +65,14 @@
 									<td>7</td>
 									<td>8</td>
 									<td>9</td>
-									<td><span style="border:2px solid #777">10</span></td>
+									<td><!--<span style="border:2px solid #777">-->10<!--</span>--></td>
 									<td><!--<span style="border:2px solid #777">-->11<!--</span>--></td>
 								</tr>
 								<tr>
 									<td>12</td>
 									<td>13</td>
 									<td>14</td>
-									<td><span style="border:2px solid yellow">15</span></td>
+									<td><!--<span style="border:2px solid yellow">-->15<!--</span>--></td>
 									<td>16</td>
 									<td><!--<span style="border:2px solid #777">-->17<!--</span>--></td>
 									<td><!--<span style="border:2px solid #777">-->18<!--</span>--></td>
@@ -79,7 +80,7 @@
 								<tr>
 									<td>19</td>
 									<td>20</td>
-									<td><!--<span style="border:2px solid #777">-->21<!--</span>--></td>
+									<td id="today-update"><span style="border:2px solid yellow">21</span></td>
 									<td>22</td>
 									<td><!--<span style="border:2px solid #777">-->23<!--</span>--></td>
 									<td><!--<span style="border:2px solid #777">-->24<!--</span>--></td>
@@ -99,47 +100,59 @@
                                                   </table>
 												  
 												  <span style="font-family:fantasy;font-style:italic;color:yellow;<!--background:#5a5a5a;-->font-size:0.6em;margin-bottom:5px;" class="rounded"><center> Próximo Partido </center></span><br>
-												  
+												 <img src="{{ site.url }}/images/placard.png" width="230px"> <!-- 
 												  <h4><span style="color:#fd5206;text-decoration:underline;font-size:0.5em;">Sábado 10: </span><span style="font-family:monospace;font-size:0.7em;color:lightsteelblue;"><img src="{{ site.url }}/images/98.gif" width="30px"> PEÑ X BOS	 <img src="{{ site.url }}/images/957.gif" width="30px"></span></h4>
 												  
 												  <h4><span style="color:#fd5206;text-decoration:underline;font-size:0.5em;">Jueves 15: </span><span style="font-family:monospace;font-size:0.7em;color:lightsteelblue;"> <br>PEÑ X THE (Libertadores) </span></h4>
-												  
+												  -->
+												  <div id="today-update">
+													<center>
+														<img src="{{ site.url }}/images/188.gif" width="55px" style="display:inline block;"><span> vs </span><img src="{{ site.url }}/images/98.gif" width="55px" style="display:inline block;">
+												        </center>
+												  </div>
 												  <date>{{ date }}</date>
 												  <br>
 												  <br>
 												  <span style="font-family:fantasy;font-style:italic;color:yellow;font-size:0.8em;" class="rounded"><center> Apertura 2018 </center></span>
 												  <br>
-												  <table class="table table-bordered table-striped table-responsive" style="background:#777;color:#fff;font-weight:500;">
-													<thead style="color:#fff;font-weight:900;">
+												  <table class="table table-bordered table-striped table-responsive" style="color:#777;font-weight:500;">
+													<thead style="color:#777;font-weight:900;">
 														<tr>
-															<th style="color:#000;background:transparent;">Equipo</th> 
-                                                            <th style="color:#000;background:transparent;">Pts</th>															
+															<th style="color:#fff;background:transparent;padding:2px;font-size:large;">Equipo</th> 
+                                                            								<th style="color:#fff;background:transparent;padding:2px;font-size:-webkit-xxx-large;">Pts</th>
+															<th style="color:#fff;background:transparent;padding:2px;font-size:-webkit-xxx-large;">PJ</th>															
 														</tr>
 													</thead>
 													<tbody>
 														<tr>
-															<td style="color:#fff;background:#777;"><img src="{{ site.url }}/images/72.gif" width="30px;"> </td>
-															<td style="color:#fff;background:#777;"> 13</td>
+															<td style="color:#777;background:transparent;padding:2px;"><img src="{{ site.url }}/images/98.gif" width="55px;"> </td>
+															<td style="color:#777;background:transparent;padding:2px;font-size:3.3em;vertical-align:middle;"> 19</td>
+															<td style="color:#777;background:transparent;padding:2px;font-size:3.3em;vertical-align:middle;"> 7</td>
 														</tr>
 														<tr>
-															<td style="color:#fff;background:#777;"><img src="{{ site.url }}/images/83.gif" width="30px;"> </td>
-															<td style="color:#fff;background:#777;"> 12</td>
+															<td style="color:#777;background:transparent;padding:2px;"><img src="{{ site.url }}/images/72.gif" width="55px;"> </td>
+															<td style="color:#777;background:transparent;padding:2px;font-size:3.3em;vertical-align:middle;"> 16</td>
+															<td style="color:#777;background:transparent;padding:2px;font-size:3.3em;vertical-align:middle;"> 7</td>
 														</tr>
 														<tr>
-															<td style="color:#fff;background:#777;"><img src="{{ site.url }}/images/98.gif" width="30px;"> </td>
-															<td style="color:#fff;background:#777;"> 10</td>
+															<td style="color:#777;background:transparent;padding:2px;"><img src="{{ site.url }}/images/83.gif" width="55px;"> </td>
+															<td style="color:#777;background:transparent;padding:2px;font-size:3.3em;vertical-align:middle;"> 15</td>
+															<td style="color:#777;background:transparent;padding:2px;font-size:3.3em;vertical-align:middle;"> 6</td>
 														</tr>
 														<tr>
-															<td style="color:#fff;background:#777;"><img src="{{ site.url }}/images/191.gif" width="30px;"> </td>
-															<td style="color:#fff;background:#777;"> 8</td>
+															<td style="color:#777;background:transparent;padding:2px;"><img src="{{ site.url }}/images/510.gif" width="55px;"> </td>
+															<td style="color:#777;background:transparent;padding:2px;font-size:3.3em;vertical-align:middle;"> 11</td>
+															<td style="color:#777;background:transparent;padding:2px;font-size:3.3em;vertical-align:middle;"> 7</td>
 														</tr>
 														<tr>
-															<td style="color:#fff;background:#777;"><img src="{{ site.url }}/images/957.gif" width="30px;"> </td>
-															<td style="color:#fff;background:#777;"> 8</td>
+															<td style="color:#777;background:transparent;padding:2px;"><img src="{{ site.url }}/images/191.gif" width="55px;"> </td>
+															<td style="color:#777;background:transparent;padding:2px;font-size:3.3em;vertical-align:middle;"> 11</td>
+															<td style="color:#777;background:transparent;padding:2px;font-size:3.3em;vertical-align:middle;"> 6</td>
 														</tr>
 														<tr>
-															<td style="color:#fff;background:#777;"><img src="{{ site.url }}/images/510.gif" width="30px;"> </td>
-															<td style="color:#fff;background:#777;"> 7</td>
+															<td style="color:#777;background:transparent;padding:2px;"><img src="{{ site.url }}/images/110.gif" width="55px;"> </td>
+															<td style="color:#777;background:transparent;padding:2px;font-size:3.3em;vertical-align:middle;"> 11</td>
+															<td style="color:#777;background:transparent;padding:2px;font-size:3.3em;vertical-align:middle;"> 7</td>
 														</tr>
 													</tbody>
 												  </table>

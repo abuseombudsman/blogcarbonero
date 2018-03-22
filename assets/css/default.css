@@ -187,7 +187,7 @@ img.right {
 #page {
 	width: 960px;/*960px*/
 	height: 100%;
-	margin: 0 472px auto;/* 0 auto */
+	margin: 0 478px auto;/* 0 auto */
 	margin-top: 0px;
 	margin-right: 0px;
 	padding: 0px;
@@ -202,7 +202,7 @@ img.right {
 #zona-libre {
     width: 960px;
     padding: 12px 0px 10px 0px;
-    margin-left: 10px;
+    margin-left: -76px;
     margin-right: 0px;
 }
 

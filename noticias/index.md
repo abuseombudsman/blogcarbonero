@@ -40,7 +40,7 @@ Resúmenes de noticias/información del Club Atlético Peñarol aparecidas en lo
 				
 					<tr>
 						<p class="post-meta">
-							<td>
+							<td style="padding:0px;">
 								<time id="time">
 									<time datetime="{{ page.date | date_to_xmlschema }}"  style="margin-right:10px;">
 										{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
@@ -49,14 +49,14 @@ Resúmenes de noticias/información del Club Atlético Peñarol aparecidas en lo
 									</time>
 								</time>
 							</td>
-							<td>
+							<td style="padding:0px;">
 								<span id="span" itemprop="author" itemscope itemtype="http://schema.org/Person">
 									{% if post.author %}
 										<i class="glyphicon glyphicon-user" style="color:#fd5206;font-size:0.9em;"><span> </span></i> <span><span itemprop="name" style="margin-right:10px;font-size:0.6em;">{{ post.author }}</span></span>
 									{% endif %}
 								</span>
 							</td>
-							<td style="color:#000;background:yellow;">
+							<td style="color:#000;background:yellow;padding:0px;">
 								<span id="span">
 									{% if post.tiempo_de_lectura %}
 										<i class="glyphicon glyphicon-time" style="color:#fd5206;font-size:0.9em;"></i><span> </span> <span style="font-size:0.6em;"> lectura:
@@ -64,13 +64,12 @@ Resúmenes de noticias/información del Club Atlético Peñarol aparecidas en lo
 									{% endif %}
 								</span>
 							</td>
+							<td style="color:#fff;background:green;padding:0px;">
+                                                        	<span>{{ post.fuente }}</span>
+                                                	</td>
 						</p>
 					</tr>
-					<tr>
-						<td style="color:#fff;background:green;">
-							<span>{{ post.fuente }}</span>
-						</td>
-					</tr>
+					
 					<span><i class="fa fa-link" style="color:red;font-size:1.3em;"></i> <a href="{{ post.linkurl }}">{{ post.linktitle }}</a></span>
 					<br>
 					<br>

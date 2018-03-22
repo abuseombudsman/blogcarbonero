@@ -34,23 +34,23 @@ autor: CAPeñarol
 				
 					<tr>
 						<p class="post-meta">
-							<td>
+							<td style="padding:12px;">
 								<time id="time">
-									<time datetime="{{ page.date | date_to_xmlschema }}"  style="margin-right:10px;font-size:.7em;">
+									<time datetime="{{ page.date | date_to_xmlschema }}"  style="margin-right:10px;font-size:.7em;padding:12px;">
 										{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
 										<i class="glyphicon glyphicon-calendar" style="color:#fd5206;font-size:0.9em;"><span> </span></i>
 										<span itemprop="datePublished">{{ post.date | date: date_format }}</span>
 									</time>
 								</time>
 							</td>
-							<td>
+							<td style="padding:12px;">
 								<span id="span" itemprop="author" itemscope itemtype="http://schema.org/Person">
 									{% if post.author %}
 										<i class="glyphicon glyphicon-user" style="color:#fd5206;font-size:0.9em;"><span> </span></i> <span><span itemprop="name" style="margin-right:10px;font-size:0.7em;">{{ post.author }}</span></span>
 									{% endif %}
 								</span>
 							</td>
-							<td style="color:#000;background:yellow;">
+							<td style="color:#000;background:yellow;padding:12px;">
 								<span id="span">
 									{% if post.tiempo_de_lectura %}
 										<i class="glyphicon glyphicon-time" style="color:#fd5206;font-size:0.9em;"></i><span> </span> <span style="font-size:0.7em;"> lectura:
