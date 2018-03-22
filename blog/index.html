@@ -11,6 +11,7 @@ autor: CAPeñarol
 
 
 {% for post in paginator.posts %}
+<div id="lista-de-entradas" style="margin-bottom:100px;">
 
 	<table class="table table-bordered table-striped table-responsive">
 		<header class="post-header">
@@ -34,7 +35,7 @@ autor: CAPeñarol
 				
 					<tr>
 						<p class="post-meta">
-							<td style="padding:12px;">
+							<td style="padding:0px;">
 								<time id="time">
 									<time datetime="{{ page.date | date_to_xmlschema }}"  style="margin-right:10px;font-size:.7em;padding:12px;">
 										{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
@@ -43,14 +44,14 @@ autor: CAPeñarol
 									</time>
 								</time>
 							</td>
-							<td style="padding:12px;">
+							<td style="padding:0px;">
 								<span id="span" itemprop="author" itemscope itemtype="http://schema.org/Person">
 									{% if post.author %}
 										<i class="glyphicon glyphicon-user" style="color:#fd5206;font-size:0.9em;"><span> </span></i> <span><span itemprop="name" style="margin-right:10px;font-size:0.7em;">{{ post.author }}</span></span>
 									{% endif %}
 								</span>
 							</td>
-							<td style="color:#000;background:yellow;padding:12px;">
+							<td style="color:#000;background:yellow;padding:0px;">
 								<span id="span">
 									{% if post.tiempo_de_lectura %}
 										<i class="glyphicon glyphicon-time" style="color:#fd5206;font-size:0.9em;"></i><span> </span> <span style="font-size:0.7em;"> lectura:
@@ -108,7 +109,7 @@ autor: CAPeñarol
     </li>
   </ul>
 </div>
-
+</div>
 {% endfor %}
 
 
