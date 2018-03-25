@@ -16,7 +16,7 @@ author: CAPeñarol
 d"><center> Último Partido </center></span><br>
 <div id="today-update">
   <center>
-   <img src="{{ site.url }}/images/188.gif" width="55px" style="display:inline block;"><span style="font-size:2.0em;"> 0 - 3 </span><img src="{{ site.url }}/images/98.gif" width="55px" style="display:inline block;">
+   <img src="{{ site.url }}/images/955.gif" width="55px" style="display:inline block;"><span style="font-size:2.0em;"> 0 - 2 </span><img src="{{ site.url }}/images/98.gif" width="55px" style="display:inline block;">
   </center>
 </div>
 
