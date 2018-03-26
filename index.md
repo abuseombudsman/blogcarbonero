@@ -30,7 +30,7 @@ d"><center> Último Partido </center></span><br>
 <br><br>
 
 {% for post in site.posts limit:3 %}
-<span style="border:solid 2px yellow;background:#000;color:yellow;margin-top:150px;">CAPeñarol.CF</span>
+
 <table class="table table-bordered table-striped table-responsive" style="background:yellow;color:#5a4343;">
   <thead style="color:#fff;font-weight:900;">
     <tr>
