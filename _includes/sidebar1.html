@@ -8,7 +8,7 @@
 					<ul>
 					  {% for post in site.posts limit:10 %}
 					    <li>
-							<span style="font-family:fantasy;font-style:italic;color:yellow;font-size:0.6em;" class="rounded">{{ post.date | date: "%B %e, %Y" }}</span> &raquo;
+							<span style="font-family:monospace;font-style:italic;color:yellow;font-size:1.0em;" class="rounded">{{ post.date | date: "%B %e, %Y" }}</span> &raquo;
 							<p class="tags"><a tabindex="-1" href="{{ post.url }}"><span style="color:lightsteelblue;<!--#dcb208-->width:180;">{{ post.title }}</a></p>
 						</li>
 					  {% endfor %}

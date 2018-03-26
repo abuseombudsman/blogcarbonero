@@ -9,9 +9,6 @@ author: CAPeñarol
 ---
 
 <h1 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;font-size:1.8em;margin-top:20px;margin-bottom:20px;" class="rounded"> Noticias</h1>
-<br>
-<br>
-
 Resúmenes de noticias/información del Club Atlético Peñarol aparecidas en los medios de prensa. Cada noticia está linkiada a la página de origen de la noticia.
 <br>
 <br>
@@ -27,7 +24,7 @@ Resúmenes de noticias/información del Club Atlético Peñarol aparecidas en lo
 							<!--<th id="row">-->
 								<!--<th style="color:yellow;background:#000;">-->
 									
-										<h3><a href="{{ post.url }}"><span itemprop="name headline" style="font-family:fantasy;">{{ post.title | escape }}</span></a></h3>
+										<!--<h3><a href="{{ post.url }}"><span itemprop="name headline" style="font-family:fantasy;">{{ post.title | escape }}</span></a></h3>-->
 									
 								<!--</th>-->
 									
@@ -64,13 +61,13 @@ Resúmenes de noticias/información del Club Atlético Peñarol aparecidas en lo
 									{% endif %}
 								</span>
 							</td>
-							<td style="color:#fff;background:green;padding:0px;">
+							<td style="color:#fff;background:red;padding:0px;">
                                                         	<span>{{ post.fuente }}</span>
                                                 	</td>
 						</p>
 					</tr>
 					
-					<span><i class="fa fa-link" style="color:red;font-size:1.3em;"></i> <a href="{{ post.linkurl }}">{{ post.linktitle }}</a></span>
+					<span style="border:solid 2px red;"><i class="fa fa-link" style="color:red;font-size:1.3em;"></i> <a href="{{ post.linkurl }}">{{ post.linktitle }}</a></span>
 					<br>
 					<br>
 					
@@ -79,7 +76,7 @@ Resúmenes de noticias/información del Club Atlético Peñarol aparecidas en lo
     </table>
 
 
-<div class="row-fluid">
+<div class="row-fluid" style="margin-bottom:150px;">
 
   <ul class="thumbnails">
     <li class="span12">
@@ -90,9 +87,12 @@ Resúmenes de noticias/información del Club Atlético Peñarol aparecidas en lo
 	  
 	    </center>
         <div class="caption">
-		  <p>
+	<header class="post-header">
+          <h3><a href="{{ post.url }}"><span itemprop="name headline" style="font-family:monospace;">{{ post.title | escape }}</span></a></h3>	  
+          <p style="monospace;">
 	        {{ post.description }}
           </p>
+        </header>
 		  {% if fuente %}
 			<p>Origen: {{ fuente }}</p><span style="font-size:1,4em;float:right"><i class="fa fa-globe"></i> Noticias</span>
 		  {% endif %}

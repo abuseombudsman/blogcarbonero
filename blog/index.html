@@ -22,7 +22,7 @@ autor: CAPeñarol
 							<!--<th id="row">-->
 								<!--<th style="color:yellow;background:#000;">-->
 									
-										<h3><a href="{{ post.url }}"><span itemprop="name headline" style="font-family:fantasy;">{{ post.title | escape }}</span></a></h3>
+										<!--<h3><a href="{{ post.url }}"><span itemprop="name headline" style="font-family:fantasy;">{{ post.title | escape }}</span></a></h3>-->
 									
 								<!--</th>-->
 									
@@ -84,7 +84,7 @@ autor: CAPeñarol
   </header>
   -->
 
-<div class="row-fluid">
+<div class="row-fluid" style="margin-bottom:150px;">
 
   <ul class="thumbnails">
     <li class="span12">
@@ -95,9 +95,12 @@ autor: CAPeñarol
 	  
 	    </center>
         <div class="caption">
-		  <p>
+	<header class="post-header">  
+          <h3><a href="{{ post.url }}"><span itemprop="name headline" style="font-family:monospace;">{{ post.title | escape }}</span></a></h3>	  
+          <p style="font-family:monospace;">
 	        {{ post.description }}
           </p>
+        </header>
 		  {% if fuente %}
 			<p>Origen: {{ fuente }}</p><span style="font-size:1,4em;float:right"><i class="fa fa-globe"></i> Noticias</span>
 		  {% endif %}

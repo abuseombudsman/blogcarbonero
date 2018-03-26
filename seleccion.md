@@ -1,18 +1,18 @@
 ---
 layout: PlantillaSinCarousel
-title: "Contenido: Libertadores"
-name: libertadores
-description: Contenido que responde al tema libertadores
-tags: libertadores
+title: "Contenido: Selección Uruguaya"
+name: seleccion
+description: Contenido que responde al tema selección uruguaya
+tags: selección
 author: CAPeñarol
 ---
 
-<h1 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;font-size:1.8em;margin-top:20px;margin-bottom:20px;" class="rounded"> Contenido: Libertadores</h1>
+<h1 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;font-size:1.8em;margin-top:20px;margin-bottom:20px;" class="rounded"> Contenido: Selección Uruguaya</h1>
 <br>
 <br>
 
 <ul>
-{% for post in site.categories.libertadores %}
+{% for post in site.categories.seleccion %}
 	<table class="table table-bordered table-striped table-responsive">
 		<header class="post-header">
 			<thead style="color:yellow;background:#000;font-weight:900;">
@@ -77,8 +77,8 @@ author: CAPeñarol
 	  
 	    </center>
         <div class="caption">
-	<header class="post-header">	  
-          <h3><a href="{{ post.url }}"><span itemprop="name headline" style="font-family:monospace;">{{ post.title | escape }}</span></a></h3>
+	<header class="post-header">
+          <h3><a href="{{ post.url }}"><span itemprop="name headline" style="font-family:monospace;">{{ post.title | escape }}</span></a></h3>	  
           <p style="font-family:monospace;">
 	        {{ post.description }}
           </p>

@@ -28,19 +28,21 @@ d"><center> Último Partido </center></span><br>
 <!--<h3 style="font-family:fantasy;font-weight:900;"><a href="{{ site.url }}/conferencias/conferencia-de-prensa-fecha-no-2-apertura-2018-peñarol-4-1-river-ramos-gargano-giovani">Conferencia de prensa Campeonato Apertura 2018, fecha: No 2, Peñarol 4-1 River</a></h3>-->
 <!--<a href="{{ site.url }}/conferencias/conferencia-de-prensa-fecha-no-2-apertura-2018-peñarol-4-1-river-ramos-gargano-giovani"><img src="https://i.imgur.com/LcpKBJ7.jpg" width="130px;" style="margin-right:15px;"><img src="https://i.imgur.com/hFSfsqG.jpg" width="130px;" style="margin-right:15px;"><img src="https://i.imgur.com/Q90UrTe.jpg" width="130px"></a>-->
 <br><br>
+
 {% for post in site.posts limit:3 %}
+<span style="border:solid 2px yellow;background:#000;color:yellow;margin-top:150px;">CAPeñarol.CF</span>
 <table class="table table-bordered table-striped table-responsive" style="background:yellow;color:#5a4343;">
   <thead style="color:#fff;font-weight:900;">
     <tr>
     <!-- <th style="font-family:fantasy;font-style:italic;color:#000;background:yellow;"padding:12px;>--><th style="padding:12px;"><h4 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;" class="rounded"><i class="fa fa-globe"></i>Noticias del CAPeñarol<sup>&reg;</sup></h4></th><!--</th>                            -->
     </tr>
   </thead>
-  <tbody style="background:#000;">
+  <tbody style="background:#000;margin-bottom:150px;">
     <tr>
-      <td style="padding:12px;background:#000;"><a href="{{ site.url }}/{{ post.url }}" ><span><h3 style="font-family:fantasy;font-weight:900;">{{ post.title }}</h3></span></a></td>
+      <td style="padding:12px;background:#000;"><a href="{{ site.url }}/{{ post.url }}" ><span><h3 style="font-family:monospace;font-weight:900;">{{ post.title }}</h3></span></a></td>
     </tr>
 	<tr>
-      <td style="padding:12px;background:stillightblue;"><a href="{{ site.url }}/{{ post.url }}" style="color:#5a4343;"><span>{{ post.description }}</span></a></td>
+      <td style="padding:12px;background:stillightblue;"><a href="{{ site.url }}/{{ post.url }}" style="color:#5a4343;"><span style="font-family:monospace;font-size:1.2em;">{{ post.description }}</span></a></td>
     </tr>
 	<tr>
 	  <!--<td style="padding:12px;"><a href="{{ post.image1 }}"><span>{{ post.image1 }}</span></a></td>-->
@@ -343,3 +345,4 @@ d"><center> Último Partido </center></span><br>
 	{% endif %}
   
 {% endfor %}
+<span style="border:solid 2px yellow;background:#000;color:yellow;margin-top:150px;">CAPeñarol.CF</span>

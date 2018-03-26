@@ -22,7 +22,7 @@ author: CAPeñarol
 							<!--<th id="row">-->
 								<!--<th style="color:yellow;background:#000;">-->
 									
-										<h3><a href="{{ post.url }}"><span itemprop="name headline" style="font-family:fantasy;">{{ post.title | escape }}</span></a></h3>
+										<!--<h3><a href="{{ post.url }}"><span itemprop="name headline" style="font-family:fantasy;">{{ post.title | escape }}</span></a></h3>-->
 									
 								<!--</th>-->
 									
@@ -35,7 +35,7 @@ author: CAPeñarol
 				
 					<tr>
 						<p class="post-meta">
-							<td>
+							<td style="padding:0px;">
 								<time id="time">
 									<time datetime="{{ page.date | date_to_xmlschema }}"  style="margin-right:10px;">
 										{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
@@ -44,14 +44,14 @@ author: CAPeñarol
 									</time>
 								</time>
 							</td>
-							<td>
+							<td style="padding:0px;">
 								<span id="span" itemprop="author" itemscope itemtype="http://schema.org/Person">
 									{% if post.author %}
 										<i class="glyphicon glyphicon-user" style="color:#fd5206;font-size:0.9em;"><span> </span></i> <span><span itemprop="name" style="margin-right:10px;">{{ post.author }}</span></span>
 									{% endif %}
 								</span>
 							</td>
-							<td style="color:#000;background:yellow;">
+							<td style="color:#000;background:yellow;padding:0px;">
 								<span id="span">
 									{% if post.tiempo_de_lectura %}
 										<i class="glyphicon glyphicon-time" style="color:#fd5206;font-size:0.9em;"></i><span> </span> <span> lectura:
@@ -66,7 +66,7 @@ author: CAPeñarol
     </table>
 
 
-<div class="row-fluid">
+<div class="row-fluid" style="margin-bottom:150px;">
 
   <ul class="thumbnails">
     <li class="span12">
@@ -77,9 +77,12 @@ author: CAPeñarol
 	  
 	    </center>
         <div class="caption">
-		  <p>
+        <header class="post-header">
+          <h3><a href="{{ post.url }}"><span itemprop="name headline" style="font-family:monospace;">{{ post.title | escape }}</span></a></h3>
+          <p style="font-family="monospace;">
 	        {{ post.description }}
           </p>
+        </header>
 		  {% if fuente %}
 			<p>Origen: {{ fuente }}</p><span style="font-size:1,4em;float:right"><i class="fa fa-globe"></i> Noticias</span>
 		  {% endif %}
