@@ -12,13 +12,12 @@ author: CAPeñarol
 <!--<h3 style="font-family:fantasy;font-weight:900;">Calendario - febrero - 2018</h3>
 <img src="http://i.imgur.com/FPIKDWs.jpg" width="420px">
 <br><br>-->
-<span style="font-family:fantasy;font-style:italic;color:yellow;<!--background:#5a5a5a;-->font-size:0.6em;margin-bottom:5px;" class="rounde
-d"><center> Último Partido </center></span><br>
+<span style="font-family:fantasy;font-style:italic;color:yellow;<!--background:#5a5a5a;-->font-size:0.6em;margin-bottom:5px;" class="rounded"><center> Ultimo Partido </center></span><br>
 <div id="today-update">
   <center>
-   <img src="{{ site.url }}/images/955.gif" width="55px" style="display:inline block;"><span style="font-size:2.0em;"> 0 - 2 </span><img src="{{ site.url }}/images/98.gif" width="55px" style="display:inline block;">
+   <img src="{{ site.url }}/images/98.gif" width="55px" style="display:inline block;"><span style="font-size:2.0em;"> 1 - 1 </span><img src="{{ site.url }}/images/72.gif" width="55px" style="display:inline block;">
   </center>
-</div>
+</div O=>
 
 <!--<h4><span style="color:#fd5206;text-decoration:underline;font-size:0.5em;">Domingo 11: </span><center><span style="font-family:monospace;font-size:0.7em;color:lightsteelblue;"><img src="{{ site.url }}/images/98.gif" width="30px"> PEÑ 2-1 LIV <img src="{{ site.url }}/images/191.gif" width="30px"></span></center></h4>
 <br>-->

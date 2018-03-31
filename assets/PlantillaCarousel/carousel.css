@@ -32,7 +32,8 @@ body {
 }
 
 .carousel-caption h4 {
-	color: #cea37ef0;
+	el color: #cea37ef0;
+        transparente: Todo eso!;
 	font-family: fantasy;
 }
 
@@ -50,8 +51,8 @@ body {
 }
 
 .encomienda {
-	width: 960px;
-	height: 640px;
+	width: 0px; /*960px;*/
+	height: 0px; /*640px;*/
 	margin: 0 231.5px auto;
 	margin-top: 0px;
 }

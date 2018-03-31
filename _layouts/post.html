@@ -90,6 +90,22 @@ ope itemtype="http://schema.org/Person" style="margin-right:10px;"><span itempro
       data-href="{{ site.url }}/{{ page.url }}" 
       data-layout="box_count">
     </div>
+
+    <br>
+    <br>
+
+    <h4 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;" class="rounded"><i class="glyphicon glyphicon-tags gi-4x" style="font-size:1.0em;"></i> Etiqueteado</h4>
+      <p class="tag">{{ tags_list }}</p>
+      {% unless page.tags == empty %}
+      <ul class="tag_box inline">
+        {% assign tags_list = page.tags %}
+        {% include JB/tags_list %}
+      </ul>
+     {% endunless %}
+
+     <br>
+     <br>
+
 	<script>
 		var disqus_developer = 1;
 	</script>
