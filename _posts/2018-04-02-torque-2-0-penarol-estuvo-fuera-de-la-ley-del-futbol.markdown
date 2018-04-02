@@ -26,9 +26,10 @@ Seamos realistas si no fuera por el argentino de Torque que mostrò condiciones 
 
 Peñar®l, reitero no debe jamás entrar en el juego de la ley de Garcíán porque todos los focos están en la mira de Peñar®l y queda mal, lo que debe Peñar®l hacer es tocar el tema con el árbitro como para ponerlo observador de nuestro lado. Por ejemplo me golpiò uno con la aguja dentro del cuerpo y vi a dos más que están haciendo lo mismo e listo, dedicarse despu]es del sofocon con todo al plano futbolistico y machacarle el arco rival y demostrar ganando en el plano futbolistico y no rebajarse al plano extradeportivo del mamarracho de ejemplo para grandes y chicos. Las agujas malignas fueron introducidas por Carlos Salvador Bilardo en el Estudiante de la Plata de Zubeldía, nada más que ahora la decoraron en el Campeonato Uruguayo un poco más negra, Torque y ayer River (Mdeo). Pertenece a la escuela del antifútbol, Garcíán. Que porquería!
 
-En esta advertencia a TODO Peñar®l digo dedicarse a vencer el arco de enfrente con fútbol, tocar si el tema con el juez para advertirlo y protegerse, y no darle importancia que al fin y al cabo nadie ha muerto de eso, más a mi favor: jugar al fútbol y acabarla, cortarla de una vez por todas sino nos aniquilamos todos y no tendrá fin.
+En esta advertencia a TODO Peñar®l digo dedicarse a vencer el arco de enfrente con fútbol, tocar sí el tema con el juez para advertirlo y protegerse, y no darle importancia que al fin y al cabo nadie ha muerto de eso, más a mi favor: jugar al fútbol y acabarla, cortarla de una vez por todas sino nos aniquilamos todos y no tendrá fin.
 
 <br>
 
 <span style="color:yellow;font-size:1.8em;font-family:monospace;font-weight:400;border:5px solid yellow;">CAPeñar®l.CF</span>
+
 
