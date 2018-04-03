@@ -15,7 +15,7 @@ author: CAPeñarol
 <span style="font-family:fantasy;font-style:italic;color:yellow;<!--background:#5a5a5a;-->font-size:0.6em;margin-bottom:5px;" class="rounded"><center> Ultimo Partido </center></span><br>
 <div id="today-update">
   <center>
-   <img src="{{ site.url }}/images/98.gif" width="55px" style="display:inline block;"><span style="font-size:2.0em;"> 1 - 1 </span><img src="{{ site.url }}/images/72.gif" width="55px" style="display:inline block;">
+   <img src="{{ site.url }}/images/4043.gif" width="55px" style="display:inline block;"><span style="font-size:2.0em;"> 2 - 0 </span><img src="{{ site.url }}/images/98.gif" width="55px" style="display:inline block;">
   </center>
 </div>
 
