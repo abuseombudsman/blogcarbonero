@@ -1,28 +1,22 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="CAPeñarol">
-	<meta name="description" content="{{ page.excerpt | default: page.description | strip_html | normalize_whitespace | truncate: 160 }}">
+    <meta name="author" content="CAPeñarol.CF">
 	<meta name="keywords" content="{% if page.tags %}{{ page.tags }}{% endif %}">
         <link rel="icon" href="{{ site.url }}/images/g829.png">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-
-    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-    
-	<!-- Default CSS -->
+    <!-- Default CSS -->
 	<link href="{{ site.url }}/assets/css/default.css" rel="stylesheet" type="text/css" media="screen" />
     <!-- Bootstrap core CSS -->
 	<link href="{{ site.url }}/assets/css/bootstrap.css" rel="stylesheet" media="screen">
-    <link href="{{ site.url }}/assets/PlantillaCarousel/bootstrap.min.css" rel="stylesheet">
-	
-	<!--  Fontawesome.min.css  -->
+        <link href="{{ site.url }}/assets/PlantillaCarousel/bootstrap.min.css" rel="stylesheet">
+    <!--  Fontawesome.min.css  -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <!-- Custom styles for this template -->
     <link href="{{ site.url }}/assets/PlantillaCarousel/carousel.css" rel="stylesheet">
-	<style>
+    <style>
 	.locomotora {
 		background: url({{ url.site }}/images/locomotora3.png) no-repeat top center;
 		height: 72px;

@@ -11,14 +11,15 @@ author: "Club Atlético Peñar®l"
 comments: true
 ---
 
-<img src="https://i.imgur.com/pC5Emjb.png" width="800px">
+<img src="https://i.imgur.com/pC5Emjb.png" width="800px" ALT="Estadio CDS - Jueves 5/4 2018 - Copa Libertadores - Peñarol vs Atlético Tucumán">
 
 <br>
 
 Peñarol va ésta noche por los tres puntos ante Atl Tucumán en el estadio CDS por Libertadores. Atl Tucumán después de perder su partido ante Libertad de Paraguay en el debut, cambiò de técnico y desde entonces jugò 2 partidos: le empatò a Boca 1-1 en Tucumán y venciò a Independiente en Avellaneda por 0-2. Presumimos que Peñarol deba tener suma paciencia a la hora de cargar contra la valla del Atl Tucumán ya que es un equipo rápido de contra.
 
-La transmiciòn comienza 00:00 CET. Para ver el evento se necesita el acestream player y la extensiòn ace script instalado en el browser. La aplicaciòn la podés bajar del sitio de<a href="//acestream.org">acestream</a> y el plugin para el navegador ace-script se puede bajar de <a href="//awe.acestream.me">aquí</a>
+La transmiciòn comienza 00:00 CET. Para ver el evento se necesita el acestream player y la extensiòn ace script instalado en el browser. La aplicaciòn la podés bajar del sitio de <a href="//acestream.org">acestream</a> y el plugin para el navegador ace-script se puede bajar de <a href="//awe.acestream.me">aquí</a>
 
 <br>
 
-<iframe src="http://torrentstream.org/embed/81045753472790fac4d3ed6145f0410ed17f2e53" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
+<iframe src="http://avod.me/play/81045753472790fac4d3ed6145f0410ed17f2e53" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
+
