@@ -4,7 +4,7 @@ title: "Peñarol vs Atlético Tucumán en directo y en línea por Copa Libertado
 name: 2018-04-04-penarol-vs-atletico-tucuman-en-directo-y-en-linea-por-copa-libertadores
 categories: "futbol libertadores"
 image1: https://i.imgur.com/pC5Emjb.png
-tags: "Peñarol Atlético Tucumán Libertadores 2018"
+tags: "Peñarol, Atlético Tucumán, Libertadores, 2018, en línea, online, en directo, HD, acestream"
 date: "2018-04-04 7:00:00 +01:00:00"
 description: "El carbonero va por los tres puntos ante Atlético Tucumán ésta noche por Copa Libertadores, segui la transmiciòn en vivo online en HD. Para ver el evento se necesita el acestream player y la extensiòn ace script instalado en el browser"
 author: "Club Atlético Peñar®l"
