@@ -28,14 +28,14 @@ author: CAPeñarol
 <!--<a href="{{ site.url }}/conferencias/conferencia-de-prensa-fecha-no-2-apertura-2018-peñarol-4-1-river-ramos-gargano-giovani"><img src="https://i.imgur.com/LcpKBJ7.jpg" width="130px;" style="margin-right:15px;"><img src="https://i.imgur.com/hFSfsqG.jpg" width="130px;" style="margin-right:15px;"><img src="https://i.imgur.com/Q90UrTe.jpg" width="130px"></a>-->
 <br><br>
 
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:5 %}
 
 <table class="table table-bordered table-striped table-responsive" style="background:yellow;color:#5a4343;">
-  <thead style="color:#fff;font-weight:900;">
-    <tr>
+  <!--<thead style="color:#fff;font-weight:900;">
+    <tr>-->
     <!-- <th style="font-family:fantasy;font-style:italic;color:#000;background:yellow;"padding:12px;>--><th style="padding:12px;"><h4 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;" class="rounded"><i class="fa fa-globe"></i>Sacecitos del CAPeñarol<sup>&reg;</sup></h4></th><!--</th>                            -->
-    </tr>
-  </thead>
+    <!--</tr>-->
+  <!--</thead>-->
   <tbody style="background:#000;margin-bottom:150px;">
    <div id="noticia" style="display:inline block;">
     <headline class="encabezado-de-noticia" style="display:inline block;">
@@ -349,4 +349,4 @@ author: CAPeñarol
 	{% endif %}
   
 {% endfor %}
-<span style="border:solid 2px yellow;background:#000;color:yellow;margin-top:150px;">CAPeñarol.CF</span>
+<span style="border:solid 2px yellow;background:#000;color:yellow;margin-top:150px;">CAPeñarol.CF</span>-->

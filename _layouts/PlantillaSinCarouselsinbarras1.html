@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : Gestured
+Description: A three-column, fixed-width blog design.
+Version    : 1.0
+Released   : 20091004
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es_UY">
+
+{% include encabezado1.html %}
+
+    <body style="background-color:#000;"> <!--#bfaf79-->
+
+          
+        <div id="sponsors">
+            {% include sponsors.html %}
+        </div>
+          
+
+                                <!-- start wrapper -->
+                                <div id="wrapper" style="margin-top:90px;">
+
+                                        {% include menuvertical.html %}
+
+                                                <!-- start header -->
+                                                <div id="header" class="col-xs-10">
+
+                                                  {% include menu1.html %}
+
+												</div>
+                                                <!-- end header -->
+												
+										<!-- MAIN! -->
+											<main role="main">
+												
+						                        <!-- start page -->
+                                                        <div id="page" style="margin:0 478px auto;">
+
+                                                                <!-- start content -->
+                                                                <div id="content" style="width:860px;padding:55px 8px 15px 71px;margin-left:0 0 auto;margin-right:0 0 auto;">
+
+                                                                        {{ content }}
+
+                                                                </div>
+                                                                <!-- end content -->                                                              
+
+                                                                <div style="clear: both;">&nbsp;</div>
+                                                        </div>
+                                                <!-- end page -->
+									    
+											</main>
+							
+                                </div>
+                              <!-- end wrapper -->
+                            <div id="footer">
+                                {% include footer.html %}
+							</div>
+							
+							<!-- Bootstrap core JavaScript
+                            ================================================== --> 
+                            <!-- Placed at the end of the document so the pages load faster -->
+                            <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+                            <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/PlantillaCarousel/jquery-3.3.1.min.js"><\/script>')</script>
+                            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+                            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+
+	</body>
+</html>

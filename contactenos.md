@@ -6,7 +6,12 @@ description: "Peñarol te necesita, si querès ayudarlo trabajando en tu tiempo 
 tags: CAPearol.CF Peñarol capeniarol.cf@gmail.com
 author: CAPeñaro.CFl
 ---
-<h1 style="font-family:fantasy;">capeniarol.cf@gmail.com</h1>
+
+<br>
+
+<center>
+<h2 style="font-family:fantasy;">capeniarol.cf@gmail.com</h2>
+</center>
 
 <br>
 
