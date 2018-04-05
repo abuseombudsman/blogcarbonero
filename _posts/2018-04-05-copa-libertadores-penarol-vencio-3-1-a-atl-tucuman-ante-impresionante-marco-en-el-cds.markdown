@@ -1,7 +1,7 @@
 ---
 layout: post
-name: 2018-04-05-penarol-gano-3-1-a-atl-tucuman-ante-impresionante-marco-en-el-cds
-title: "Peñarol ganó 3-1 a Atl Tucumán ante impresionante marco en el CDS"
+name: 2018-04-05-copa-libertadores-penarol-vencio-3-1-a-atl-tucuman-ante-impresionante-marco-en-el-cds
+title: "Copa Libertadores: Peñarol venció 3-1 a Atl Tucumán ante impresionante marco en el CDS"
 description: "El plantel de Peñarol se midió con Atl Tucumán por la Copa Libertadores ante un marco espectacular de público en donde se desplegó la bandera gigante anoche en el CDS. Esta vez el carbonero mostró contundencia sobre el arco rival, venció claramente por un 3-1."
 tags: Peñarol Atlético Tucumán Libertadores 2018 CDS bandera gigante
 categories: futbol libertadores
