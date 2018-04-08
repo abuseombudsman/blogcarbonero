@@ -21,12 +21,4 @@ La transmiciòn comienza 00:00 CET. Para ver el evento se necesita el acestream 
 
 <br>
 
-<iframe src="http://acestream.org/embed/13df9c2f92d266cf847178a3818503af84acb9bc?autoplay=1" width="1280" height="720" />
-
-<iframe src="http://torrentstream.org/embed/fc3d3fbf805f6886c7cddb8279048be4b28f85d6" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
-
-<iframe src="http://torrentstream.org/embed/bfb2eb1447e34976af5810cc2798a3f057f8d9b8" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
-
-<iframe src="http://acestream.org/embed/fc3d3fbf805f6886c7cddb8279048be4b28f85d6 style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"/>
-<iframe src="http://avod.me/play/81045753472790fac4d3ed6145f0410ed17f2e53" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
-
+<iframe src="http://torrentstream.org/embed/ef9ae44ce6aa2702d3aa1b1eb90509e6ac983c1b" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
