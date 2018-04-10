@@ -1,5 +1,5 @@
 ---
-layout: PlantillaSinCarouselsinbarras
+layout: PlantillaSinCarouselconbarras
 title: Lista de Entradas
 name: entradas
 author: CAPeñarol.CF
@@ -15,7 +15,7 @@ Esta es una lista de entradas de posteos de nuestro sitio:
   <h1 class="title"><a href="{{ post.url }}"><span>{{ post.title }}</span></a></h1>
   <p class="byline">Posted on  by <a href="http://xn--capearol-g3a.cf" rel="nofollow">CAPeñarol.CF<img src="{{ site.url }}/images/user.png" width="20px" style="vertical-align:-5px;margin-left:5px;"></a></p>
   <div class="entry">
-   <p><img src="{{ post.image1 }}" class="img left" width="250px" style="margin-right:10px;margin-bottom:10px;"><span>{{ post.description }}</span></p>
+   <p><img src="{{ post.image1 }}" class="img left" width="150px" style="margin-right:10px;margin-bottom:10px;"><span>{{ post.description }}</span></p>
    <p class="links"><a href="{{ post.url }}" class="more"><button type="button" class="btn btn-mini btn-secondary">leer más</button></a></p>
 
 <br>
