@@ -12,7 +12,7 @@ tiempo_de_lectura: "1:00 min"
 image1: https://i.imgur.com/OCBo25z.png
 ---
 
-<img src="https://i.imgur.com/OCBo25z.png" width="600px">
+<center><img src="https://i.imgur.com/OCBo25z.png" width="600px"></center>
 
 <br>
 <br>

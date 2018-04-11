@@ -12,10 +12,10 @@ comments: true
 tiempo_de_lectura: "2:00 min"
 ---
 
-Catino no está de acuerdo en la fijación del Estadio Centenario para el clásico que se viene en poco menos de dos semanas. El vicepresidente aurinegro alega que se hizo todo lo que ordenó la comisión anti-disturbios y más. Así y todo se sigue considerando que es un partido de demasiados riesgos como para jugarlo en el CDS o el Gran Parque Central. Nuestra solución, Catino, es que se juegue sin público visitante tanto en el CDS como en el Parque Central, así estaríamos eliminando el riesgo de un enfrentamiento entre las dos hinchadas.
+Catino no está de acuerdo en la fijación del Estadio Centenario para el clásico que se viene en poco menos de dos semanas. El vicepresidente aurinegro alega que se hizo todo lo que ordenó la comisión anti-disturbios y más. Así y todo se sigue considerando que es un partido de demasiados riesgos como para jugarlo en el CDS o el Gran Parque Central. Nuestra solución, Catino, es que se juegue sin público visitante tanto en el CDS como en el Parque Central, así estaríamos eliminando el riesgo de un enfrentamiento de las dos hinchadas.
 
 Sobre el futuro de Peñarol comento que está con vida en las dos competiciones que participa luego del triunfo ante Rampla Jrs.
 
 <br>
 
-<iframe></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/sSRy7wcSSZk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
