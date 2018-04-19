@@ -1,5 +1,5 @@
 ---
-layout: PlantillaCarousel
+layout: PlantillaSinCarouselconbarras
 title: Inicio
 name: inicio
 description: La casa del Club Atlético Peñarol, página de inicio
@@ -36,7 +36,7 @@ author: CAPeñarol
     <!-- <th style="font-family:fantasy;font-style:italic;color:#000;background:yellow;"padding:12px;>--><th style="padding:12px;"><h4 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;" class="rounded"><i class="fa fa-globe"></i>Sacecitos del CAPeñarol<sup>&reg;</sup></h4></th><!--</th>                            -->
     <!--</tr>-->
   <!--</thead>-->
-  <tbody style="background:#000;margin-bottom:150px;">
+  <tbody style="background:#000;margin-bottom:70px;margin-top:70px;">
    <div id="noticia" style="display:inline block;">
     <headline class="encabezado-de-noticia" style="display:inline block;">
      <tr>
