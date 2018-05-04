@@ -11,14 +11,14 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   id="svg2"
-   width="921.59998"
-   height="650.88"
-   viewBox="0 0 921.59998 650.88"
+   id="svg843"
+   width="599.41272"
+   height="678"
+   viewBox="0 0 599.41272 678"
    sodipodi:docname="img03.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <metadata
-     id="metadata8">
+     id="metadata849">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -30,423 +30,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6">
-    <filter
-       inkscape:label="Metallized Paint"
-       inkscape:menu="Materials"
-       inkscape:menu-tooltip="Metallized effect with a soft lighting, slightly translucent at the edges"
-       style="color-interpolation-filters:sRGB;"
-       id="filter4513">
-      <feGaussianBlur
-         stdDeviation="1"
-         result="result1"
-         id="feGaussianBlur4487" />
-      <feComposite
-         in="result1"
-         in2="result1"
-         result="result4"
-         operator="in"
-         id="feComposite4489" />
-      <feBlend
-         in="result1"
-         mode="screen"
-         result="result5"
-         in2="result4"
-         id="feBlend4491" />
-      <feGaussianBlur
-         stdDeviation="8"
-         result="result6"
-         in="result5"
-         id="feGaussianBlur4493" />
-      <feComposite
-         operator="atop"
-         in="result6"
-         in2="result5"
-         result="result8"
-         id="feComposite4495" />
-      <feComposite
-         operator="in"
-         result="fbSourceGraphic"
-         in="result6"
-         in2="result8"
-         id="feComposite4497" />
-      <feGaussianBlur
-         result="result0"
-         in="fbSourceGraphic"
-         stdDeviation="2.5"
-         id="feGaussianBlur4499" />
-      <feSpecularLighting
-         specularExponent="45"
-         specularConstant="1.5"
-         surfaceScale="1"
-         lighting-color="rgb(255,255,255)"
-         result="result1"
-         in="result0"
-         id="feSpecularLighting4503">
-        <fePointLight
-           z="21000"
-           y="-9000"
-           x="-6000"
-           id="fePointLight4501" />
-      </feSpecularLighting>
-      <feComposite
-         operator="in"
-         result="result2"
-         in="result1"
-         in2="fbSourceGraphic"
-         id="feComposite4505" />
-      <feComposite
-         k3="1"
-         k2="1"
-         operator="arithmetic"
-         result="result4"
-         in="fbSourceGraphic"
-         in2="result2"
-         id="feComposite4507" />
-      <feComposite
-         operator="in"
-         in2="result4"
-         result="result91"
-         id="feComposite4509"
-         in="result9" />
-      <feBlend
-         mode="multiply"
-         in2="result91"
-         id="feBlend4511"
-         result="fbSourceGraphic" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix4515" />
-      <feGaussianBlur
-         id="feGaussianBlur4517"
-         stdDeviation="1"
-         result="result1"
-         in="fbSourceGraphic" />
-      <feComposite
-         in2="result1"
-         id="feComposite4519"
-         in="result1"
-         result="result4"
-         operator="in" />
-      <feBlend
-         in2="result4"
-         id="feBlend4521"
-         in="result1"
-         mode="screen"
-         result="result5" />
-      <feGaussianBlur
-         id="feGaussianBlur4523"
-         stdDeviation="8"
-         result="result6"
-         in="result5" />
-      <feComposite
-         in2="result5"
-         id="feComposite4525"
-         operator="atop"
-         in="result6"
-         result="result8" />
-      <feComposite
-         in2="result8"
-         id="feComposite4527"
-         operator="in"
-         result="fbSourceGraphic"
-         in="result6" />
-      <feGaussianBlur
-         id="feGaussianBlur4529"
-         result="result0"
-         in="fbSourceGraphic"
-         stdDeviation="2.5" />
-      <feSpecularLighting
-         id="feSpecularLighting4531"
-         specularExponent="45"
-         specularConstant="1.5"
-         surfaceScale="1"
-         lighting-color="rgb(255,255,255)"
-         result="result1"
-         in="result0">
-        <fePointLight
-           id="fePointLight4533"
-           z="21000"
-           y="-9000"
-           x="-6000" />
-      </feSpecularLighting>
-      <feComposite
-         in2="fbSourceGraphic"
-         id="feComposite4535"
-         operator="in"
-         result="result2"
-         in="result1" />
-      <feComposite
-         in2="result2"
-         id="feComposite4537"
-         k3="1"
-         k2="1"
-         operator="arithmetic"
-         result="result4"
-         in="fbSourceGraphic" />
-      <feComposite
-         in2="result4"
-         id="feComposite4539"
-         operator="in"
-         result="result91"
-         in="result9" />
-      <feBlend
-         in2="result91"
-         id="feBlend4541"
-         mode="multiply"
-         result="fbSourceGraphic" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix4543" />
-      <feGaussianBlur
-         id="feGaussianBlur4545"
-         stdDeviation="1"
-         result="result1"
-         in="fbSourceGraphic" />
-      <feComposite
-         in2="result1"
-         id="feComposite4547"
-         in="result1"
-         result="result4"
-         operator="in" />
-      <feBlend
-         in2="result4"
-         id="feBlend4549"
-         in="result1"
-         mode="screen"
-         result="result5" />
-      <feGaussianBlur
-         id="feGaussianBlur4551"
-         stdDeviation="8"
-         result="result6"
-         in="result5" />
-      <feComposite
-         in2="result5"
-         id="feComposite4553"
-         operator="atop"
-         in="result6"
-         result="result8" />
-      <feComposite
-         in2="result8"
-         id="feComposite4555"
-         operator="in"
-         result="fbSourceGraphic"
-         in="result6" />
-      <feGaussianBlur
-         id="feGaussianBlur4557"
-         result="result0"
-         in="fbSourceGraphic"
-         stdDeviation="2.5" />
-      <feSpecularLighting
-         id="feSpecularLighting4559"
-         specularExponent="45"
-         specularConstant="1.5"
-         surfaceScale="1"
-         lighting-color="rgb(255,255,255)"
-         result="result1"
-         in="result0">
-        <fePointLight
-           id="fePointLight4561"
-           z="21000"
-           y="-9000"
-           x="-6000" />
-      </feSpecularLighting>
-      <feComposite
-         in2="fbSourceGraphic"
-         id="feComposite4563"
-         operator="in"
-         result="result2"
-         in="result1" />
-      <feComposite
-         in2="result2"
-         id="feComposite4565"
-         k3="1"
-         k2="1"
-         operator="arithmetic"
-         result="result4"
-         in="fbSourceGraphic" />
-      <feComposite
-         in2="result4"
-         id="feComposite4567"
-         operator="in"
-         result="result91"
-         in="result9" />
-      <feBlend
-         in2="result91"
-         id="feBlend4569"
-         mode="multiply"
-         result="fbSourceGraphic" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix4571" />
-      <feGaussianBlur
-         id="feGaussianBlur4573"
-         stdDeviation="1"
-         result="result1"
-         in="fbSourceGraphic" />
-      <feComposite
-         in2="result1"
-         id="feComposite4575"
-         in="result1"
-         result="result4"
-         operator="in" />
-      <feBlend
-         in2="result4"
-         id="feBlend4577"
-         in="result1"
-         mode="screen"
-         result="result5" />
-      <feGaussianBlur
-         id="feGaussianBlur4579"
-         stdDeviation="8"
-         result="result6"
-         in="result5" />
-      <feComposite
-         in2="result5"
-         id="feComposite4581"
-         operator="atop"
-         in="result6"
-         result="result8" />
-      <feComposite
-         in2="result8"
-         id="feComposite4583"
-         operator="in"
-         result="fbSourceGraphic"
-         in="result6" />
-      <feGaussianBlur
-         id="feGaussianBlur4585"
-         result="result0"
-         in="fbSourceGraphic"
-         stdDeviation="2.5" />
-      <feSpecularLighting
-         id="feSpecularLighting4587"
-         specularExponent="45"
-         specularConstant="1.5"
-         surfaceScale="1"
-         lighting-color="rgb(255,255,255)"
-         result="result1"
-         in="result0">
-        <fePointLight
-           id="fePointLight4589"
-           z="21000"
-           y="-9000"
-           x="-6000" />
-      </feSpecularLighting>
-      <feComposite
-         in2="fbSourceGraphic"
-         id="feComposite4591"
-         operator="in"
-         result="result2"
-         in="result1" />
-      <feComposite
-         in2="result2"
-         id="feComposite4593"
-         k3="1"
-         k2="1"
-         operator="arithmetic"
-         result="result4"
-         in="fbSourceGraphic" />
-      <feComposite
-         in2="result4"
-         id="feComposite4595"
-         operator="in"
-         result="result91"
-         in="result9" />
-      <feBlend
-         in2="result91"
-         id="feBlend4597"
-         mode="multiply"
-         result="fbSourceGraphic" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix4599" />
-      <feGaussianBlur
-         id="feGaussianBlur4601"
-         stdDeviation="1"
-         result="result1"
-         in="fbSourceGraphic" />
-      <feComposite
-         in2="result1"
-         id="feComposite4603"
-         in="result1"
-         result="result4"
-         operator="in" />
-      <feBlend
-         in2="result4"
-         id="feBlend4605"
-         in="result1"
-         mode="screen"
-         result="result5" />
-      <feGaussianBlur
-         id="feGaussianBlur4607"
-         stdDeviation="8"
-         result="result6"
-         in="result5" />
-      <feComposite
-         in2="result5"
-         id="feComposite4609"
-         operator="atop"
-         in="result6"
-         result="result8" />
-      <feComposite
-         in2="result8"
-         id="feComposite4611"
-         operator="in"
-         result="fbSourceGraphic"
-         in="result6" />
-      <feGaussianBlur
-         id="feGaussianBlur4613"
-         result="result0"
-         in="fbSourceGraphic"
-         stdDeviation="2.5" />
-      <feSpecularLighting
-         id="feSpecularLighting4615"
-         specularExponent="45"
-         specularConstant="1.5"
-         surfaceScale="1"
-         lighting-color="rgb(255,255,255)"
-         result="result1"
-         in="result0">
-        <fePointLight
-           id="fePointLight4617"
-           z="21000"
-           y="-9000"
-           x="-6000" />
-      </feSpecularLighting>
-      <feComposite
-         in2="fbSourceGraphic"
-         id="feComposite4619"
-         operator="in"
-         result="result2"
-         in="result1" />
-      <feComposite
-         in2="result2"
-         id="feComposite4621"
-         k3="1"
-         k2="1"
-         operator="arithmetic"
-         result="result4"
-         in="fbSourceGraphic" />
-      <feComposite
-         in2="result4"
-         id="feComposite4623"
-         operator="in"
-         result="result91"
-         in="result9" />
-      <feBlend
-         in2="result91"
-         id="feBlend4625"
-         mode="multiply" />
-    </filter>
-  </defs>
+     id="defs847" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -457,24 +41,177 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     id="namedview4"
+     inkscape:window-height="1017"
+     id="namedview845"
      showgrid="false"
-     inkscape:zoom="0.36258603"
-     inkscape:cx="552.95998"
-     inkscape:cy="390.52802"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.2507375"
+     inkscape:cx="480"
+     inkscape:cy="339"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg843" />
   <image
-     sodipodi:absref="C:\Users\La\Downloads\gestured\templated-gestured\images\img03.jpg"
-     xlink:href="img03.jpg"
-     style="filter:url(#filter4513)"
-     y="0"
-     x="0"
-     id="image10"
+     width="599.41272"
+     height="678"
      preserveAspectRatio="none"
-     height="650.88"
-     width="921.59998" />
+     style="opacity:0.6;image-rendering:optimizeQuality"
+     xlink:href="data:image/jpeg;base64,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
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB+gN9oAAAAAKoIAAAAKAoAAAAA
+oAAAAAKAAAAAAAAAAAACAAAAAAgAAICgAIIAAAoAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAB+gN350UAAAAohQKoVAoFFAUAQUAAUAACgUCgAUCgfIFBQAAA
+AASgUCgUAACgUAAAEAAAQABUAEAKoUCoAoAAAAAAACAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAJ+cBf2AAAAAAAAIACgAAAAKIAAoAAAAAAAAAAAAAAAAAAAAAAAIAACCgA
+AAAAAgKAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGewN9
+6AAAAAAAAIoAAAAoAABQKBQUAQAAAAAAAAAAAAAAAAAAABKKUCgAAAACAAAIAAKAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZvzgG+wAAAAAAAUAAAQAAAFAAA
+AAAKBQKBQAUAAAAQAFASgUCgUCgAAAAAAAACAAAoACAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH5BQAAAAAAAAAAUAAAQAFAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAABAAUAABAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAD8gfkEBQAAAUAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAQAAAAEAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfyACAAAoAAAAAAAAAAAAKAA
+AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAKCaAAAAAAAACggAAAAAAAALQAAKBQAAAKBQKAAABQKABQAKBQAAK
+ACAAAAAAAAAAoIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAAAACAoIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAoAAAAAKAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAKAAAAAAAAAAACAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJQKBQKBQKBQKB
+QKBQKBQAAAAUEAAABQAAAAAAAAAAAAAAAAAQAAAAAAAACgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCg
+UCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgA
+gAAAAAAAAAAAKAAAAAAAACgAAAAAAAAAAAAAAAAAgAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAgAAAAAAAAAAAAAKAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAoIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCgAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAoAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAACAUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCg
+UCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgU
+CgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAKCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAgoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAD//2Q==
+"
+     id="image851"
+     x="0"
+     y="0" />
 </svg>
