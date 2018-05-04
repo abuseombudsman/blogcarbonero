@@ -7,7 +7,7 @@ categories: futbol uruguayo apertura imagene
 tags: Peñarol Liverpool 2-1 Apertura 2018
 date: 2018-02-27 22:30:00 +01:00
 image1: https://i.imgur.com/28EIlyo.png
-image2: https://i.imgur.com/NpnTcqT.png
+image: https://i.imgur.com/NpnTcqT.png
 image3: https://i.imgur.com/jF1Ue6C.png
 image4: https://i.imgur.com/7cHOfes.png
 image5: https://i.imgur.com/1eqnofw.png
@@ -52,7 +52,7 @@ author: CAPeñarol
 comments: true
 ---
 
-<div id="carousel" style="margin: 0 -32px auto;">
+<!--<div id="carousel" style="margin: 0 -32px auto;">
 <div id="myCarousel" class="carousel slide pack" data-ride="carousel" style="color:yellow;">
 	<ol class="carousel-indicators">
 		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -569,4 +569,4 @@ comments: true
     </a>
 		
 </div>
-</div>
+</div>-->

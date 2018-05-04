@@ -13,7 +13,7 @@ comments: true
 image1: https://i.imgur.com/dCzXRTv.png
 ---
 
-<img src="https://i.imgur.com/dCzXRTv.png" width="800px">
+<!--<img src="https://i.imgur.com/dCzXRTv.png" width="800px">-->
 
 <br>
 

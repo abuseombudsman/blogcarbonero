@@ -1,134 +1,73 @@
----
-layout: PlantillaSinCarouselsinbarras
-comments: true
----
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
 
+Name       : Gestured
+Description: A three-column, fixed-width blog design.
+Version    : 1.0
+Released   : 20091004
 
-<!--<style>
-#page {
-	width: 960px;/*960px*/
-	margin: 0 0px auto;/* 0 auto */
-	margin-top: 0px;
-	padding: 0px;
-	background: url(/images/img03.png) no-repeat left top;
+Adapted by :Tillhor Penarol
+Version    : 1.0.1
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+{% include head.html %}
+ <body>
+
+<!-- start wrapper -->
+<div id="wrapper">
+ 
+ <!-- start header -->
+  <div id="header" class="rounded">
+   
+	{% include menu.html %}
+   
+	{% include logo1.html %}
+	
+<style>
+	.gsc-control-cse {
+    		font-family: Arial, sans-serif;
+    		border-color: #3c4449;/*#382b2b;*/
+    		background-color: #3c4449;/*#382b2b;*/
 }
-</style>-->
+</style>
+	
+	{% include logo2.html %}
+	
+  </div>
+ <!-- end header -->
+ 
+ <!-- start page -->
+  <div id="page">
+		
+      <!-- start content -->
+	<div id="content">
+	 
+         {% include posteo.html %}
+			
+	</div>
+      <!-- end content -->
+      <div style="clear: both;">&nbsp;</div>
+	
+  </div>
+ <!-- end page -->
 
-<div id="content">
-<div class="container">
- <center>
-   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-    <header class="post-header">
-      <h1 class="post-title" itemprop="name headline" style="font-family:fantasy;color:#c1bab4;font-weight:900;">{{ page.title | escape }}</h1>
-      <p class="post-meta">
-        <time datetime="{{ page.date | date_to_xmlschema }}" style="color:white;margin-right:10px;" itemprop="datePublished">
-          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-                <i class="glyphicon glyphicon-calendar" style="color:red;background:#5a5a5a;"><span> </span></i><!-- dcb208 -->
-          {{ page.date | date: date_format }}
-        </time>
-        {% if page.author %}
-          <!--•--> <i class="glyphicon glyphicon-user" style="color:#dcb208;"><span> </span></i> <span itemprop="author" itemsc\
-ope itemtype="http://schema.org/Person" style="margin-right:10px;"><span itemprop="name">{{ page.author }}</span></span>
-        {% endif %}
-        {% if page.tiempo_de_lectura %}
-        <!--<span> •--> <i class="glyphicon glyphicon-time" style="color:#dcb208;"></i><span> </span> <span> lectura: {{ page.tiempo_de_lectura }}</span>
-        {% endif %}
-      </p>
-    </header>
-
-    <center>	  
-    <br><a href="https://facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"><i class="fa fa-facebook rounded" style="font-size:1.5em;margin-right:50px;"></i></a>
-	  <span> </span>
-	  <a href="{{ site.url }}/{{ page.url }}/?share=twitter&nb=1"><i class="fa fa-twitter rounded" style="font-size:1.5em;margin-right:50px"></i></a>
-	  <span> </span>
-	  <a href="https://plus.google.com/share?url={{ site.url }}/{{ page.url }}"><i class="fa fa-google-plus rounded" style="font-size:1.5em;margin-right:50px;"></i></a>
-	  <span> </span>
-	  <a href="https://pinterest.com/pin/create/button/?url={{ site.url }}/{{ page.url }}&media={{ site.url }}/images/g5627.png&description={{ page.description }}"><i class="fa fa-pinterest rounded" style="font-size:1.5em;margin-right:50px;"></i></a>
-	  <span> </span>
-	  <a href="{{ site.url }}/{{ page.url }}/?share=reddit&nb=1"><i class="fa fa-reddit rounded" style="font-size:1.5em;margin-right:50px;"></i></a>
-	  <span> </span>
-	  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}/{{ page.url }}&title={{ page.title }}&summary=&source="><i class="fa fa-linkedin rounded" style="font-size:1.5em;margin-right:50px;"></i></a>
-	  <span> </span>
-	  <a href="{{ site.url }}/{{ page.url }}/?share=instagram&nb=1"><i class="fa fa-instagram rounded" style="font-size:1.5em;margin-right:50px;"></i></a>
-	  <span> </span>
-	  <a href="{{ site.url }}/{{ page.url }}/?share=youtube&nb=1"><i class="fa fa-youtube rounded" style="font-size:1.5em;margin-right:50px;"></i></a>
-  <br>
-  </center>
+</div>
+<!-- end wrapper -->
+ 
+ <!-- start footer -->
   
-    <!-- Coloca esta etiqueta donde quieras que aparezca Botón Compartir. -->
-    <div class="g-plus" data-action="share" style="display:inline;"></div>
-    <br>
-    <div class="post-content" itemprop="articleBody">
-      {{ content }}
-    </div>
-	<br>
-	<br>
-    <center>
-      <a href="https://facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"><i class="fa fa-facebook rounded" style="font-size:1.5em;margin-right:50px;"></i></a>
-	  <span> </span>
-	  <a href="{{ site.url }}/{{ page.url }}/?share=twitter&nb=1"><i class="fa fa-twitter rounded" style="font-size:1.5em;margin-right:50px"></i></a>
-	  <span> </span>
-	  <a href="https://plus.google.com/share?url={{ site.url }}/{{ page.url }}"><i class="fa fa-google-plus rounded" style="font-size:1.5em;margin-right:50px;"></i></a>
-	  <span> </span>
-	  <a href="https://pinterest.com/pin/create/button/?url={{ site.url }}/{{ page.url }}&media={{ site.url }}/images/g5627.png&description={{ page.description }}"><i class="fa fa-pinterest rounded" style="font-size:1.5em;margin-right:50px;"></i></a>
-	  <span> </span>
-	  <a href="{{ site.url }}/{{ page.url }}/?share=reddit&nb=1"><i class="fa fa-reddit rounded" style="font-size:1.5em;margin-right:50px;"></i></a>
-	  <span> </span>
-	  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}/{{ page.url }}&title={{ page.title }}&summary=&source="><i class="fa fa-linkedin rounded" style="font-size:1.5em;margin-right:50px;"></i></a>
-	  <span> </span>
-	  <a href="{{ site.url }}/{{ page.url }}/?share=instagram&nb=1"><i class="fa fa-instagram rounded" style="font-size:1.5em;margin-right:50px;"></i></a>
-	  <span> </span>
-	  <a href="{{ site.url }}/{{ page.url }}/?share=youtube&nb=1"><i class="fa fa-youtube rounded" style="font-size:1.5em;margin-right:50px;"></i></a>
-	  <br>
-	  
-    </center>
-    <!-- Coloca esta etiqueta donde quieras que aparezca Botón Compartir. -->
-    <div class="g-plus" data-action="share" style="display:inline;"></div>
-    <!-- Your share button code -->
-    <div class="fb-share-button" style="display:inline"
-      data-href="{{ site.url }}/{{ page.url }}" 
-      data-layout="box_count">
-    </div>
+    {% include footer.html %}
+ 
+ <!-- end footer -->
+ 
+ </body>
+</html>
 
-    <br>
-    <br>
 
-    <h4 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;" class="rounded"><i class="glyphicon glyphicon-tags gi-4x" style="font-size:1.0em;"></i> Etiqueteado</h4>
-      <p class="tag">{{ tags_list }}</p>
-      {% unless page.tags == empty %}
-      <ul class="tag_box inline">
-        {% assign tags_list = page.tags %}
-        {% include JB/tags_list %}
-      </ul>
-     {% endunless %}
 
-     <br>
-     <br>
 
-	<script>
-		var disqus_developer = 1;
-	</script>
-    {% if page.comments %}
-		<div id="disqus_thread"></div>
-		<script type="text/javascript">
-			/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-			var disqus_shortname = 'capenarol-cf'; // required: replace example with your forum shortname
-			var disqus_developer = 1;
-			// var disqus_developer = 1; // Comment out when the site is live
-			var disqus_identifier = "{{ page.url }}";
-
-			/* * * DON'T EDIT BELOW THIS LINE * * */
-			(function() {
-				var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-				dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-			})();
-		</script>
-		<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-		<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-	{% endif %}
-   </article>
- </center>
-</div>
-</div>

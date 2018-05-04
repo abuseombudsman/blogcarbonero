@@ -29,10 +29,10 @@ Un desborde de Giovanni González encontró el remate del mejor de la cancha Luc
 
 Maximiliano Rodriguez fue ausencia por una molestia en la rodilla y se sintió su ausencia. Gargano y Estoyanoff se sintieron y fueron retirados por precaución en el segundo tiempo aunque ambos se fueron caminando normalmente al vestuario.
 
-![](http://i.imgur.com/hudS5Hj.jpg){:style width="860px;"}
+<!--![](http://i.imgur.com/hudS5Hj.jpg){:style width="860px;"}-->
 
 A segunda hora Peñarol dos presentó también sus nuevas incorporaciones en este caso se lo pudieron ver a Luis Maldonado y Rodrigo Piñeiro. El zaguero cumplió una buena labor y Piñeiro se mostró encarador y con su velocidad complicó a ls selección del interior. El resultado del segundo juego del día fué: 2 - 0. Los goles vinieron por gran jugada de Gastón Rodriguez quien le amagó al golero para dejarlo tirado y definir con el arco libre. El segundo tanto lo conquistó el juvenil Kevin Lewis, el buen volante aprovechó la salida del golero para definir por arriba.
 
-![Imgur](https://i.imgur.com/rNc6oXl.jpg){:style width="860px;"}
+<!--![Imgur](https://i.imgur.com/rNc6oXl.jpg){:style width="860px;"}-->
 
 <span style="font-family:monospace;font-size:1.1em;background:negro;color:white;" class="rounded"><a href="{{ site.url}}/Lanoticia-Peñarol-mostro-buen-futbol">Noticia: Peñarol mostró buen fútbol y velocidad en Colonia</a></span><a href="{{ site.url}}/noticias"><span style="font-size:0.9em;color:white;background:blue;font-family:monospace;" class="rounded"><br><i class="fa fa-globe"></i>Noticias</span></a>

@@ -13,7 +13,7 @@ comments: true
 image1: https://i.imgur.com/bnQ832b.jpg
 ---
 
-<img src="https://i.imgur.com/bnQ832b.jpg">
+<!--<img src="https://i.imgur.com/bnQ832b.jpg">-->
 
 <br>
 

@@ -7,7 +7,7 @@ tags: "wanderers peñarol Viera libertadores dos amarillas perdés un partido"
 categories: futbol uruguayo apertura
 date: 2018-02-18 18:00:00 +01:00
 image1: https://i.imgur.com/O2vKq29.jpg
-image2: https://i.imgur.com/zjgQCN5.jpg
+image: https://i.imgur.com/zjgQCN5.jpg
 image3: https://i.imgur.com/J8KkleH.jpg
 image4: https://i.imgur.com/C9ywsPT.jpg
 image5: https://i.imgur.com/No7oitP.jpg
@@ -30,21 +30,21 @@ Peñarol se presentó en el Viera con la ausencia de Cristian Rodriguez quien cu
 <br>
 <br>
 
-<img src="https://i.imgur.com/O2vKq29.jpg" width="860px;">
+<!--<img src="https://i.imgur.com/O2vKq29.jpg" width="560px;">-->
 <br>
 
 Lo otro que vimos en este primer tiempo fue una gran cantidad de situaciones marradas por parte de los atacantes de Peñarol, un gol que se pierde Fidel con el arco desguarnecidos increíble, solo se lo disculpa por el gran efecto casi envenenada, tras un rebote, venía esa peota. El fútbol lo puso Guzman, Cannobio uno de los mejores de Peñarol, Fidel y Maxi Rodriguez. Lo puso Lucas Hernández y Varela en sus proyecciones, lo puso el Mota distribuyendo el balón pero Peñarol le perdonó la vida una y otra vez a un rival que como única arma vamos a decir la verdad, fue el remate de distancia. Una cuando Peñarol ya estaba uno a cero, gol en contra de Macaluso, que pegó en el fierro. Y la segunda situación fue cuando Vitolo remató de afuera del área también y convirtió un galazo en el ángulo la clavó. A esta altura, ya en el segundo tiempo Peñarol perdió penetración y casi no ocasionó situaciones de gol. Más aún cuando tenía que salir a por la victoria después que Wanderers le empató el partido. Pero Peñarol tuvo una sola chance más que fue la del cabezazo de Arias que el golero pudo contener en dos tiempos contra el palo. Bajaron el rendimiento casi todos, el único que se salva es Gargano.
 <br>
 <br>
 
-<img src="https://i.imgur.com/s0w6oPY.jpg" width="860px">
+<img src="https://i.imgur.com/s0w6oPY.jpg" width="560px">
 <br>
 
 Ramos movió el banco, le dió entrada a Fernández Giovani y Corujo, Giovani fue el que más corrió de todos ellos, Fernández y Corujo no pudieron en ninguna oportunidad sorprender y pasar la última línea defensiva del equipo de Wanderers. Yo no lo hubiera sacado a Cannobio pero aparentemente salió cansado. Lo que no puedo aceptar es lo del diario El País que estuvo desatento y la calificación es un 2, del 1 al 10. El periodista que hizo la crónica de El País estaba mirando para otro lado y no la cancha. Cannobio es el mejor que tiene Peñarol junto al Mota y al Cebolla. Nada más. Solo ese problema que Peñarol permitió que se le patiara al arco de afuera del área y con ese único recurso, una en el palo y la otra adentro, Wanderers se las ingenió para arrebatarle 2 puntos al Campeón del Uruguayo 2017. Habría que rever la presión de los defensas al borde de su área y lo que se me ocurre primero es de nuevo, Guzman no es el Cebolla y en marca es mucho menos que el Cebolla, por eso habría que haberlo protegido un poco más ante la misión de substituír al Cebolla Rodriguez nada menos.
 <br>
 <br>
 
-<div id="myCarousel" class="carousel slide pack" data-ride="carousel" style="color:yellow;">
+<!--<div id="myCarousel" class="carousel slide pack" data-ride="carousel" style="color:yellow;">
 	<ol class="carousel-indicators">
 		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 		<li data-target="#myCarousel" data-slide-to="1"></li>
@@ -188,7 +188,7 @@ Ramos movió el banco, le dió entrada a Fernández Giovani y Corujo, Giovani fu
         <span class="sr-only">Next</span>
     </a>
 		
-</div>
+</div>-->
 <br>
 <br>
 
@@ -209,7 +209,7 @@ Ramos movió el banco, le dió entrada a Fernández Giovani y Corujo, Giovani fu
 <h4 style="font-family:fantasy;font-weight:900;color:yellow;">Imágenes de Peñarol<sup>&reg;</sup></h4>
 <br>
 
-<div id="myCarousel" class="carousel slide pack" data-ride="carousel" style="color:yellow;">
+<!--<div id="myCarousel" class="carousel slide pack" data-ride="carousel" style="color:yellow;">
 	<ol class="carousel-indicators">
 		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 		<li data-target="#myCarousel" data-slide-to="1"></li>
@@ -264,8 +264,8 @@ Ramos movió el banco, le dió entrada a Fernández Giovani y Corujo, Giovani fu
     <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true" style="color:yellow;"></span>
         <span class="sr-only">Next</span>
-    </a>
-</div>
+    </a> 
+</div> -->
 
 <br>
 <br>

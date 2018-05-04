@@ -9,7 +9,7 @@ categories: futbol libertadores
 date: 2017-12-24T00:00 +01:00
 tags: "Libertad, Atletico Tucumán, Strongest, Grupo 3, Libertadores, sorteo, America, estatuas, Pelé, Maradona"
 image1: "http://i.imgur.com/sAhpMrp.jpg"
-image2: http://i.imgur.com/NqYDBG2.jpg
+image: http://i.imgur.com/NqYDBG2.jpg
 url datos1: https://imgur.com/a/QD3cc
 url datos2: https://imgur.com/a/QD3cc
 tiempo_de_lectura: "3:00 min"
@@ -18,14 +18,14 @@ comments: true
 ---
 
 <br>
-<img class="rounded" src="{{ site.url }}/images/CopaLibertadoresSorteo.jpg" width="860px">
+<!--<img class="rounded" src="{{ site.url }}/images/CopaLibertadoresSorteo.jpg" width="860px">-->
 
 <br>
 
 Libertad de Paraguay, Atlético Tucumán de Argentina y el Strongest de Bolivia cayeron en el grupo de Peñarol en esta próxima edición de la Copa Libertadores. Fácil se sabe no hay ningún equipo, de todas maneras los partidos con el cuadro boliviano parecen accesibles, ganar en Argentina y Paraguay parece más complicado.
 
 <br>
-<h3 style="font-family:fantasy;font-weight:900;">Grupo accesible</h3>
+<h1 style="font-family:fantasy;font-weight:900;">Grupo accesible</h1>
 
 No hay grandes viajes como hasta Colombia o Venezuela, nos salvamos de la altura de Bolivia, el Strongest es del llano. Los cuadros argentino y paraguayo no pertenecen a las potencias de América pero se sabe que de visitantes en Libertadores es bastante difícil.
 
@@ -35,9 +35,9 @@ Sin embargo el último año de Peñarol nos hizo ilusionar con la Copa Libertado
 
 <br>
 
-<h3 style="font-family:fantasy;font-weight:900;">Estatuaron a Pelé y a Maradona</h3>
+<h1 style="font-family:fantasy;font-weight:900;">Estatuaron a Pelé y a Maradona</h1>
 
-<img src="{{ site.url }}/images/EstatuasDePeléYMaradona.jpg" width="860px" height="100%">
+<!--<img src="{{ site.url }}/images/EstatuasDePeléYMaradona.jpg" width="860px" height="100%">-->
 
 <br>
 

@@ -1,5 +1,5 @@
 ---
-layout: post1
+layout: post
 title: "Peñarol vs Atlético Tucumán en directo y en línea por Copa Libertadores"
 name: 2018-04-04-penarol-vs-atletico-tucuman-en-directo-y-en-linea-por-copa-libertadores
 categories: "futbol libertadores"
@@ -11,7 +11,7 @@ author: "Club Atlético Peñar®l"
 comments: true
 ---
 
-<img src="https://i.imgur.com/pC5Emjb.png" width="800px" ALT="Estadio CDS - Jueves 5/4 2018 - Copa Libertadores - Peñarol vs Atlético Tucumán">
+<!--<img src="https://i.imgur.com/pC5Emjb.png" width="800px" ALT="Estadio CDS - Jueves 5/4 2018 - Copa Libertadores - Peñarol vs Atlético Tucumán">-->
 
 <br>
 
@@ -21,4 +21,4 @@ La transmiciòn comienza 00:00 CET. Para ver el evento se necesita el acestream 
 
 <br>
 
-<iframe src="http://torrentstream.org/embed/ef9ae44ce6aa2702d3aa1b1eb90509e6ac983c1b" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
+<iframe src="http://torrentstream.org/embed/ef9ae44ce6aa2702d3aa1b1eb90509e6ac983c1b" style="width: 540px; height: 100%; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>

@@ -5,7 +5,7 @@ name: 2018-02-26-penarol-2-1-liverpool-por-el-apertura-en-el-cds
 description: "En un partido para el recuerdo de que Peñarol obtuvo 3 puntos ante un rival como este de Liverpool, un cuadro en desarrollo que coincide con el mejor partido que hizo en este torneo apertura justo cuando tiene que enfrentar a Peñarol en el CDS, lo que jerarquiza los espectáculos que se pueden ver en el Campeón del Siglo."
 tags: "Peñarol 2-1 Liverpool espectáculo CDS arma corner Hernández"
 image1: https://i.imgur.com/v1zIhSY.jpg
-image2: https://i.imgur.com/HQPdU9v.jpg
+image: https://i.imgur.com/HQPdU9v.jpg
 image3: https://i.imgur.com/0ud8gVa.jpg
 image4: https://i.imgur.com/7mPBW3L.jpg
 image5: https://i.imgur.com/oY7SAyo.jpg
@@ -66,7 +66,7 @@ Peñarol pudo en el segundo tiempo espacio para el recién ingresado Fernández 
 Liverpool mostró que es un equipo muy bien preparado físicamente y que cuenta con algunos exponentes de buen fútbol, lo intentó pero más alla de un par de centros al área de Peñarol que fueron conjurados por Dawson o simplemente la defensa cortó. Vuelvo a lo del principio: A Peñarol todos le quieren ganar en el CDS y ejecutan el mejor espectáculo de la temporada, pero eso es lo interesante en el CDS, que se ve muy buen fútbol y cuadros muy competitivos que dan lo mejor de sí para QUE SIEMPRE SALGA UN MUY BUEN PARTIDO DE FÚTBOL. No las goleadas de Nacional que después de 15 minutos es siempre la misma pizarreada y hasta los hinchas bostezan en el GPC. Esto en el CDS siempre es más profesional.
 
 <br>
-<img src="https://i.imgur.com/FBwZQUX.jpg">
+<center><img src="https://i.imgur.com/FBwZQUX.jpg"></center>
 <br>
 
 Ahora viene la fecha libre correspondiente al que abandonó la competencia por déficit económico: El Tanque, que viene bien para preparar los partidos ante Cerro por el torneo local y el partido internacional contra el Strongest en La Paz. Finalmente decir que Lucas Hernández terminó con roja, yo no la vi pero si era roja directa por plancha como en el caso de Cristian Rodriguez, que el comité de disiplina da 3 fechas entonces se hace el descargo "EN TIEMPO Y FORMA QUE NO ES REINCIDENTE" y se saca x 2 fechas, una de las cuales la automática se cumple en la fecha libre que Peñarol tiene la próxima semana. Tranquilos esperando el debut internacional y observando con alegría el debut del bolso ante tan trasendente encuentro, jugando contra Estudiantes de la Plata de local con la responsabilidad de sacar los puntos de local ante un avesado equipo copero como lo es Estudiantes. 

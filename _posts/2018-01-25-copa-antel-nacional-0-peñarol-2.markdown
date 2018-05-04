@@ -8,7 +8,7 @@ tags: "Peñarol, Nacional, Amistoso, Clásico, 2018"
 date: 2018-01-25T00:00:00 +01:00
 author: CAPeñarol
 image1: http://i.imgur.com/qqWN4GU.jpg
-image2: http://i.imgur.com/BhJ4j6x.jpg
+image: http://i.imgur.com/BhJ4j6x.jpg
 image3: http://i.imgur.com/ZRnB4KE.jpg
 image4: http://i.imgur.com/jxU2rOO.jpg
 image5: http://i.imgur.com/0tzKIFW.jpg
@@ -58,7 +58,7 @@ comments: true
 
 El primer clásico del año se lo llevo Peñarol, quién vino a jugarlo en condición de favorito y se lo llevo. El viernes se enfrentan de nuevo esta vez oficialmente por la Copa Uruguaya. A Nacional pensamos le vienen mal estos clásicos a menos de dos semanas del partido con Chapecoense.
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<!--<div id="myCarousel" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
           <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -253,7 +253,7 @@ El primer clásico del año se lo llevo Peñarol, quién vino a jugarlo en condi
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="sr-only">Next</span>
         </a>
-	</div>
+	</div>-->
 Barrera anunció una vez más que por Palacios no ha habido ninguna oferta oficial concreta, lo que si se puede haber dado es alguna consulta sobre la ficha de Palacios cuanto cuesta o las condiciones del pase pero que interés oficial nada ni una propuesta. El pase que si se podía dar era el del golero suplente Guruceaga se estaba tratando de encontrar equipo para la salida del golero ya que se entendía que es un golero de grandes cualidades que simplemente no es titular porque está Dawsson un fuera de serie y no se lo quería tener parado. Hoy en el programa "100% Deportes" se anunció que Guruceaga iba a préstamo al Guaraní de Paraguay para no perder continuidad. Por último Barrera el presidente anunció que el mercado de pases estaba cerrado en Peñarol y que solo podía abrirse de nuevo si había alguna baja importante de algún jugador del plantel cosa que se espera para este año algún pase importante que deje buena plata para Peñarol. Sobre las contrataciones afortunadas de Peñarol en los últimos tiempos dijo Barrera que se trabaja en privado y en constante contacto con el cuerpo técnico por parte de la Comisión de Contrataciones, y que las cosas se anuncian oficialmente cuando ya están cerradas. En cuanto a Viatri dijo Barrera que se lo va a esperar por todo lo que le dió a Peñarol el año pasado.
 
 <br>

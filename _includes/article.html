@@ -1,0 +1,26 @@
+	<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+          <header class="post-header">
+           <h1 class="title post-title font-effect-shadow-multiple" itemprop="name headline" style="font-family:sans-serif;color:#3e3434;"><a href="#" style="color:#3e3434;text-decoration:none;"><span class="font-effect-shadow-multiple" style="color:#3e3434;">{{ post.title | escape }}</span></a>
+           </h1>
+           <p class="byline post-meta">Postiado <i class="glyphicon glyphicon-calendar" style="padding:10px;"></i>
+                        <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+                                {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                                {{ post.date | date: date_format }}
+                        </time>
+                        {% if post.author %}
+                                por <a href="http://capeñarol.cf" rel="nofollow"><span style="margin-left:8px;margin-right:5px;"><img src="images/user.png" width="25px" style="vertical-align:-3.0px;border:1px solid #fff;padding:10px;">
+                                <span itemprop="author" itemscope itemtype="http://schema.org/Person"><p itemprop="name">CAPeñarol.CF</p></span></span></a>
+                        {% endif %}
+                        {% if post.tiempo_de_lectura %}
+                                <i class="glyphicon glyphicon-time"></i> <span>lectura: {{ post.tiempo_de_lectura }}</span>
+                        {% endif %}
+                </p>
+           </header>
+
+           <br>
+
+           <div class="entry post-content" itemprop="articleBody">
+                {{ content }}
+                
+		   </div>
+    </article>

@@ -12,7 +12,7 @@ author: CAPeñarol
 comments: true
 ---
 
-<img src="https://i.imgur.com/1SMm8Qe.jpg">
+<!--<img src="https://i.imgur.com/1SMm8Qe.jpg">-->
 
 
 Roberto Catino vicepresidente de Peñarol reconoció haber hablaado con el representante de Abel "La Joya" Hernández, Pablo Bentancour:

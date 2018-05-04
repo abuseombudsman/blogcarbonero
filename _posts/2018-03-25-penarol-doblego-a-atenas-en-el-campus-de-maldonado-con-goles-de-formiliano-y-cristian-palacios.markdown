@@ -11,7 +11,7 @@ date: 2018-03-25 17:30 +01:00
 author: CAPeñarol
 comments: true
 image1: https://i.imgur.com/4Ib16nU.jpg
-image2: https://i.imgur.com/ptfE4u9.jpg
+image: https://i.imgur.com/ptfE4u9.jpg
 ---
 
 El Atenas de San Carlos mostró una estructura ordenada en la primera parte e incluso se animó a atacar a Peñarol en ciertos momentos del primer tiempo en donde el equipo mirasol se mostro un tanto dormido quizás por la seguidilla
@@ -34,7 +34,7 @@ Al final la diferencia entre uno y otro fue perceptible y Peñarol terminó llev
 
 <br>
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/IDozmfQkSV4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="540" height="100%" src="https://www.youtube.com/embed/IDozmfQkSV4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br>
 <br>

@@ -27,7 +27,7 @@ El funcionamiento de peñarol es analizado por [Referi](https://www.referi.uy), 
 <br>
 <br>
 
-<img src="https://i.imgur.com/kbF2eLy.jpg" width="860">
+<!--<img src="https://i.imgur.com/kbF2eLy.jpg" width="860">-->
 <br>
 
 <span style="font-family:monospace;font-size:1.1em;color:white;"><a href="{{ site.url}}/Lanoticia-seguridad-dinamica-y-juego-son-las">Noticia: Peñarol posee seguridad, dinámica, juego y ataca con cuatro jugadores</a></span><a href="{{ site.url}}/noticias"><span style="font-size:0.9em;color:white;background:blue;font-family:monospace;" class="rounded"><br><i class="fa fa-globe"></i>Noticias</span></a>

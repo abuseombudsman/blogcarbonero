@@ -6,7 +6,7 @@ description: "Libertadores: El Carbonero cruzó el mar a nado para venir a morir
 que en cualquier momento podía resolver el partido a su favor, pero Libertad encontró dos goles al final de pelota parada y quedó lider con 9 puntos y la clasificación a la segunda fase en el bolsillo."
 tags: futbol internacional libertadores 2018 Peñarol Libertad Copa 
 date: 2018-04-21 09:30:00 +01:00:00
-image1: https://i.imgur.com/
+image1: "images/orei.png"
 categories: futbol libertadores
 author: CAPeñarol.CF
 comments: true

@@ -22,7 +22,7 @@ Sport 890, Mohar, Buísan, Charquero.
 
 <h2>1er Tiempo</h2>
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/rLzhSCrrRXw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="540" height="100%" src="https://www.youtube.com/embed/rLzhSCrrRXw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -30,7 +30,7 @@ Sport 890, Mohar, Buísan, Charquero.
 
 <h2>2do Tiempo</h2>
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/AXVRhh-Idv8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="540" height="100%" src="https://www.youtube.com/embed/AXVRhh-Idv8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br>
 

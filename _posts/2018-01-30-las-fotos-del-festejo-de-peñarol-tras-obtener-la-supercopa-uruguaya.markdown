@@ -5,7 +5,7 @@ name: 2018-01-30-las-fotos-del-festejo-de-peñarol-tras-obtener-la-supercopa-uru
 description: "Todas las fotos del festejo de Peñarol tras la obtención de la final contra Nacional por la Supercopa Uruguaya 2018"
 tags: "festejo peñarol supercopa fotos"
 image1: http://i.imgur.com/2soQKnT.jpg
-image2: http://i.imgur.com/QNnsfWM.jpg
+image: http://i.imgur.com/QNnsfWM.jpg
 image3: http://i.imgur.com/tmcCyJO.jpg
 image4: http://i.imgur.com/uvmnfhn.jpg
 image5: http://i.imgur.com/QYtSnX7.jpg
@@ -20,7 +20,7 @@ comments: true
 ---
 
 
-<center>
+<!--<center>
 	<div id="myCarousel" class="carousel slide pack" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -73,7 +73,7 @@ comments: true
           <span class="sr-only">Next</span>
         </a>
 	</div>
-</center>
+</center>-->
 <br>
 <br>
 <br>

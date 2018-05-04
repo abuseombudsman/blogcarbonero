@@ -1,0 +1,80 @@
+
+
+<div class="post">
+
+  <br>
+  <br>
+  <br>
+
+  <p class="byline" style="margin-bottom:0px;border:1px solid #fff;background:#3c4449;padding-left:10px;">Postiado
+   <i class="glyphicon glyphicon-calendar" style="padding:5px;"></i>
+   <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {{ page.date | date: date_format }}
+   </time>
+        {% if page.author %}
+   <span style="padding:5px;">por</span><a href="http://capeñarol.cf" rel="nofollow"><i class="glyphicon glyphicon-user" style="padding:5px;color:yellow;"></i>
+        <span style="color:yellow;font-weight=900;">CAPeñarol.CF</span> </a>
+        {% endif %}
+        {% if page.tiempo_de_lectura %}
+  <i class="glyphicon glyphicon-time" style="padding:5px;"></i> <span>lectura: {{ page.tiempo_de_lectura }}</span>
+        {% endif %}
+  </p>
+
+  <h1 class="title font-effect-shadow-multiple" style="font-family:color:#3e3434;letter-spacing:0;">
+    <a href="{{ page.url }}" style="text-decoration:none;">
+      <span class="font-effect-shadow-multiple" style="color:#3e3434;">
+        {{ page.title }}<!-- Progreso vs Peñarol en el Nasazzi a las 15:30 hora uruguaya-->
+      </span>
+    </a>
+  </h1>
+
+  <br>
+
+  <div id="border-guzmán" style="border:2px solid #fff;"></div>
+  
+  <br>
+  <br>
+  <br>
+
+  <img src="{{ page.image1 }}" style="border:2px solid #fff;" width="520px">
+
+  <br>
+  <br>
+  <br>
+
+ <div class="entry">
+	{{ content }}
+ </div>
+      
+
+<!-- Disqus comments (start) -->
+
+      {% if page.comments %}
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'capenarol-cf'; // required: replace example with your forum shortname                        var disqus_developer = 1;
+        // var disqus_developer = 1; // Comment out when the site is live
+        var disqus_identifier = "{{ page.url }}";
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+         (function() {
+                 var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                 dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+         })();
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      {% endif %}
+
+<!-- Disqus comments (end) -->
+
+
+
+</div>
+
+
+
+		

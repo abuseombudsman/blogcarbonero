@@ -42,6 +42,6 @@ comments: true
   </p>
 </blockquote>
 
-![](http://i.imgur.com/ihnPJqw.jpg)
+<!--![](http://i.imgur.com/ihnPJqw.jpg)-->
 
 <span style="font-family:monospace;font-size:1.1em;background:negro;color:white;" class="rounded"><a href="{{ site.url}}/Lanoticia-el-capeñarol-captó-a-el-toro-fernandez">Noticia: El CAPeñarol captó a "El Toro" Fernández de Racing</a></span><a href="{{ site.url}}/noticias"><span style="font-size:0.9em;color:white;background:blue;font-family:monospace;" class="rounded"><br><i class="fa fa-globe"></i>Noticias</span></a>

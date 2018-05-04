@@ -18,4 +18,4 @@ Sobre el futuro de Peñarol comento que está con vida en las dos competiciones 
 
 <br>
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/sSRy7wcSSZk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="521" height="360" src="https://www.youtube.com/embed/sSRy7wcSSZk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

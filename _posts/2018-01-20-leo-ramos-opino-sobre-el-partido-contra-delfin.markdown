@@ -56,6 +56,6 @@ Ramos cerró hablando de los clásicos que se vienen:
   </p>
 </blockquote>
 
-![](http://i.imgur.com/EXdBEOz.jpg)
+<!--![](http://i.imgur.com/EXdBEOz.jpg)-->
 
 <span style="font-family:monospace;font-size:1.1em;background:#000;color:#fd5206;" class="rounded"><a href="{{ site.url}}/Lanoticia-Leo-Ramos">Noticia: Leo Ramos opinó sobre el partido contra Delfin</a></span><a href="{{ site.url}}/noticias"><span style="font-size:0.9em;color:white;background:blue;font-family:monospace;" class="rounded"><br><i class="fa fa-globe"></i>Noticias</span></a>

@@ -24,6 +24,6 @@ Esta noticia apareció en [La Republica](https://www.larepublica.com.uy). En la 
 El médico de peñarol contó: 
 
 <blockquote><p>Se le realizó un exámen de retina en la tarde del miércoles. El estudio reveló que no tiene hemorrajias importantes, lo cual mejora el pronóstico del jugador. El también se siente mucho mejor. La idea es que en la próxima semana después de un nuevo control se traslade a Montevideo..."</p></blockquote>
-![Viatri se recupera](https://i.imgur.com/WLcj4v7.jpg){:style width:860px;}
+<!--![Viatri se recupera](https://i.imgur.com/WLcj4v7.jpg){:style width:860px;}-->
 
 <span style="font-family:monospace;font-size:1.1em;background:negro;color:white;" class="rounded"><a href="{{ site.url}}/Lanoticia-Viatri-se-recupera.html">Noticia: Viatri se recupera favorablemente</a></span><a href="{{ site.url}}/noticias"><span style="font-size:0.9em;color:white;background:blue;font-family:monospace;" class="rounded"><br><i class="fa fa-globe"></i>Noticias</span></a>

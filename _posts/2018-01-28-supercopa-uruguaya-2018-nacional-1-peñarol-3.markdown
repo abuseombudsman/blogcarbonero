@@ -8,7 +8,7 @@ tags: "Peñarol Nacional Supercopa clásico 2018"
 image1: http://i.imgur.com/UFqRXNk.jpg
 image1.width: 969px
 image1.height: 559px
-image2: http://i.imgur.com/vkDzZbj.jpg
+image: http://i.imgur.com/vkDzZbj.jpg
 image2.width: 1280px
 image2.height: 640px
 url.datos: https://imgur.com/a/KA8cC
@@ -27,10 +27,10 @@ tiempo_de_lectura: "3:00 min"
 comments: true
 ---
 
-<img src="http://i.imgur.com/UFqRXNk.jpg">
+<!--<img src="http://i.imgur.com/UFqRXNk.jpg">-->
 Y Peñarol se midió una vez más en un clásico, esta vez por la Supercopa uruguaya primera edición 2018 y nuevamente el partido se saldó con triunfo aurinegro por 3:1. Esta vez fué sin despeinarse cuando tuvo incluso en el segundo tiempo cuando comenzó y ganaba ya por 3:0 la posibilidad de haberle propiciado una derrota de clasico histórica con una goleada aún más amplia. Sin embargo Peñarol dosificó esfuerzos y trató de mantener su diferencia ya conseguida ante un Nacional desdibujado que como presentíamos le iba a costar múchisimo salvarse de una nueva derrota ante un adversario mucho más sólido y constituído y con más rodaje. Uno se puede preguntar que hubiera pasado si a Nacional le hubieran dado ese penal sobre el inicio de la segunda parte y Hernández hubiera visto su segunda amarilla. Pero a esta altura es imposible especular cuando el partido ya estaba encaminado para Peñarol con un claro 3:0. Los goles manyas fueron anotados todos en el primer tiempo. Uno de Fidel Martínez al minuto de juego, confirmando que es un gran jugador que le puede dar grandes alegrías a la parcialidad carbonera. El segundo tanto fue de penal, lo anotó el Cebolla Cristian Rodriguez tras una escapada de Agustín Cannobio fue derribado dentro del área por Polenta, y el tercero vino de Maxi Rodriguez, el argentino pudo anotarle un gol a Nacional.
 
-<img src="http://i.imgur.com/vkDzZbj.jpg">
+<!--<img src="http://i.imgur.com/vkDzZbj.jpg">-->
 
 Lo que nos queda es reflejar que cuando el Lolo Estoyanoff entró por Maxi Rodriguez en el segundo tiempo, Peñarol tuvo varias escapadas por la banda izquierdad y que no tuvo la presición necesaria para culminar la jugada y conectarse en el último pase con Fidel. Cabe acotar que el 3cuatoriano lleva tan solo 1 semana entrenando con Peñarol pero queda la sensación de que cuando agarren rodaje juntos, el Lolo y Fidel puede ser una fórmula de gol letal. A esto le tenemos que sumar que Cristian Palacios vuelva de la lesión que lo aqueja, quien será seguramente el otro punta titular en Peñarol. El panorama es bastante optimista para Peñarol quien sigue a pie firme ganando todos sus encuentros.
 La del estribo es para resaltar el buen tino de la contratación de Agustín Cannobio, el botija de 19 años se mostró encarador y hábil, fue incontrolable para Nacional, generó la jugada del penal y tuvo otra apilada  que terminó con el remate afuera de Maxi Rodriguez. Optimismo es lo que reina en esta nueva temporada en la institución carbonera capitaneados con Barrera.

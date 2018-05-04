@@ -24,6 +24,6 @@ En la misma es considerado un soldado más que mantiene peñarol, repudiamos esa
 
 El Lolo fue una de las figuras que tuvo peñarol el año pasado y fue titular todo el Campeonato Clausura. De más está decir que esta es una buena noticia ya que el cuadro campeón del año pasado no se resquebraja, aparte se asegura un hincha más de peñarol en el plantel. Enhorabuena Lolo!!! Enhorabuena Barrera!!! Enhorabuena Peñarol!!!
 
-<img src="https://i.imgur.com/2aToJXI.png" width="860px">
+<!--<img src="https://i.imgur.com/2aToJXI.png" width="860px">-->
 <span style="font-family:monospace;font-size:1.1em;background:negro;color:white;" class="rounded"><a href="{{ site.url}}/lanoticia-lolo-2018">Noticia: Lolo 2018</a></span>
 <a href="{{ site.url }}/noticias"><span style="font-size:0.9em;color:white;background:blue;font-family:monospace;" class="rounded"><br><i class="fa fa-globe"></i>Noticias</span></a>

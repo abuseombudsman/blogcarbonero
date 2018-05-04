@@ -32,6 +32,6 @@ En relación a lo que se viene dijo el arquero:
 El coloniense regresó a su ciudad natal para hacer la pretemporada con Peñarol:
 
 <blockquote><p>siempre es lindo volver a la ciudad de uno...</p></blockquote>
-![Dawson: Cuando pasaban los días y no renovaba me puse muy ansioso](http://i.imgur.com/tk126zc.jpg)
+<!--![Dawson: Cuando pasaban los días y no renovaba me puse muy ansioso](http://i.imgur.com/tk126zc.jpg)-->
 
 <span style="font-family:monospace;font-size:1.1em;background:negro;color:white;" class="rounded"><a href="{{ site.url}}/Lanoticia-Dawson-cuando-pasaban-los-dias">Noticia: Dawson: Cuando pasaban los días y no renovaba me puse muy ansioso</a></span><a href="{{ site.url}}/noticias"><span style="font-size:0.9em;color:white;background:blue;font-family:monospace;" class="rounded"><br><i class="fa fa-globe"></i>Noticias</span></a>

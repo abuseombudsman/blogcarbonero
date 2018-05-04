@@ -22,7 +22,7 @@ comments: true
 </blockquote>
 <br>
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/AanCFzWLK3o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="520" height="360" src="https://www.youtube.com/embed/AanCFzWLK3o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 <br>
 
@@ -33,14 +33,14 @@ Es muy lindo estar nuevamente en el plano de la Copa Libertadores pero como vos 
 </blockquote>
 <br>
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/PD6ctqH5hdU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="520" height="360" src="https://www.youtube.com/embed/PD6ctqH5hdU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 <br>
 
 <h4 style="font-family:fantasy;color:yellow;">Stadion - Documental sobre la construcción del CDS - Peñarol OFICIAL<sup>&reg;</sup></h4>
 <br>
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/w6gJBnL5k88" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="520" height="360" src="https://www.youtube.com/embed/w6gJBnL5k88" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 <br>
 

@@ -15,5 +15,5 @@ tiempo_de_lectura: "00:00 min"
 comments: true
 ---
 
-<img src="http://i.imgur.com/FPIKDWs.jpg">
+<!--<img src="http://i.imgur.com/FPIKDWs.jpg">-->
 
