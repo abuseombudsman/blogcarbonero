@@ -1,352 +1,175 @@
 ---
-layout: PlantillaSinCarouselconbarras
-title: Inicio
-name: inicio
-description: La casa del Club Atlético Peñarol, página de inicio
-author: CAPeñarol
+layout: default
+title:
+name: index.md
+author: CAPeñarol.CF
 ---
 
+<html>
+
 <br>
-<h1 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;" class="rounded"> Inicio</h1>
 <br>
-<!--<h3 style="font-family:fantasy;font-weight:900;">Calendario - febrero - 2018</h3>
-<img src="http://i.imgur.com/FPIKDWs.jpg" width="420px">
-<br><br>-->
-<span style="font-family:fantasy;font-style:italic;color:yellow;<!--background:#5a5a5a;-->font-size:0.6em;margin-bottom:5px;" class="rounded"><center> Ultimo Partido </center></span><br>
-<div id="today-update">
+<br>
+
+<h3>
   <center>
-   <img src="{{ site.url }}/images/98.gif" width="55px" style="display:inline block;"><span style="font-size:2.0em;"> 3 - 1 </span><img src="{{ site.url }}/images/99.gif" width="55px" style="display:inline block;">
+    <span style="color:#3c4449;font-weight:900;margin-bottom:20px;">Último partido: jueves 3 de mayo</span>
   </center>
-</div>
+</h3>
 
-<!--<h4><span style="color:#fd5206;text-decoration:underline;font-size:0.5em;">Domingo 11: </span><center><span style="font-family:monospace;font-size:0.7em;color:lightsteelblue;"><img src="{{ site.url }}/images/98.gif" width="30px"> PEÑ 2-1 LIV <img src="{{ site.url }}/images/191.gif" width="30px"></span></center></h4>
-<br>-->
-<!--<h3 style="font-family:fantasy;font-weight:900;">El Cebolla Rodriguez abrió el tanteador con un taponazo de tiro libre furibundo</h3>
-<a href="https://imgur.com/YFRz6z1"><img src="https://i.imgur.com/YFRz6z1.jpg" width="430px" title="source: imgur.com" /></a>
-<br>-->
-<!--<h3 style="font-family:fantasy;font-weight:900;"><a href="{{ site.url }}/conferencias/conferencia-de-prensa-fecha-no-2-apertura-2018-peñarol-4-1-river-ramos-gargano-giovani">Conferencia de prensa Campeonato Apertura 2018, fecha: No 2, Peñarol 4-1 River</a></h3>-->
-<!--<a href="{{ site.url }}/conferencias/conferencia-de-prensa-fecha-no-2-apertura-2018-peñarol-4-1-river-ramos-gargano-giovani"><img src="https://i.imgur.com/LcpKBJ7.jpg" width="130px;" style="margin-right:15px;"><img src="https://i.imgur.com/hFSfsqG.jpg" width="130px;" style="margin-right:15px;"><img src="https://i.imgur.com/Q90UrTe.jpg" width="130px"></a>-->
-<br><br>
+<br>
 
-{% for post in site.posts limit:5 %}
+<img src="{{ site.url }}/images/g848.png" style="margin-left:-40px;margin-top:-30px;" width="600">
+<center>
+   <table>
+     <thead>
+       <td></td>
+       <td></td>
+       <td></td>
+     </thead>
+	 <center><img src="{{ site.url }}/images/copa-liber.png" style="margin-right:6px;" height="50px"></center>
+     <tbody>
+       <tr>
+         <td><img src="{{ site.url }}/images/99.gif" height="50px"></td>
+         <td><span style="font-size:1.6em;font-weight:900;">1-0</span></td>
+         <td><img src="{{ site.url }}/images/98.gif" height="50px"></td>
+       </tr>
+     </tbody>
+   </table>
+ </center>
 
-<table class="table table-bordered table-striped table-responsive" style="background:yellow;color:#5a4343;">
-  <!--<thead style="color:#fff;font-weight:900;">
-    <tr>-->
-    <!-- <th style="font-family:fantasy;font-style:italic;color:#000;background:yellow;"padding:12px;>--><th style="padding:12px;"><h4 style="font-family:fantasy;font-style:italic;color:#000;background:yellow;" class="rounded"><i class="fa fa-globe"></i>Sacecitos del CAPeñarol<sup>&reg;</sup></h4></th><!--</th>                            -->
-    <!--</tr>-->
-  <!--</thead>-->
-  <tbody style="background:#000;margin-bottom:70px;margin-top:70px;">
-   <div id="noticia" style="display:inline block;">
-    <headline class="encabezado-de-noticia" style="display:inline block;">
-     <tr>
-      <td style="padding:12px;background:#000;"><a href="{{ site.url }}/{{ post.url }}" ><span><h3 style="font-family:monospace;font-weight:900;">{{ post.title }}</h3></span></a></td>
-     </tr>
-     <tr>
-      <td style="padding:12px;background:stillightblue;"><a href="{{ site.url }}/{{ post.url }}" style="color:#5a4343;"><span style="font-family:monospace;font-size:1.2em;">{{ post.description }}</span></a></td>
-     </tr>
-    </headline>
-    <image class="headline" style="display:inline block;">
-<tr>
-   <td style="padding:12px;"><a href="{{ post.image1 }}"><span><img src="{{ post.image1 }}" width="393px"></span></a></td>
-   </tr>
-   </image>
-  </div>
-<!--    {% if post.image2 %}
-	  <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image2 }}"><span><img src="{{ post.image2 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-    {% if post.image3 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image3 }}"><span><img src="{{ post.image3 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image4 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image4 }}"><span><img src="{{ post.image4 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image5 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image5 }}"><span><img src="{{ post.image5 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image6 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image6 }}"><span><img src="{{ post.image6 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image7 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image7 }}"><span><img src="{{ post.image7 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image8 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image8 }}"><span><img src="{{ post.image8 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image9 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image9 }}"><span><img src="{{ post.image9 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image10 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image10 }}"><span><img src="{{ post.image10 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image11 %}
-     <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image11 }}"><span><img src="{{ post.image11 }}" width="393px"></span></a></td>
-	  </tr> 
-	{% endif %}
-	{% if post.image12 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image12 }}"><span><img src="{{ post.image12 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image13 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image13 }}"><span><img src="{{ post.image13 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image14 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image14 }}"><span><img src="{{ post.image14 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image15 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image15 }}"><span><img src="{{ post.image15 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image16 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image16 }}"><span><img src="{{ post.image16 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image17 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image17 }}"><span><img src="{{ post.image17 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image18 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image18 }}"><span><img src="{{ post.image18 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image19 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image19 }}"><span><img src="{{ post.image19 }}" width="393px"></span></a></td>
-	  </tr> 
-	{% endif %}
-	{% if post.image20 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image20 }}"><span><img src="{{ post.image20 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image21 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image21 }}"><span><img src="{{ post.image21 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image22 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image22 }}"><span><img src="{{ post.image22 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image23 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image23 }}"><span><img src="{{ post.image23 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image24 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image24 }}"><span><img src="{{ post.image24 }}" width="393px"></span></a></td>
-	  </tr> 
-	{% endif %}
-	{% if post.image25 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image25 }}"><span><img src="{{ post.image25 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image26 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image26 }}"><span><img src="{{ post.image26 }}" width="393px"></span></a></td>
-	  </tr> 
-	{% endif %}
-	{% if post.image27 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image27 }}"><span><img src="{{ post.image27 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image28 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image28 }}"><span><img src="{{ post.image28 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image29 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image29 }}"><span><img src="{{ post.image29 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image30 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image30 }}"><span><img src="{{ post.image30 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image31 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image31 }}"><span><img src="{{ post.image31 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image32 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image32 }}"><span><img src="{{ post.image32 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image33 %}
-     <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image33 }}"><span><img src="{{ post.image33 }}" width="393px"></span></a></td>
-	  </tr> 
-	{% endif %}
-	{% if post.image34 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image34 }}"><span><img src="{{ post.image34 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image35 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image35 }}"><span><img src="{{ post.image35 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image36 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image36 }}"><span><img src="{{ post.image36 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image37 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image37 }}"><span><img src="{{ post.image37 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image38 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image38 }}"><span><img src="{{ post.image38 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image39 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image39 }}"><span><img src="{{ post.image39 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image40 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image40 }}"><span><img src="{{ post.image40 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image41 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image41 }}"><span><img src="{{ post.image41 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image42 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image42 }}"><span><img src="{{ post.image42 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image43 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image43 }}"><span><img src="{{ post.image43 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image44 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image44 }}"><span><img src="{{ post.image44 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image45 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image45 }}"><span><img src="{{ post.image45 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image46 %}
-        <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image46 }}"><span><img src="{{ post.image46 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image47 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image47 }}"><span><img src="{{ post.image47 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image48 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image48 }}"><span><img src="{{ post.image48 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	{% if post.image49 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image49 }}"><span><img src="{{ post.image49 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-	<tr>
-	{% if post.image50 %}
-      <tr>
-	    
-        <td style="padding:12px;"><a href="{{ post.image50 }}"><span><img src="{{ post.image50 }}" width="393px"></span></a></td>
-	  </tr>
-	{% endif %}
-  
-{% endfor %}
-<span style="border:solid 2px yellow;background:#000;color:yellow;margin-top:150px;">CAPeñarol.CF</span>-->
+<br>
+<br>
+<br>
+ 
+<h3>
+  <center>
+    <span style="color:#3c4449;font-weight:900;margin-bottom:20px;">Próximo Partido: sábado 5 de mayo</span>
+  </center>
+</h3>
+
+<br>
+
+<img src="{{ site.url }}/images/g849.png" style="margin-left:-40px;margin-top:-25px;" width="600">
+
+<center>
+   <img src="{{ site.url }}/images/98.gif" style="margin-right:10px;" height="50px">
+   <span style="margin-left:10px;margin-right:10px;font-size:1.6em;font-weight:900;">vs</span>
+   <!--<img src="{{ site.url }}/images/copa-liber.png" style="margin-right:6px;" height="50px">-->
+   <img src="{{ site.url }}/images/110.gif" height="50px">
+<center>
+
+<br>
+<br>
+<br>
+
+<center><h3 style="color:#3c4449;font-weight:900;margin-bottom:0px;border:1px solid #3c4449;">Grupo C - Copa Libertadores 2018</h3></center>
+
+<br>
+
+<center>
+  <table>
+    <thead style="color:#fff;background:#3c4449;border:1px solid #3e3434;font-weight:900;">
+      <td>No</td>
+      <td><span style="float:left;margin-left:10px;">Equipo</span></td>
+      <td style="float:left;margin-left:0px;">Pts</td>
+      <td style="float:right;margin-left:30px;">Dif-Goles</td>
+    </thead>
+    <tbody style="color:#fff;">
+
+ 	<tr style="border:1px solid #3e3434;">
+		
+   		<td style="border:1px solid #3e3434;">1</td>
+   		<td style="border:1px solid #3e3434;"><img src="{{ site.url }}/images/69.gif" height="24px" style="margin-left:;"><span style="margin-left:;"> Libertad</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:8px;font-weight:900;">12</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:-50px;">+6</span></td>
+ 	</tr>
+
+ 	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;">2</td>
+   		<td style="border:1px solid #3e3434;"><img src="{{ site.url}}/images/98.gif" height="24px" style="margin-left:;"><span style="margin-left:;"> Atl Tucumán</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:8px;font-weight:900;">9</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="margin-left:-50px;">+1</span></td>
+ 	</tr>
+
+ 	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;">3</td>
+   		<td style="border:1px solid #3e3434;"><img src="{{ site.url }}/images/815.gif" height="24px" style="margin-left:;"><span style="margin-left:;"> Peñarol</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:8px;font-weight:900;">6</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="margin-left:-50px;">+1</span></td>
+ 	</tr>
+
+ 	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;">4</td>
+   		<td style="border:1px solid #3e3434;"><img src="{{ site.url }}/images/74.gif" height="24px" style="margin-left:;"><span style="margin-left:;"> The Strongest</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:8px;font-weight:900;">3</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="margin-left:-50px;">-8</span></td>
+ 	</tr>
+    </tbody>
+  </table>
+</center>
+
+<br>
+
+<center><h3 style="color:#3c4449;font-weight:900;margin-bottom:0px;border:1px solid #3c4449;">Torneo Apertura 2018</h3></center>
+
+<br>
+
+<center>
+  <table>
+    <thead style="color:#fff;background:#3c4449;border:1px solid #3e3434;font-weight:900;">
+      <td>No</td>
+      <td><span style="float:left;margin-left:10px;">Equipo</span></td>
+      <td style="float:left;margin-left:0px;">Pts</td>
+      <td style="float:right;margin-left:30px;">Dif-Goles</td>
+    </thead>
+    <tbody style="color:#fff;">
+
+ 	<tr style="border:1px solid #3e3434;">
+		
+   		<td style="border:1px solid #3e3434;">1</td>
+   		<td style="border:1px solid #3e3434;"><img src="{{ site.url }}/images/83.gif" height="24px" style="margin-left:;"><span style="margin-left:;"> Nacional</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:8px;font-weight:900;">35</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:-50px;">+17</span></td>
+ 	</tr>
+
+ 	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;">2</td>
+   		<td style="border:1px solid #3e3434;"><img src="{{ site.url}}/images/98.gif" height="24px" style="margin-left:;"><span style="margin-left:;"> Peñarol</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:8px;font-weight:900;">33</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="margin-left:-50px;">+15</span></td>
+ 	</tr>
+
+ 	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;">3</td>
+   		<td style="border:1px solid #3e3434;"><img src="{{ site.url }}/images/72.gif" height="24px" style="margin-left:;"><span style="margin-left:;"> Danubio</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:8px;font-weight:900;">30</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="margin-left:-50px;">+11</span></td>
+ 	</tr>
+
+ 	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;">4</td>
+   		<td style="border:1px solid #3e3434;"><img src="{{ site.url }}/images/110.gif" height="24px" style="margin-left:;"><span style="margin-left:;"> Defensor Sporting</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:8px;font-weight:900;">30</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="margin-left:-46px;">+9</span></td>
+ 	</tr>
+	
+	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;">5</td>
+   		<td style="border:1px solid #3e3434;"><img src="{{ site.url }}/images/191.gif" height="24px" style="margin-left:;"><span style="margin-left:;"> Liverpool</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:8px;font-weight:900;">24</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="margin-left:-46px;">-1</span></td>
+ 	</tr>
+	
+	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;">6</td>
+   		<td style="border:1px solid #3e3434;"><img src="{{ site.url }}/images/197.gif" height="24px" style="margin-left:;"><span style="margin-left:;"> River Plate</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:8px;font-weight:900;">22</span></td>
+   		<td style="border:1px solid #3e3434;"><span style="margin-left:-46px;">+6</span></td>
+ 	</tr>
+    </tbody>
+  </table>
+</center>
+
+<!--</html>-->
+
