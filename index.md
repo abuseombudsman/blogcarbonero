@@ -19,7 +19,7 @@ author: CAPeñarol.CF
 
 <br>
 
-<img src="{{ site.url }}/images/g848.png" style="margin-left:-40px;margin-top:-30px;" width="600">
+<img src="{{ site.url }}/images/g848.png" style="margin-left:-40px;margin-top:-25px;" width="600">
 <center>
    <table>
      <thead>
@@ -75,7 +75,7 @@ author: CAPeñarol.CF
       <td style="float:left;margin-left:0px;">Pts</td>
       <td style="float:right;margin-left:30px;">Dif-Goles</td>
     </thead>
-    <tbody style="color:#fff;">
+    <tbody style="color:#fff;background:#7d7d7d;">
 
  	<tr style="border:1px solid #3e3434;">
 		
@@ -123,7 +123,7 @@ author: CAPeñarol.CF
       <td style="float:left;margin-left:0px;">Pts</td>
       <td style="float:right;margin-left:30px;">Dif-Goles</td>
     </thead>
-    <tbody style="color:#fff;">
+    <tbody style="color:#fff;background:#7d7d7d;">
 
  	<tr style="border:1px solid #3e3434;">
 		
