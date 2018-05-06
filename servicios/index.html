@@ -114,7 +114,7 @@ tags: Club Atlético Peñarol Blog Carbonero CAPeñarol.CF lista entradas
   {% else %}
     <span class="previous" style="margin-right:10px;font-weight:900;"><i class="glyphicon glyphicon-chevron-left"></i> Previous</span>
   {% endif %}
-  <span class="page_number " style="margin-right:10px;font-weight:900;"> Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <span class="page_number " style="margin-right:10px;font-weight:900;color:#3e3434;"> Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="btn btn-primary next" style="margin-right:10px;font-weight:900;">Next <span> </span><i class="glyphicon glyphicon-chevron-right"></i></a>
   {% else %}
