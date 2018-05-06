@@ -12,7 +12,7 @@ body {
 	text-align: justify;
 	font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; /* Tahoma, Arial, Helvetica, sans-serif;  */
 	font-size: 16px; 
-	color: #fff;/*#382b2b;*/
+	color: #382b2b;/*#382b2b;*/
 	background-color: karma;
 	background: url(/images/fondo_122B.jpg);
 	background-attachment: fixed;
@@ -219,7 +219,7 @@ img.right {
 	line-height: 124%;
 	letter-spacing: 0.0em;
 /*	border-bottom: 1px #2C4449 solid; */
-        color: #fff;
+        color: #fdfbc2;
 }
 
 .post h1 {

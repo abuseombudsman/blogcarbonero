@@ -14,7 +14,7 @@ tiempo_de_lectura: "2:30 min"
 
 <html>
 	<p>
-		<img src="https://i.imgur.com/H2KN9LT.jpg" class="right" height="300px">
+		<img src="https://i.imgur.com/H2KN9LT.jpg" class="right" width="300px">
 		El equipo de Atlético Tucumán regó la cancha desde el mediodía para lograr que la misma estuviera bien pesada a la hora del encuentro pactado contra Peñarol, los jugadores cansados se vieron desfavorecidos con el campo en éstas condiciones y además se lesionaron 3 jugadores: el arquero de Atlético, Dawson y Corujo, éste último se presume que de gravedad.
 	</p>
 </html>	

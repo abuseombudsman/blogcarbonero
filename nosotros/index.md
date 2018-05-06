@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Club Atlético Peñarol - @CAPeñarol.CF
+title: "Club Atlético Peñarol<br> @CAPeñarol.CF"
 name: index.md
 description: Club Atlético Peñarol @CAPeñarol.CF
 tags: Peñarol
@@ -12,14 +12,16 @@ author: CAPeñarol.CF
   <h1 class="title font-effect-shadow-multiple" style="font-family:color:#3e3434;letter-spacing:0;">
     <a href="{{ page.url }}" style="text-decoration:none;">
       <span class="font-effect-shadow-multiple" style="color:#3e3434;">
-        {{ page.title }}<!-- Progreso vs Peñarol en el Nasazzi a las 15:30 hora uruguaya-->
+        <center>
+          {{ page.title }}<!-- Progreso vs Peñarol en el Nasazzi a las 15:30 hora uruguaya-->
+        </center>
       </span>
     </a>
   </h1>
 
   <br>
 
-  <div id="border-guzmán" style="border:2px solid #fff;"></div>
+<!--  <div id="border-guzmán" style="border:2px solid #fff;"></div>  -->
 
   <br>
   <br>
