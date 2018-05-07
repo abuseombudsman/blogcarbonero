@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Apertura 2018: Peñarol 4:1 Defensor Sporting"
+name: 2018-05-07-apertura-penarol-4-1-defensor-sporting.markdown
+description: "Fue triunfo para el carbonero ante, un desdibujado Defensor. Peñarol después del gol primario de Defensor fué se puede decir un monólogo atacando la valla de Defensor Sporting y tendría que haberse ido ganando ya en el primer tiempo."
+tags: "Apertura 2018, Eijo, Sport890, Peñarol, Defensor Sporting, Rojo, Varela, Formiliano, Arias, Guzmán-Pereira, Cebolla, Franco Martínez, Lolo Estoyanoff, Maxi, Gargano, Canobbio, Gabriel Fernández, Cristian Palacios, Thiago Cardozo, Dawson, Atlético, Copa Libertadores, Clausura, Oriental, Máximo Goñi, Nacional, Campeonato Uruguayo, Anual, Final, fútbol uruguayo, Campeón, The Strongest, Ramos, Corujo"
+date: 2018-05-07 16:30:00 +01:00:00
+image1: https://i.imgur.com/4PZLrof.jpg
+image: https://i.imgur.com/tYmo6mC.jpg
+categories: futbol uruguayo apertura
+author: CAPeñarol.CF
+comments: true
+---
+
+<strong>Eijo</strong> decía en la entrevists que le hiciera el equipo de último al arco en radio <strong>Sport890</strong> que <strong>Peñarol</strong> se sentía mucho más cómodo cuando tenía el control de la pelota y eso era lo que no conseguía en estos últimos partidos. Que al tener que correr de atrás a los equipos demandaba un desgaste mayor en este período de seguidilla de partidos. Contra <strong>Defensor</strong> volvió <strong>Peñarol</strong> a reencontrarse con el balón. Fué luego de que <strong>Defensor</strong> se pusiera en ventaja, <strong>Peñarol</strong> se fue arrimando al arco contrario en busca del empate mostrando un fútbol ofensivo con momentos de gran fútbol. Los laterales <strong>Varela</strong> y <strong>Rojo</strong> se desdoblaban, los centrales <strong>Formiliano</strong> y <strong>Arias</strong> iban a cabecear al área de <strong>Defensor</strong>, <strong>Estoyanoff</strong> mostraba rapidez y creatividad, <strong>Maxi</strong> se desmarcaba y pivoteaba, el <strong>Cebolla</strong> y <strong>Guzmán</strong> hacían lo que creo era el mejor partido dessde que juegan juntos en la función del doble cinco ante la ausencia de <strong>Gargano</strong>, dominaron en el medio. <strong>Franco Martínez</strong> colaboraba y se entendía con <strong>Guzmán</strong> y el <strong>Cebolla</strong>, entró por <strong>Cannobio</strong> que estaba un poco golpiado.
+
+El gol del empate llegó como una consecuencia lógica de lo que estaba pasando en la cancha. Fué por intermedio del lateral izquierdo <strong>Rojo</strong> que tomó un rebote en el aria y de un furibundo tiro contra el palo izquierdo del arco de <strong>Defensor</strong> la mandó a guardar. Fué sobre el final del primer tiempo cuando <strong>Peñarol</strong> había hecho méritos suficientes como para igualar el partido. Incluso en el cierre del primer tiempo <strong>Peñarol</strong> se perdió el segundo en varias oportunidades, la más clara fué una del <strong>Lolo Estoyanoff</strong> que se lo perdió después que <strong>Maxi</strong> se lo perdiera primero, dos grandes tapadas del golero que ahí se lesionó y tuvo ser cambio. <strong>Defensor Sporting</strong> se veía totalmente superado por un <strong>Peñarol</strong> que exibía el mejor de su fútbol que había aparecido en cuentagotas en los últimos partidos.
+
+En el segundo tiempo <strong>Peñarol</strong> continúa siendo el dueño de la pelota, aparece en acción <strong>Cristian Palacios</strong> quien entró por <strong>Gabriel Fernández</strong> y le trajo nuevamente dos goles desde el banco a <strong>Peñarol</strong>. Se confirma que el goleador <strong>Palacios</strong> volvió a la senda del gol y que importante! es tener gol desde el banco cuando las cosas no salen, ésta es otra virtud del gran plantel con que cuenta <strong>Peñarol</strong>. <strong>Formiliano</strong> anotó el cuarto pero <strong>Peñarol</strong> erró unas cuantas también se podría haber ido con una goleada más abultada aún.
+
+<br>
+<br>
+<br>
+
+<html>
+ <center><img src="https://i.imgur.com/tYmo6mC.jpg" style="border:1px solid #3c4449;"></center>
+</html>
+
+<br>
+<br>
+<br>
+
+En resúmen <strong>Peñarol</strong> volvió por sus fueros, volvió a tener el control del balón que sirve para correr menos y no desgastarse tanto fisicamente en estos momentos de calendario apretado. <strong>Thiago Cardozo</strong> cumplió una buena actuación, le tocó sustituír a <strong>Dawson</strong> quien se lesionara ante <strong>Atlético</strong> por la <strong>Copa</strong>. El fútbol y el despliegue de los del medio <strong>Guzmán-Pereira</strong> quien se afianza cada vez más en esa posición central, lo mismo cabe para <strong>Franco Martínez</strong>, gran fútbol. Arriba <strong>Maxi</strong> cumplió el mejor de los últimos partidos que le vimos. Lo mismo <strong>Fernández</strong> hasta que se fue al banco y apareció la cuota del gol <strong>Palacios</strong>.
+
+<strong>Eijo</strong> decía que <strong>Peñarol</strong> se siente más cómodo es cuando tiene la pelota y el sábado <strong>Peñarol</strong> la tuvo. <strong>Nacional</strong> se llevó el <strong>Apertura</strong> pero <strong>Peñarol</strong> quedó ahí respirándole en la nuca a dos puntos en el anual. Esto es el <strong>Campeonato Uruguayo</strong> uno de los más difíciles de definirse ofreciendo finales de gran emoción y suspenso paliando el hueco que dejan la emigración de futbolistas jóvenes al exterior. Lo decía <strong>Maximo Goñi</strong> en cx12 <strong>Oriental</strong> que por la definición que tiene el mismo y pese a todas las carencias que tiene el fútbol uruguayo es emocionante aún así el <strong>Campeonato Uruguayo</strong>. Esto recién empieza es en 5 actos, el primero se lo llevó <strong>Nacional</strong>: El <strong>Apertura</strong>. Queda El <strong>Clausura</strong>, La <strong>Final</strong> (entre los dos <strong>Campeones</strong>), El <strong>Anual</strong>, La <strong> Final</strong> (contra el <strong>Campeón</strong> del <strong>Anual</strong>) y recién ahí dirimir quien se lleva el <strong>Campeonato Uruguayo</strong>. <strong>Peñarol</strong> le sacó 6 puntos a <strong>Defensor Sporting</strong> y <strong>Nacional</strong> 8. Los cuadros grandes se perfilan como claros favoritos ante los cuadros en desarrollo que tienen un presupuesto muy por debajo de los dos grandes. Lamentablementge así es el <strong>fútbol uruguayo</strong>.
+
+Se viene el partido por <strong>Copa Libertadores</strong> frente a <strong>The Strongest</strong>, jueves 17/5 si <strong>Peñarol</strong> logra como pensamos los 3 puntos sería al mismo tiempo lógico que Peñarol pasara de fase al no haber perdido ningún punto de local. El funcionamiento de <strong>Peñarol</strong> anduvo a la perfección contra <strong>Defensor Sporting</strong>. <strong>Ramos</strong> mostró que tiene recursos <strong>Guzmán</strong> y <strong>Franco Martínez</strong> tuvieron bien y dominaron en el medio, son substituciones por <strong>Corujo</strong> que funcionan y por sobre todas las cosas <strong>Palacios</strong> volvió a la senda del gol, los trae desde el banco cosa que en el fútbol moderno donde los márgenes de ganar un partido son muy finos, tener goles en el banco que pueden entrar le dan la alternativa a <strong>Ramos</strong> de que puede cambiar el rumbo de un partido y sobre la marcha con jugadores que también andan derecho. Por todo esto me parece que <strong>Peñarol</strong> puede sacar ventaja la semana que viene. 
