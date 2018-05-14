@@ -36,8 +36,8 @@ permalink:		pretty
 source:			"."
 destination:		"/_site"
 port:			9001
-baseurl:		""
-url:			http://xn--capearol-g3a.cf
+baseurl:		"/blogcarbonero"
+url:			http://xn--capearol-g3a.cf/blogcarbonero
 encoding:		UTF-8
 
 
