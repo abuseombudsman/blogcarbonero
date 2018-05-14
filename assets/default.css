@@ -10,11 +10,14 @@ body {
 	padding: 0;
 	background: karma;
 	text-align: justify;
-	font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; /* Tahoma, Arial, Helvetica, sans-serif;  */
-	font-size: 16px; 
-	color: #382b2b;/*#382b2b;*/
+	font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; /* Tahoma, Arial, Helvetica, sans-serif;
+  */
+	font-size: 16px;
+ 
+	color: #382b2b;/*#382b2b;
+*/
 	background-color: karma;
-	background: url(/images/fondo_122B.jpg);
+	background: url({{ site.url }}/images/fondo_122B.jpg);
 	background-attachment: fixed;
 }
 
@@ -47,7 +50,8 @@ ul {
 
 a {
 	text-decoration: none;
-	color: #2C4449;/* #2C4449 */
+	color: #2C4449;
+/* #2C4449 */
 }
 
 a:hover {
@@ -81,14 +85,14 @@ img.right {
 	width: 600px;   /* 960 */
 	height: 191px;
 	margin: 0 auto;
-	background: url(/images/img02.jpg) no-repeat left top;
+	background: url({{ site.url }}/images/img02.jpg) no-repeat left top;
 }
 
 #logo2 {
 	width: 600px;
 	height: 52px;
 	margin: 0 auto;
-	background: url(/images/img05.png) no-repeat bottom right;
+	background: url({{ site.url }}/images/img05.png) no-repeat bottom right;
 }
 
 #logo h1, #logo p {
@@ -131,7 +135,7 @@ img.right {
 	padding: 10px;
 	height: 90px;
 	padding-top: 11px;
-	background: url(/images/img01.jpg) repeat-x left top;
+	background: url({{ site.url }}/images/img01.jpg) repeat-x left top;
 }
 
 #menu ul {
@@ -160,7 +164,8 @@ img.right {
 
 /*#menu a:hover {
 	color: #FFFFFF;
-}*/
+}
+*/
 
 #menu .current_page_item a {
 	color: #FFFFFF;
@@ -177,7 +182,8 @@ img.right {
 /*    background-color: #000;
     background: url(images/fondo_122B.jpg);
     background-attachment: fixed;
-    background-position: 29px 0px 0px 0px; */
+    background-position: 29px 0px 0px 0px;
+ */
 }
 
 /* Page */
@@ -187,7 +193,7 @@ img.right {
 	width: 600px; /* 960 */
 	margin: 0 auto;
 	padding: 0px;
-	background: url(/images/image851.png) repeat #7d7d7d left top;
+	background: url({{ site.url }}/images/image851.png) repeat #7d7d7d left top;
 	border-top: continuous;
 }
 
@@ -218,7 +224,8 @@ img.right {
         font-size: 16px;
 	line-height: 124%;
 	letter-spacing: 0.0em;
-/*	border-bottom: 1px #2C4449 solid; */
+/*	border-bottom: 1px #2C4449 solid;
+ */
         color: #fdfbc2;
 }
 
@@ -252,7 +259,8 @@ img.right {
 .byline {
 	margin: 10px 0px 20px 0px;
 	padding: 4px 0px;
-	font-family: monospace; /*Arial, Helvetica, sans-serif; */
+	font-family: monospace; /*Arial, Helvetica, sans-serif;
+ */
 	font-size: 12px;
 	color: #FFFFFF;
 }
@@ -268,7 +276,8 @@ img.right {
 .links {
 	width: 80px;
 	height: 33px;
-/*	background: url(images/img05.png) no-repeat left top; --*/
+/*	background: url(images/img05.png) no-repeat left top;
+ --*/
 	text-align: right;
 	font-weight: bold;
 }
