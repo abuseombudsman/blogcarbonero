@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Peñarol vs The Strongest que presentará cuadro sin titulares el jueves"
+name: 2018-05-16-penarol-vs-the-strongest-que-presentara-cuadro-sin-titulares-el-jueves.markdown
+description: "Peñarol apronta el partido del jueves ante The Strongest que anuncia un cuadro de suplentes para el jueves. Peñarol no depende de sí mismo depende de que Libertad haga los deberes ante Atl Tucumán, el empate en ese partido clasifica a los dos."
+tags: Peñarol The Strongest Copa Conmebol Libertadores Progreso Guzmán-Pereira Marcel Novick Catino Libertad Asunción CDS chori Dawson Atlético Tucumán Carbonero 
+date: 2018-05-16 00:30:00 +01:00:00
+image1: https://i.imgur.com/w8caSFJ.jpg
+categories: futbol libertadores
+author: CAPeñarol.CF
+comments: true
+---
+
+<strong>Peñarol</strong> enfrenta pasado mañana a <strong>The Strongest</strong> por la última fecha del grupo C de la <strong>Copa Conmebol Libertadores</strong>. El equipo si bien no está confirmado sería igual que el del sábado que enfrentó a <strong>Progreso</strong> con la única variante de <strong>Guzmán-Pereira</strong> por <strong>Marcel Novick</strong>. O sea Dawson; Varela, Formiliano, Arias, Hernández; Guzmán-Pereira, Franco Martínez, Cristian Rodriguez; Estoyanoff, Maxi Rodriguez y Cristian Palacios.
+
+Hasta ahí todo bien, <strong>Peñarol</strong> espera cambiar la pisada en un partido que como decía su vicepresidente <strong>Catino</strong> es el más importante del semestre. El problema es solamente que <strong>Peñarol</strong> no depende de sí mismo y debe esperar un resultado favorable de <strong>Libertad</strong>. Lo único que <strong>Libertad</strong> no causo impresión de ser un gran cuadro, recordamos que cuando lo enfrentó <strong>Peñarol</strong> en <strong>Asunción</strong> lo fue ganando 1-0 hasta los 20' del segundo tiempo y que en el <strong>CDS</strong> después que <strong>Peñarol</strong> se puso en ventaja hubo tibios intentos y solamente una chance clara de gol que fue la que <strong>Dawson</strong> sacó por encima del travesaño con una mano, luego entró el <strong>Chori</strong> y lo ejecutó con el segundo gol. Pero en ningún momento nos dió la impresión de ser un cuadro invencible. Lo extraño es que ninguno de los otros cuadros le pudo sacar puntos a <strong>Libertad</strong> hasta el momento. Mérito quizás de <strong>Peñarol</strong> de haber sido el único que le ganó.
+
+Por todo esto quedamos como a la espera de ese partido que van a disputar en <strong>Asunción</strong>, <strong>Libertad</strong> - <strong>Atlético Tucumán</strong>. Lo lógico sería que <strong>Libertad</strong> trate de ganarlo para quedar como uno de los mejores primeros de primeros y poder jugar la vuelta de locatario las fases que vienen. Solo un dato me deja tranquilo de que <strong>Libertad</strong> le pueda ganar a <strong>Atl Tucumán</strong> y es que <strong>Libertad</strong> es un cuadro contragolpeador y que <strong>Atl Tucumán</strong> es un cuadro que tiene que salir desde el vamos a por puntos y por lo menos marcar un gol para asegurarse por lo menos un empate. Lo lógico es que si eso se da y <strong>Atl Tucumán</strong> arranca ofensivo lo puede contragolpear <strong>Libertad</strong> y ejecutarlo de esa manera.
+
+Ante todo quiero decir que <strong>Peñarol</strong> debería sumar tres puntos más para considerarse con una actuación decorosa en esta <strong>Libertadores</strong> y dándose eso no tiene mucha importancia la no-clasificación. Siempre está latente la posibilidad de que el equipo de <strong>Tucumán</strong> pierda. Aunque uno siempre queda con el mrbo que significa que si empatan clasifican los dos y se puede dar eso y nadie evitar, sería cuestión entonces de ver si <strong>Libertad</strong> le perdona la vida a un cuadro argentino, aunque del interior argentino cosa que puede hacer que <strong>Libertad</strong> se preocupe menos de ganarle a este cuadro de <strong>Tucumán</strong>.
+
+No es simple la clasificación, primero hacer los deberes ganandole a <strong>The Strongest</strong> que viene con equipo suplente y la vuelta de <strong>Guzmán-Pereira</strong> le devuelve solidez al medio. Esperamos hacer un buen partido obtener los 3 puntos y después se verá, sigo insistiendo que el cuadro que ganá los 9 puntos de local tiene media clasificación en el bolsillo y sería raro quedar afuera con 9 puntos de 9 como locatario. Suerte <strong>Carbonero</strong>!
