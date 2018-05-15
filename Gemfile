@@ -20,8 +20,8 @@ gem "minima", "~> 2.0"
 # If you have any plugins, put them here!
 group :production do
   gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-sitemap"
-  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap", "~> 1.2.0"
+  gem "jekyll-seo-tag", "~> 2.4.0"
   gem "bigdecimal"
   gem "jekyll-paginate"
 end
