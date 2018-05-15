@@ -17,7 +17,7 @@ body {
 	color: #382b2b;/*#382b2b;
 */
 	background-color: karma;
-	background: url({{ site.url }}/images/fondo_122B.jpg);
+	background: url(images/fondo_122B.jpg);
 	background-attachment: fixed;
 }
 
@@ -85,14 +85,14 @@ img.right {
 	width: 600px;   /* 960 */
 	height: 191px;
 	margin: 0 auto;
-	background: url({{ site.url }}/images/img02.jpg) no-repeat left top;
+	background: url(images/img02.jpg) no-repeat left top;
 }
 
 #logo2 {
 	width: 600px;
 	height: 52px;
 	margin: 0 auto;
-	background: url({{ site.url }}/images/img05.png) no-repeat bottom right;
+	background: url(images/img05.png) no-repeat bottom right;
 }
 
 #logo h1, #logo p {
@@ -135,7 +135,7 @@ img.right {
 	padding: 10px;
 	height: 90px;
 	padding-top: 11px;
-	background: url({{ site.url }}/images/img01.jpg) repeat-x left top;
+	background: url(images/img01.jpg) repeat-x left top;
 }
 
 #menu ul {
@@ -193,7 +193,7 @@ img.right {
 	width: 600px; /* 960 */
 	margin: 0 auto;
 	padding: 0px;
-	background: url({{ site.url }}/images/image851.png) repeat #7d7d7d left top;
+	background: url(images/image851.png) repeat #7d7d7d left top;
 	border-top: continuous;
 }
 
