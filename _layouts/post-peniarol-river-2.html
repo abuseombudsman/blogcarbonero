@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : Gestured
+Description: A three-column, fixed-width blog design.
+Version    : 1.0
+Released   : 20091004
+
+Adapted by :Tillhor Penarol
+Version    : 1.0.1
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+{% include head.html %}
+ <body>
+
+{% include schema-peniarol-river-2.html %}
+<!-- start wrapper -->
+<div id="wrapper">
+ 
+ <!-- start header -->
+  <div id="header" class="rounded">
+   
+	{% include menu.html %}
+   
+	{% include logo1.html %}
+	
+<style>
+	.gsc-control-cse {
+    		font-family: Arial, sans-serif;
+    		border-color: #3c4449;/*#382b2b;*/
+    		background-color: #3c4449;/*#382b2b;*/
+}
+</style>
+	
+	{% include logo2.html %}
+	
+  </div>
+ <!-- end header -->
+ 
+ <!-- start page -->
+  <div id="page" style="border:1px solid #3c4449;">
+		
+      <!-- start content -->
+	<div id="content">
+	 
+         {% include posteo.html %}
+			
+	</div>
+      <!-- end content -->
+      <div style="clear: both;">&nbsp;</div>
+	
+  </div>
+ <!-- end page -->
+
+</div>
+<!-- end wrapper -->
+ 
+ <!-- start footer -->
+  
+    {% include footer.html %}
+ 
+ <!-- end footer -->
+ 
+ </body>
+</html>
