@@ -4,7 +4,8 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="Tillhör" content="Pertenece a " />
   <meta name="Peñarol" content="La Institución Club Atlético Peñarol" />
-  <meta name="Tillhör Peñarol" content="Medio de comunicación del Club Atlético Peñarol" />
+  <meta name="Tillhör Peñarol" content="La Institución Club Atlético Peñarol" />
+  <meta name="CAPeñarol.CF" content="La Institución Club Atlético Peñarol" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "{{ site.url }}/feed.xml" | relative_url }}">
   <link href="{{ site.url }}/assets/default.css" rel="stylesheet" type="text/css" media="screen" />
@@ -12,6 +13,13 @@
  <link href="{{ site.url }}/assets/main.css" rel="stylesheet" type="text/css" media="screen" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple">
   <link rel="icon" href="{{ site.url }}/images/g829.png">
+
+  {% include sports-club-atletico-peniarol.html %}
+
+  {% if page.partido | 'peniarol-6-0-river.html' %}
+  	{% include peniarol-6-0-river.html %}
+  {% endif %}
+  {% seo %}
   
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115504550-1"></script>
