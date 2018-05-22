@@ -3,7 +3,7 @@ layout: post
 title: "Intermedio: Peñarol aplastó a River Plate darsenero 6:0"
 name: 2018-05-22-intermedio-penarol-aplasto-a-river-plate-darsenero-6-0.markdown
 description: "En un encuentro que fué todo de Peñarol en la despedida del Cebolla y Varela, quedan afectados con la selección, hubo una fiesta de goles. Peñarol dió cuenta de River por 6:0, marcaron Palacios 2, Arias, el Cebolla y Maxi Rodriguez, gran partido de Formiliano..."
-tags: Cebolla Rodriguez Cristian River CDS pueblo carbonero tribuna Cataldi Intermedio grupo B Nacional tabla Anual Ramos Estoyanoff Williams Martínez Lolo Palacios Maxi Rodriguez Arias
+tags: "Cebolla, Rodriguez, Cristian, Rodriguez, River, CDS, pueblo, carbonero, tribuna, Cataldi, Intermedio, grupo, B, Nacional, tabla, Anual, Ramos, Lolo, Estoyanoff, Williams, Martínez, Palacios, Maxi, Rodriguez, Arias"
 date: 2018-05-22 15:30:00 +01:00:00
 image1: https://i.imgur.com/7OfO3hk.jpg
 image4: https://i.imgur.com/8qsoUp3.jpg

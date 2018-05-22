@@ -50,6 +50,13 @@
 
  <br>
 
+ <p class="tag">{{ tags_list }}</p>
+    {% unless page.tags == empty %}
+       <ul class="tag_box inline" style="color:white;background:green;">
+          {% assign tags_list = page.tags %}
+          {% include JB/tags_list %}
+       </ul>
+    {% endunless %} 
 
 <!-- Disqus comments (start) -->
 
