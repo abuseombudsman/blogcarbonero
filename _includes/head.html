@@ -1,8 +1,7 @@
-<head>
+
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="tags" content="{{ page.tags }}" />
+ <!-- <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title> -->
   <meta name="Tillhör" content="Pertenece a " />
   <meta name="Peñarol" content="La Institución Club Atlético Peñarol" />
   <meta name="Tillhör Peñarol" content="La Institución Club Atlético Peñarol" />
@@ -14,23 +13,53 @@
  <link href="{{ site.url }}/assets/main.css" rel="stylesheet" type="text/css" media="screen" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple">
   <link rel="icon" href="{{ site.url }}/images/g829.png">
+  <script type='application/ld+json'>
+	{
 
-  {% include sports-club-atletico-peniarol.html %}
+		"@context" : "http://www.schema.org",
 
+		"@type" : "SportsClub",
+
+		"name" : "Club Atlético Peñarol",
+
+		"url": "{{ site.url }}",
+
+		"logo" : "{{ site.url }}/assets/images/g829.png",
+
+		"address" : {
+
+				"@type": "PostalAddress",
+
+				"streetAddress": "Estadio Campeón del Siglo",
+
+				"addressLocality": "Montevideo",
+
+				"addressRegion": "Montevideo",
+
+				"addressCountry": "Uruguay"
+
+		}
+
+        }
+  </script>
   {% if page.partido | 'peniarol-6-0-river.html' %}
-  	{% include peniarol-6-0-river.html %}
+     {% include peniarol-6-0-river.html %}
+  {% endif %}
+  {% if page.partido2 | 'schema-atenas-peniarol.html' %}
+     {% include schema-atenas-peniarol.html %}
   {% endif %}
   {% seo %}
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115504550-1"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115504550-2"></script>
   <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'UA-115504550-1');
+        gtag('config', 'UA-115504550-2');
   </script>
+
+  
 
   
   
