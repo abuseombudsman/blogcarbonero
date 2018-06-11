@@ -818,7 +818,7 @@ No es fácil ganar el <strong>mundial</strong> en <strong>Europa</strong> para l
 
 <br>
 
-<img src="/images/Sedes.png" width="521" style="border:2px solid #3c4449" alt="Sedes del mundial de Rusia 2018">
+<img src="{{ site.url }}/images/Sedes.png" width="521" style="border:2px solid #3c4449" alt="Sedes del mundial de Rusia 2018">
 
 <br>
 
@@ -840,7 +840,7 @@ No es fácil ganar el <strong>mundial</strong> en <strong>Europa</strong> para l
 
 <br>
 
-<img src="/images/Estadios.png" width="521" style="border:2px solid #3c4449;" alt="Estadios del mundial de Rusia 2018">
+<img src="{{ site.url }}/images/Estadios.png" width="521" style="border:2px solid #3c4449;" alt="Estadios del mundial de Rusia 2018">
 
 <br>
 
