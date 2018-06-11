@@ -53,27 +53,27 @@ Una crítica que déjo es lo encima de la finalización de torneos europeos este
     </thead>
     <tbody style="color:#fff;">
 
- 	<tr style="border:1px solid #3e3434;">
+ 	<tr style="border:1px solid #3e3434;color:#fff;">
 		
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43948-alemania.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Alemania</span></td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43948-alemania.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Alemania</span></td>
    		
  	</tr>
 	
-	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">2</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43969-espania.png" height="24px" style="margin-left:;"><span style="margin-left:;"> España</span></td>
+	<tr style="border:1px solid #3e3434;color:#fff;">
+   		<td style="border:1px solid #3e3434;color:#fff;">2</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43969-espania.png" height="24px" style="margin-left:;"><span style="margin-left:;"> España</span></td>
    		
  	</tr>
 
- 	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">3</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43946-francia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Francia</span></td>
+ 	<tr style="border:1px solid #3e3434;color:#fff;">
+   		<td style="border:1px solid #3e3434;color:#fff;">3</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43946-francia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Francia</span></td>
    		
  	</tr>
-	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">4</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url}}/images/43935-belgica.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Bélgica</span></td>
+	<tr style="border:1px solid #3e3434;color:#fff;">
+   		<td style="border:1px solid #3e3434;color:#fff;">4</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url}}/images/43935-belgica.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Bélgica</span></td>
    		
  	</tr>
 
@@ -122,36 +122,36 @@ Yo he escuchado como siempre que son los favoritos de siempre, sin embargo hay c
 
  	<tr style="border:1px solid #3e3434;">
 		
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43924-brasil.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Brasil</span></td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43924-brasil.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Brasil</span></td>
 		
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">2</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url}}/images/43922-argentina.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Argentina</span></td>
+   		<td style="border:1px solid #3e3434;color:#fff;">2</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url}}/images/43922-argentina.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Argentina</span></td>
 		
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">3</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43926-colombia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Colombia</span></td>
+   		<td style="border:1px solid #3e3434;color:#fff;">3</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43926-colombia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Colombia</span></td>
 		
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">3</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43929-peru.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Perú</span></td>
+   		<td style="border:1px solid #3e3434;color:#fff;">3</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43929-peru.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Perú</span></td>
 		
    		
  	</tr>
 	
 	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">3</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43930-uruguay.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Uruguay</span></td>
+   		<td style="border:1px solid #3e3434;color:#fff;">3</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43930-uruguay.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Uruguay</span></td>
 		
    		
  	</tr>
@@ -184,7 +184,7 @@ No es fácil ganar el <strong>mundial</strong> en <strong>Europa</strong> para l
 
 <br>
 
-<center><h3> Grupo A</h3></center>
+<center><h3 style="color:green;"> Grupo A</h3></center>
 
 <br>
 <br>
@@ -209,46 +209,46 @@ No es fácil ganar el <strong>mundial</strong> en <strong>Europa</strong> para l
 
  	<tr style="border:1px solid #3e3434;">
 		
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43965-rusia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Rusia</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43965-rusia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Rusia</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
 
- 	<tr style="border:1px solid #3e3434;color:#3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url}}/images/43835-arabia-saudita.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Arabia Saudita</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+ 	<tr style="border:1px solid #3e3434;color:#fff;">
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url}}/images/43835-arabia-saudita.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Arabia Saudita</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43855-egipto.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Egipto</span></td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43855-egipto.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Egipto</span></td>
+   		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
 		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43930-uruguay.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Uruguay</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43930-uruguay.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Uruguay</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
     </tbody>
@@ -262,7 +262,7 @@ No es fácil ganar el <strong>mundial</strong> en <strong>Europa</strong> para l
 <br>
 
 
-<center><h3> Grupo B</h3></center>
+<center><h3 style="color:green;"> Grupo B</h3></center>
 
 <br>
 <br>
@@ -286,280 +286,46 @@ No es fácil ganar el <strong>mundial</strong> en <strong>Europa</strong> para l
 
  	<tr style="border:1px solid #3e3434;">
 		
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43963-portugal.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Portugal</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43963-portugal.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Portugal</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url}}/images/43969-espania.png" height="24px" style="margin-left:;"><span style="margin-left:;"> España</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url}}/images/43969-espania.png" height="24px" style="margin-left:;"><span style="margin-left:;"> España</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43872-marruecos.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Marruecos</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43872-marruecos.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Marruecos</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43817-iran.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Irán</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-   		
- 	</tr>
-    </tbody>
-  </table>
-</center>
-
-
-<br>
-
-<br>
-
-<br>
-
-
-
-<center><h3> Grupo C</h3></center>
-
-
-<br>
-
-<br>
-
-<br>
-
-<center>
-  <table>
-    <thead style="color:#fff;background:#3c4449;border:1px solid #3e3434;font-weight:900;">
-      
-      <td style="float:left;margin-left:0px;">Ranking</td>
-	  <td><span style="float:left;margin-left:10px;">Equipo</span></td>
-      <td><span style="float:left;margin-left:10px;">Pts</span></td>
-	  <td><span style="float:left;margin-left:10px;">PJ</span></td>
-	  <td><span style="float:left;margin-left:10px;">PG</span></td>
-	  <td><span style="float:left;margin-left:10px;">PP</span></td>
-	  <td><span style="float:left;margin-left:10px;">DF</span></td>
-      
-    </thead>
-    <tbody style="color:#fff;">
-
- 	<tr style="border:1px solid #3e3434;">
-		
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43946-francia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Francia</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-   		
- 	</tr>
-
- 	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url}}/images/43976-australia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Australia</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-   		
- 	</tr>
-
- 	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43929-peru.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Perú</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-   		
- 	</tr>
-
- 	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43941-dinamarca.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Dinamarca</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-   		
- 	</tr>
-    </tbody>
-  </table>
-</center>
-<center>
-
-<br>
-
-<br>
-
-<br>
-
-
-<h3>  Grupo D</h3>
-
-
-<br>
-<br>
-<br>
-
-<center>
-  <table>
-    <thead style="color:#fff;background:#3c4449;border:1px solid #3e3434;font-weight:900;">
-      
-      <td style="float:left;margin-left:0px;">Ranking</td>
-	  <td><span style="float:left;margin-left:10px;">Equipo</span></td>
-      <td><span style="float:left;margin-left:10px;">Pts</span></td>
-	  <td><span style="float:left;margin-left:10px;">PJ</span></td>
-	  <td><span style="float:left;margin-left:10px;">PG</span></td>
-	  <td><span style="float:left;margin-left:10px;">PP</span></td>
-	  <td><span style="float:left;margin-left:10px;">DF</span></td>
-      
-    </thead>
-    <tbody style="color:#fff;">
-
- 	<tr style="border:1px solid #3e3434;">
-		
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43922-argentina.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Argentina</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-   		
- 	</tr>
-
- 	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url}}/images/43951-islandia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Islandia</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-   		
- 	</tr>
-
- 	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43938-croacia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Croacia</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-   		
- 	</tr>
-
- 	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43876-nigeria.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Nigeria</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-   		
- 	</tr>
-    </tbody>
-  </table>
-</center>
-
-<br>
-
-<br>
-
-<br>
-
-<h3> Grupo E</h3>
-
-<br>
-<br>
-<br>
-
-<center>
-  <table>
-    <thead style="color:#fff;background:#3c4449;border:1px solid #3e3434;font-weight:900;">
-      
-      <td style="float:left;margin-left:0px;">Ranking</td>
-	  <td><span style="float:left;margin-left:10px;">Equipo</span></td>
-      <td><span style="float:left;margin-left:10px;">Pts</span></td>
-	  <td><span style="float:left;margin-left:10px;">PJ</span></td>
-	  <td><span style="float:left;margin-left:10px;">PG</span></td>
-	  <td><span style="float:left;margin-left:10px;">PP</span></td>
-	  <td><span style="float:left;margin-left:10px;">DF</span></td>
-      
-    </thead>
-    <tbody style="color:#fff;">
-
- 	<tr style="border:1px solid #3e3434;">
-		
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43924-brasil.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Brsil</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-   		
- 	</tr>
-
- 	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url}}/images/43971-suiza.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Suiza</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-   		
- 	</tr>
-
- 	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43901-costa-rica.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Costa Rica</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-   		
- 	</tr>
-
- 	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/1902465-serbia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Serbia</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43817-iran.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Irán</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
     </tbody>
@@ -575,7 +341,87 @@ No es fácil ganar el <strong>mundial</strong> en <strong>Europa</strong> para l
 
 
 
-<h3> Grupo  F</h3>
+<center><h3 style="color:green;"> Grupo C</h3></center>
+
+
+<br>
+
+<br>
+
+<br>
+
+<center>
+  <table>
+    <thead style="color:#fff;background:#3c4449;border:1px solid #3e3434;font-weight:900;">
+      
+      <td style="float:left;margin-left:0px;">Ranking</td>
+	  <td><span style="float:left;margin-left:10px;">Equipo</span></td>
+      <td><span style="float:left;margin-left:10px;">Pts</span></td>
+	  <td><span style="float:left;margin-left:10px;">PJ</span></td>
+	  <td><span style="float:left;margin-left:10px;">PG</span></td>
+	  <td><span style="float:left;margin-left:10px;">PP</span></td>
+	  <td><span style="float:left;margin-left:10px;">DF</span></td>
+      
+    </thead>
+    <tbody style="color:#fff;">
+
+ 	<tr style="border:1px solid #3e3434;">
+		
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43946-francia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Francia</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+   		
+ 	</tr>
+
+ 	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url}}/images/43976-australia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Australia</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+   		
+ 	</tr>
+
+ 	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43929-peru.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Perú</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+   		
+ 	</tr>
+
+ 	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43941-dinamarca.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Dinamarca</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+   		
+ 	</tr>
+    </tbody>
+  </table>
+</center>
+<center>
+
+<br>
+
+<br>
+
+<br>
+
+
+<h3 style="color:green;">  Grupo D</h3>
 
 
 <br>
@@ -599,46 +445,200 @@ No es fácil ganar el <strong>mundial</strong> en <strong>Europa</strong> para l
 
  	<tr style="border:1px solid #3e3434;">
 		
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43948-alemania.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Alemania</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43922-argentina.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Argentina</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url}}/images/43911-mexico.png" height="24px" style="margin-left:;"><span style="margin-left:;"> México</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url}}/images/43951-islandia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Islandia</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43970-suecia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Suecia</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43938-croacia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Croacia</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43822-corea-del-sur.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Corea del Sur</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43876-nigeria.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Nigeria</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+   		
+ 	</tr>
+    </tbody>
+  </table>
+</center>
+
+<br>
+
+<br>
+
+<br>
+
+<h3 style="color:green;"> Grupo E</h3>
+
+<br>
+<br>
+<br>
+
+<center>
+  <table>
+    <thead style="color:#fff;background:#3c4449;border:1px solid #3e3434;font-weight:900;">
+      
+      <td style="float:left;margin-left:0px;">Ranking</td>
+	  <td><span style="float:left;margin-left:10px;">Equipo</span></td>
+      <td><span style="float:left;margin-left:10px;">Pts</span></td>
+	  <td><span style="float:left;margin-left:10px;">PJ</span></td>
+	  <td><span style="float:left;margin-left:10px;">PG</span></td>
+	  <td><span style="float:left;margin-left:10px;">PP</span></td>
+	  <td><span style="float:left;margin-left:10px;">DF</span></td>
+      
+    </thead>
+    <tbody style="color:#fff;">
+
+ 	<tr style="border:1px solid #3e3434;">
+		
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43924-brasil.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Brsil</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+   		
+ 	</tr>
+
+ 	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url}}/images/43971-suiza.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Suiza</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+   		
+ 	</tr>
+
+ 	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43901-costa-rica.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Costa Rica</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+   		
+ 	</tr>
+
+ 	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/1902465-serbia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Serbia</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+   		
+ 	</tr>
+    </tbody>
+  </table>
+</center>
+
+
+<br>
+
+<br>
+
+<br>
+
+
+
+<h3 style="color:green;"> Grupo  F</h3>
+
+
+<br>
+<br>
+<br>
+
+<center>
+  <table>
+    <thead style="color:#fff;background:#3c4449;border:1px solid #3e3434;font-weight:900;">
+      
+      <td style="float:left;margin-left:0px;">Ranking</td>
+	  <td><span style="float:left;margin-left:10px;">Equipo</span></td>
+      <td><span style="float:left;margin-left:10px;">Pts</span></td>
+	  <td><span style="float:left;margin-left:10px;">PJ</span></td>
+	  <td><span style="float:left;margin-left:10px;">PG</span></td>
+	  <td><span style="float:left;margin-left:10px;">PP</span></td>
+	  <td><span style="float:left;margin-left:10px;">DF</span></td>
+      
+    </thead>
+    <tbody style="color:#fff;">
+
+ 	<tr style="border:1px solid #3e3434;">
+		
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43948-alemania.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Alemania</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+   		
+ 	</tr>
+
+ 	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url}}/images/43911-mexico.png" height="24px" style="margin-left:;"><span style="margin-left:;"> México</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+   		
+ 	</tr>
+
+ 	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43970-suecia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Suecia</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+   		
+ 	</tr>
+
+ 	<tr style="border:1px solid #3e3434;">
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43822-corea-del-sur.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Corea del Sur</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
     </tbody>
@@ -653,7 +653,7 @@ No es fácil ganar el <strong>mundial</strong> en <strong>Europa</strong> para l
 
 
 
-<h3> Grupo G</h3>
+<h3 style="color:green;"> Grupo G</h3>
 
 <br>
 <br>
@@ -676,46 +676,46 @@ No es fácil ganar el <strong>mundial</strong> en <strong>Europa</strong> para l
 
  	<tr style="border:1px solid #3e3434;">
 		
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43935-belgica.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Bélgica</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43935-belgica.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Bélgica</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url}}/images/43914-panama.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Panamá</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url}}/images/43914-panama.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Panamá</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43888-tunez.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Túnez</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43888-tunez.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Túnez</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43942-inglaterra.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Inglaterra</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43942-inglaterra.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Inglaterra</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
     </tbody>
@@ -728,7 +728,7 @@ No es fácil ganar el <strong>mundial</strong> en <strong>Europa</strong> para l
 
 <br>
 
-<h3> Grupo H</h3>
+<h3 style="color:green;"> Grupo H</h3>
 
 <br>
 <br>
@@ -751,46 +751,46 @@ No es fácil ganar el <strong>mundial</strong> en <strong>Europa</strong> para l
 
  	<tr style="border:1px solid #3e3434;">
 		
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43962-polonia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Polonia</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43962-polonia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Polonia</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url}}/images/43879-senegal.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Senegal</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url}}/images/43879-senegal.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Senegal</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43926-colombia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Colombia</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43926-colombia.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Colombia</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
 
  	<tr style="border:1px solid #3e3434;">
-   		<td style="border:1px solid #3e3434;color:#3e3434;">1</td>
-   		<td style="border:1px solid #3e3434;color:#3e3434;"><img src="{{ site.url }}/images/43819-japon.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Japón</span></td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
-		<td style="border:1px solid #3e3434;color:#3e3434;">0</td>
+   		<td style="border:1px solid #3e3434;color:#fff;">1</td>
+   		<td style="border:1px solid #3e3434;color:#fff;"><img src="{{ site.url }}/images/43819-japon.png" height="24px" style="margin-left:;"><span style="margin-left:;"> Japón</span></td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
+		<td style="border:1px solid #3e3434;color:#fff;">0</td>
    		
  	</tr>
     </tbody>
