@@ -50,13 +50,16 @@
 
  <br>
 
- <p class="tag">{{ tags_list }}</p>
+ <h3 class="font-effect-shadow-multiple tag" style="background:transparent;color:3e3434;">Tags</h3>
     {% unless page.tags == empty %}
-       <ul class="tag_box inline" style="color:white;background:green;">
-          {% assign tags_list = page.tags %}
-          {% include JB/tags_list %}
-       </ul>
+    <div class="post" style="color:white;font-weight:900;">
+       {% for tag in page.tags %}
+          <span style="display:inline-block;">{{ tag,  }}</span>
+       {% endfor %}
+    </div>
     {% endunless %} 
+
+    <br>
 
 <!-- Disqus comments (start) -->
 
