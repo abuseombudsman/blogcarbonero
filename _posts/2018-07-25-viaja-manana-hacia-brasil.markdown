@@ -16,7 +16,11 @@ fbcomments: true
 
 <h2 class="post-title title font-effect-shadow-multiple" itemprop="headline" style="font-family:color:#3e3434;letter-spacing:0;font-size:1.0em;">Informe Banewur desde el cuartel de Peñarol</h2>
 
+<br>
+
 <iframe width="521" height="360" src="https://www.youtube.com/embed/x_R0vBg9o3c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br>
 
 <strong>Peñarol</strong> hizo mal en no contratar al lateral de <strong>River</strong>, <strong>Claudio Herrera</strong>, más aún cuando la transferencia de <strong>Hernán Petrik</strong> a un cuadro argentino es inminente. El carbonero viaja a las 14:00 hoy desde <strong>Montevideo</strong> hacia <strong>Curitiba</strong>. Como queda enunciado en el <strong>Informe Banewur</strong> la duda es quién o quienes van de punta el jueves 21:30 contra <strong>Atl Paranaense</strong>. Personalmente <strong>Diego Lopez</strong> me da confianza, genera un ambiente sumamente tranquilo en <strong>Los Aromos</strong>. A pesar del traspié del sábado ante el <strong>Racing Club</strong> se genera con <strong>Lopez</strong> una tranquilidad y una sensación de que si la directiva le mantiene el plantel se va a ir afianzando el grupo cada vez más y va a ir por cosas importantes. Me genera esa sensación. El hincha normal debería de quedarse tranquilo, este <strong>Peñarol</strong> que se gestó con <strong>Leo Ramos</strong> tiene ahora la posibilidad de solidificarse como cuadro de fútbol y tiene revancha el jueves en el plano internacional nuevamente. Tengo una corazonada que <strong>Pe3ñarol</strong> saca su/sus puntos en <strong>Brasil</strong>.
 
