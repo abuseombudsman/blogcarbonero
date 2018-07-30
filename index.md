@@ -2,15 +2,104 @@
 layout: default
 title:
 name: index.md
-author: CAPeñarol.CF
+author: CA Peñarol
 ---
 
 <html>
 
 <br>
-<br>
+
+
+<div width="280px" style="display:inline-block;float:left;">
+<iframe src="http://widgets.datafactory.la/es/uruguay/posiciones.html#championship=uruguay&appIdTrack=15023&show-descentTable=1&team=98&lang=es&show-positionsTable=1&show-PlayedGames=1&show-Goals=0&show-AgainstGoals=0&show-WinGames=0&show-TieGames=0&show-LostGames=0&show-Diff=1&show-DescentPlayedGames=1&show-DescentPoints=1&show-fixtureTable=1&show-nameDays=1&dateFormat=mmdd&show-goalsTable=1&show-GoalsColumnTeams=1&show-GoalsDetails=1&css-width=280&css-backgroundColor=%23f9f9ea&css-textColor=%23343434&css-desTxtColor=%23343434&css-lineColor=%23000000&css-desEquipoBgColor=%23000000&css-desEquipoTxtColor=%23f5c115&css-navBgColorSel=%23030303&css-navColorSel=%23FFFFFF&css-navBgColor=%236F7072&css-navColor=%23FFFFFF&css-titleFontFamily=%22Exo%22%2C%20sans-serif&css-titlePoints=15&css-titleWeight=1&css-titleItalic=0&css-tabsFontFamily=%22Lucida%20Sans%20Unicode%22%2C%22Lucida%20Grande%22%2Csans-serif&css-tabsPoints=11&css-tabsWeight=0&css-tabsItalic=0&css-mainFontFamily=Arial%2CHelvetica%2Csans-serif&css-mainPoints=11&css-mainWeight=1&css-mainItalic=0&css-height=697&css-tabsColor=%23FFFFFF&css-rowColor=%23BD0926&css-textRowColor=%23FFFFFF&css-borderColor=%23D1D3D4&css-golColor=%23BD0926&css-estadoColor=%23BD0926"  frameborder="0"  width="280"  height="697" style="display:inline-block"  ></iframe>
+</div>
+<style>
+.entrada_al_costado {
+	width: 200px;
+	height: 300px;
+	margin-left: 0px;
+	margin-right: 0px;
+	float: right;
+}
+</style>
+<div class="entrada_al_costado" style="display:inline-block;float:right;">
+  <br>
+
+<div id="capsula" style="border:1px solid #c7c7c7;">  
+  <h2 style="background:#c7c7c7;color:#fff;padding:10px;font-size:1.0em;">Último Partido</h2>
+  <center><div style="inline-block">
+    <img src="{{ site.url }}/images/197.gif" style="margin-right:10px;" width="45px"> 0:1 <img src="{{ site.url }}/images/98.gif" style="margin-left:10px;" width="45px">
+  </div></center>
+</div>
+
 <br>
 
+<div id="capsula" style="border:1px solid #c7c7c7;">
+  <h2 style="background:#c7c7c7;color:#fff;padding:10px;font-size:1.0em;">Próximo Partido</h2>
+  <center><div style="inline-block">
+    <img src="{{ site.url }}/images/98.gif" style="margin-right:10px;" width="45px"> vs <img src="{{ site.url }}/images/200.gif" style="margin-left:10px;" width="45px">
+  </div></center>
+</div>
+
+<br>
+
+
+  <h2 style="background:#c7c7c7;color:#fff;padding:10px;font-size:1.0em;">Te puede interesar</h2>
+  
+
+
+
+  <div class="lista">
+
+  <tr>
+
+    {% for post in site.posts limit:5 %}
+
+  <td>
+   <p class="titulares" width="200px" style="float:right;"><a
+tabindex="-1" href="{{ post.url }}"><span>{{ post.title }}</span></a></p><br>
+   <img src="{{ post.image1 }}" width="200px"><br>
+  </td>
+
+  <br>
+
+  <br>
+
+    {% endfor %}
+
+  </tr>
+
+  </div>
+
+</div>
+<!-->
+
+<br>
+
+<iframe src="http://widgets.datafactory.la/es/sudamericana/posiciones.html#championship=sudamericana&show-descentTable=1&team=-1&lang=es&show-positionsTable=1&show-PlayedGames=1&show-Goals=0&show-AgainstGoals=0&show-WinGames=0&show-TieGames=0&show-LostGames=0&show-Diff=1&show-DescentPlayedGames=1&show-DescentPoints=1&show-fixtureTable=1&show-nameDays=1&dateFormat=mmdd&show-goalsTable=1&show-GoalsColumnTeams=1&show-GoalsDetails=1&css-width=280&css-backgroundColor=%23f9f9ea&css-textColor=%23343434&css-desTxtColor=%23343434&css-lineColor=%23000000&css-desEquipoBgColor=%23000000&css-desEquipoTxtColor=%23f5c115&css-navBgColorSel=%23030303&css-navColorSel=%23ffffff&css-navBgColor=%236F7072&css-navColor=%23FFFFFF&css-titleFontFamily=%22Exo%22%2C%20sans-serif&css-titlePoints=15&css-titleWeight=1&css-titleItalic=0&css-tabsFontFamily=%22Lucida%20Sans%20Unicode%22%2C%22Lucida%20Grande%22%2Csans-serif&css-tabsPoints=11&css-tabsWeight=0&css-tabsItalic=0&css-mainFontFamily=Arial%2CHelvetica%2Csans-serif&css-mainPoints=11&css-mainWeight=1&css-mainItalic=0&css-height=697&css-tabsColor=%23FFFFFF&css-rowColor=%23BD0926&css-textRowColor=%23FFFFFF&css-borderColor=%23D1D3D4&css-golColor=%23BD0926&css-estadoColor=%23BD0926"  frameborder="0"  width="280"  height="697"  ></iframe>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+<!--
 <h3>
   <center>
     <span style="color:#3c4449;font-weight:900;margin-bottom:20px;">Último partido: domingo 20 de mayo</span>
@@ -21,8 +110,8 @@ author: CAPeñarol.CF
 
 <center>
 <h1 id="page" style="color:yellow;background:#3e3434;margin-left:-42px;font-weight:900;">Torneo Intermedio 2018</h1>
-<h1 id="page" style="color:#3e3434;background:yellow;margin-left:-42px;font-weight:900;">PEÑAROL vs RIVER PLATE</h1>
-<!--<img src="{{ site.url }}/images/g849.png" style="margin-left:-40px;margin-top:-20px;" width="600">-->
+<h1 id="page" style="color:#3e3434;background:yellow;margin-left:-42px;font-weight:900;">PEÑAROL vs RIVER PLATE</h1>-->
+<!--<img src="{{ site.url }}/images/g849.png" style="margin-left:-40px;margin-top:-20px;" width="600">
 
    <table>
      <thead>
@@ -30,7 +119,7 @@ author: CAPeñarol.CF
        <td></td>
        <td></td>
      </thead>
-	<!-- <center><img src="{{ site.url }}/images/copa-liber.png" style="margin-right:6px;" height="50px"></center>-->
+	<!-- <center><!--<img src="{{ site.url }}/images/copa-liber.png" style="margin-right:6px;" height="50px"></center>
      
      <br>
 
@@ -57,16 +146,16 @@ author: CAPeñarol.CF
 <br>
 
 <center><h1 id="page" style="color:yellow;background:#3e3434;margin-left:-42px;font-weight:900;">Torneo Intermedio 2018</h1></center>
-<center><h1 id="page" style="color:#3e3434;background:yellow;margin-left:-42px;font-weight:900;">BOSTON RIVER vs PEÑAROL</h1></center>
+<center><h1 id="page" style="color:#3e3434;background:yellow;margin-left:-42px;font-weight:900;">BOSTON RIVER vs PEÑAROL</h1></center>-->
 <!--<img src="{{ site.url }}/images/rect1622.png" style="margin-left:-40px;margin-top:-20px;" width="600">-->
-
+<!--
 <br>
 
 <center>
    <img src="{{ site.url }}/images/98.gif" style="margin-right:10px;" height="50px">
-<!--   <span style="margin-left:10px;margin-right:10px;font-size:1.6em;font-weight:900;color:#7d7d7d;">vs</span>  -->
+<!--   <span style="margin-left:10px;margin-right:10px;font-size:1.6em;font-weight:900;color:#7d7d7d;"><!--vs</span>  -->
    <!--<img src="{{ site.url }}/images/copa-liber.png" style="margin-right:6px;" height="50px">-->
-   <img src="{{ site.url }}/images/957.gif" height="50px">
+<!--   <img src="{{ site.url }}/images/957.gif" height="50px">
 </center>
 
 <br>
@@ -196,5 +285,5 @@ author: CAPeñarol.CF
 </center>
 </h1>
 
-<!--</html>-->
+</html>-->
 
