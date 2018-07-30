@@ -57,8 +57,8 @@ author: CA Peñarol
 
   <td>
    <p class="titulares" width="200px" style="float:right;"><a
-tabindex="-1" href="{{ post.url }}"><span>{{ post.title }}</span></a></p><br>
-   <img src="{{ post.image1 }}" width="200px"><br>
+tabindex="-1" href="{{ post.url }}"><span style="color:#fff;">{{ post.title }}</span></a></p><br>
+   <img src="{{ post.image1 }}" width="200px" style="border:1px solid #fff;"><br>
   </td>
 
   <br>
