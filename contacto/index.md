@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Página de Contacto con:<br> Club Atlético Peñarol"
+title: "Contacto: CA Peñarol"
 name: index.md
 description: "Peñarol te necesita, si querès ayudarlo trabajando en tu tiempo libre para repartir la ganancia con hay formar parte de una cuadrilla carbonera podés anotarte aquí en ésta lista. Sase (Vocero Oficial)"
 tags: Peñarol
-author: CAPeñarol.CF
+author: "CA Peñarol"
 ---
 
   <br>
@@ -13,8 +13,8 @@ author: CAPeñarol.CF
 
   <h1 class="title font-effect-shadow-multiple" style="font-family:color:#3e3434;letter-spacing:0;padding:10px;">
   <center>
-   	Página de contacto con:<br>
-   	Club Atlético Peñarol
+   	Contacto:<br>
+   	CA Peñarol
   </center>
   </h1>
 
@@ -32,7 +32,7 @@ author: CAPeñarol.CF
 <div class="entry" style="padding:0;">
 
   <p style="padding:0;">
-     Peñarol te necesita, si querès ayudarlo trabajando en tu tiempo libre para repartir la ganancia con hay formar parte de una cuadrilla carbonera podés anotarte aquí en ésta lista. Sase (Vocero Oficial)
+     Peñarol te necesita, si querès ayudarlo trabajando en tu tiempo libre para repartir la ganancia con hay formar parte de una cuadrilla carbonera podés anotarte aquí en ésta lista. Sase P (Vocero Oficial)
   </p>
 
  <center>
