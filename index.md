@@ -25,27 +25,27 @@ author: CA Peñarol
 <div class="entrada_al_costado" style="display:inline-block;float:right;">
   <br>
 
-<div id="capsula" style="border:1px solid #c7c7c7;">  
-  <h2 style="background:#c7c7c7;color:#fff;padding:10px;font-size:1.0em;">Último Partido</h2>
-  <center><div style="inline-block">
-    <img src="{{ site.url }}/images/197.gif" style="margin-right:10px;" width="45px"> 0:1 <img src="{{ site.url }}/images/98.gif" style="margin-left:10px;" width="45px">
-  </div></center>
-</div>
+	<div id="capsula" style="border:1px solid #c7c7c7;">  
+	  <h2 style="background:#c7c7c7;color:#83711d;padding:10px;font-size:1.0em;">Último Partido</h2>
+	  <center><div style="display:inline-block;">
+	    <img src="{{ site.url }}/images/98.gif" style="margin-right:10px;" width="45px"> <span style="color:#000;"> 1:4 </span><img src="{{ site.url }}/images/4314.gif" style="margin-left:10px;" width="45px">
+	  </div></center>
+	</div>
 
-<br>
+	<br>
 
-<div id="capsula" style="border:1px solid #c7c7c7;">
-  <h2 style="background:#c7c7c7;color:#fff;padding:10px;font-size:1.0em;">Próximo Partido</h2>
-  <center><div style="inline-block">
-    <img src="{{ site.url }}/images/98.gif" style="margin-right:10px;" width="45px"> vs <img src="{{ site.url }}/images/200.gif" style="margin-left:10px;" width="45px">
-  </div></center>
-</div>
+	<div id="capsula" style="border:1px solid #c7c7c7;">
+	  <h2 style="background:#c7c7c7;color:#ac8f07;padding:10px;font-size:1.0em;">Próximo Partido</h2>
+	  <center><div style="inline-block">
+	    <img src="{{ site.url }}/images/191.gif" style="margin-right:10px;" width="45px"><span style="color:#000;"> vs </span><img src="{{ site.url }}/images/98.gif" style="margin-left:10px;" width="45px">
+	  </div></center>
+	</div>
 
 <br>
 
 
   <h2 style="background:#c7c7c7;color:#fff;padding:10px;font-size:1.0em;">Te puede interesar</h2>
-  
+
 
 
 
@@ -120,7 +120,7 @@ tabindex="-1" href="{{ post.url }}"><span style="color:#fff;">{{ post.title }}</
        <td></td>
      </thead>
 	<!-- <center><!--<img src="{{ site.url }}/images/copa-liber.png" style="margin-right:6px;" height="50px"></center>
-     
+
      <br>
 
      <tbody>
@@ -136,7 +136,7 @@ tabindex="-1" href="{{ post.url }}"><span style="color:#fff;">{{ post.title }}</
 <br>
 <br>
 <br>
- 
+
 <h3>
   <center>
     <span style="color:#3c4449;font-weight:900;margin-bottom:20px;">Próximo Partido: jueves 24 de mayo</span>
@@ -178,7 +178,7 @@ tabindex="-1" href="{{ post.url }}"><span style="color:#fff;">{{ post.title }}</
     <tbody style="color:#fff;background:#7d7d7d;">
 
  	<tr style="border:1px solid #3e3434;">
-		
+
    		<td style="border:1px solid #3e3434;">1</td>
    		<td style="border:1px solid #3e3434;"><img src="{{ site.url }}/images/69.gif" height="24px" style="margin-left:;"><span style="margin-left:;"> Libertad</span></td>
    		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:8px;font-weight:900;">13</span></td>
@@ -232,7 +232,7 @@ tabindex="-1" href="{{ post.url }}"><span style="color:#fff;">{{ post.title }}</
     <tbody style="color:#fff;background:#7d7d7d;">
 
  	<tr style="border:1px solid #3e3434;">
-		
+
    		<td style="border:1px solid #3e3434;">1</td>
    		<td style="border:1px solid #3e3434;"><img src="{{ site.url }}/images/4043.gif" height="24px" style="margin-left:;"><span style="margin-left:;"> Torque</span></td>
    		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:8px;font-weight:900;">4</span></td>
@@ -259,14 +259,14 @@ tabindex="-1" href="{{ post.url }}"><span style="color:#fff;">{{ post.title }}</
    		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:8px;font-weight:900;">3</span></td>
    		<td style="border:1px solid #3e3434;"><span style="margin-left:-66px;">+1</span></td>
  	</tr>
-	
+
 	<tr style="border:1px solid #3e3434;">
    		<td style="border:1px solid #3e3434;">5</td>
    		<td style="border:1px solid #3e3434;"><img src="{{ site.url }}/images/957.gif" height="24px" style="margin-left:;"><span style="margin-left:;"> Boston River</span></td>
    		<td style="border:1px solid #3e3434;"><span style="float:left;margin-left:8px;font-weight:900;">3</span></td>
    		<td style="border:1px solid #3e3434;"><span style="margin-left:-65px;">+1</span></td>
  	</tr>
-	
+
 	<tr style="border:1px solid #3e3434;">
    		<td style="border:1px solid #3e3434;">6</td>
    		<td style="border:1px solid #3e3434;"><img src="{{ site.url }}/images/510.gif" height="24px" style="margin-left:;"><span style="margin-left:;"> Progreso</span></td>
@@ -286,4 +286,3 @@ tabindex="-1" href="{{ post.url }}"><span style="color:#fff;">{{ post.title }}</
 </h1>
 
 </html>-->
-
