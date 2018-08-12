@@ -7,3 +7,5 @@ Blog CA Peñarol utiliza un parser como [Jekyll](https://jekyllrb.com) para pres
 Blog CA Peñarol es en el comienzo una iniciativa para unir fuerzas progresistas del Club Atlético Peñarol y promoveer formar grupos de trabajo para en tu tiempo libre dedicarle horas de trabajo y compartir la ganancia con el CA Peñarol, de esta forma aumentar la democracia dentro de la Institución.
 
 <<< (89) Blog CA Peñarol se encuentra hospedado en [GitHub](https://github.com/abuseombudsman/blogcarbonero/) utilizando [Jekyll](https://jekyllrb.com) como CMS y se mantendrá de esta forma por siempre de manera que cualquier persona que se quiera acoplar al trabajo de Blog >>> (89) CA Peñarol lo pueda hacer de manera rápida y efectiva.
+
+Dedicado afectuosamente a Gozilla
