@@ -6,6 +6,6 @@
 
 <strong>Blog</strong> [<strong>CA Peñarol</strong>](http://xn--capearol-g3a.cf) es en el comienzo una iniciativa para unir fuerzas progresistas del <strong>Club Atlético Peñarol</strong> y promoveer formar grupos de trabajo para en tu tiempo libre dedicarle horas de tu trabajo y compartir la ganancia con el [<strong>CA Peñarol</strong>](http://xn--capearol-g3a.cf) y de ésta forma aumentar la <strong>Democracia</strong> dentro de la <strong>Institución</strong>.
 
-<strong>Blog</strong> [<strong>CA Peñarol</strong>](http://xn--capearol-g3a.cf) se encuentra hospedado en [<strong>GitHub</strong>](https://github.com/abuseombudsman/blogcarbonero/) utilizando [<strong>Jekyll</strong>](https://jekyllrb.com) como <strong>CMS</strong> y se mantendrá de esta forma por siempre de manera que cualquier persona que se quiera acoplar al trabajo de <strong>Blog</strong> [<strong>CA Peñarol</strong>](http://xn--capearol-g3a.cf) lo pueda hacer de manera rápida y efectiva.
+<strong>Blog</strong> [<strong>CA Peñarol</strong>](http://xn--capearol-g3a.cf) se encuentra hospedado en [<strong>GitHub</strong>](https://github.com/abuseombudsman/blogcarbonero/) utilizando [<strong>Jekyll</strong>](https://jekyllrb.com) como <strong>CMS</strong> (SGC = Sistema Gestor de Contenidos) y se mantendrá de esta forma por siempre de manera que cualquier persona que se quiera acoplar al trabajo de <strong>Blog</strong> [<strong>CA Peñarol</strong>](http://xn--capearol-g3a.cf) lo pueda hacer de manera rápida y efectiva.
 
 Dedicado afectuosamente a <strong>Gozilla</strong>
