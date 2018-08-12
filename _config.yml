@@ -45,13 +45,15 @@ encoding:		UTF-8
 
 # Social
 
-title: 			"Club Atlético Peñarol"
+title: 			""
 email: 			capeniarol.cf@gmail.com
-description: 		"Club de fútbol uruguayo, pensamos que la democratización
-	      		 de la institución pasa por que la Popular tome las riendas
-	      		 de su gobierno y se organice debajo del techo protector que
+description: 		"Club de fútbol uruguayo, pensamos que la Democratización
+	      		 de la Institución pasa por que la Popular tome las riendas
+	      		 de su Gobierno y se Organice debajo del techo Protector que
 			 constituye el Club Atlético Peñarol y se trabaje en pos de
-                         la institución..."
+                         la Institución..."
+name:			"CA Peñarol"
+type:			"Organization"
 twitter_username: 	AbuseOmbudsman
 github_username:  	abuseombudsman
 
