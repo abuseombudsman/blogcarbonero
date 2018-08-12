@@ -1,6 +1,6 @@
 # <span style="font-weight:900">Blog CA Peñarol</span> <img src="https://capeniarol.github.io/inicio/favicon.ico" width="26.5px" style="vertical-align:-10;">
 
-[<strong>CA Peñarol</strong>](http://xn--capearol-g3a.cf) nace de la necesidad de obtener toda la <strong style="color:red;">Información</strong> de <strong>Peñarol</strong> en un único lugar. Reseñas de los medios de prensa escritos junto a reseñas de los medios de prensa audio, más toda la <p style="color:#e80505;">Información</p> que aparece en [<strong>YouTube</strong>](https://youtube.com) de los medios de prensa video.
+[<strong>CA Peñarol</strong>](http://xn--capearol-g3a.cf) nace de la necesidad de obtener toda la <strong style="color:red;">Información</strong> de <strong>Peñarol</strong> en un único lugar. Reseñas de los medios de prensa escritos junto a reseñas de los medios de prensa audio, más toda la <span style="color:#e80505;">Información</span> que aparece en [<strong>YouTube</strong>](https://youtube.com) de los medios de prensa video.
 
 <strong>Blog</strong> [<strong>CA Peñarol</strong>](http://xn--capearol-g3a.cf) utiliza un parser, [<strong>Jekyll</strong>](https://jekyllrb.com) (procesador de texto para buscar por palabras claves) para presentar los contenidos de la <strong style="color:red;">Información</strong> de una manera intuitiva y racional, usted puede buscar <strong style="color:red;">Información</strong> utilizando palabras claves o simplemente leer las últimas entradas del <strong>Contenido</strong> (<span style="color:red;">Información</span> manya)
 
