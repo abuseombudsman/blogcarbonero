@@ -1,6 +1,6 @@
 # Blog CA Peñarol
 
-![Blog](http://xn--capearol-g3a.cf/images/98.gif) [CA Peñarol](http://xn--capearol-g3a.cf) nace de la necesidad de obtener toda la información de Peñarol en un único lugar. Reseñas de los medios de prensa escritos junto a reseñas de los medios de prensa radios, más toda la información que aparece en YouTube de los medios de prensa televisivos.
+![Blog](http://xn--capearol-g3a.cf/images/98.gif){:style width=40px;} [CA Peñarol](http://xn--capearol-g3a.cf) nace de la necesidad de obtener toda la información de Peñarol en un único lugar. Reseñas de los medios de prensa escritos junto a reseñas de los medios de prensa radios, más toda la información que aparece en YouTube de los medios de prensa televisivos.
 
 Blog CA Peñarol utiliza un parser como [Jekyll](https://jekyllrb.com) para presentar los contenidos de la información de una manera intuitiva y racional, usted puede buscar información utilizando palabras claves o simplemente leer las últimas entradas del blog.
 
