@@ -1,4 +1,4 @@
-# Blog CA Peñarol ![](https://capeniarol.github.io/inicio/favicon.ico){:width :20px}
+# Blog CA Peñarol ![]<img src="https://capeniarol.github.io/inicio/favicon.ico" width="24.5px" style="vertical-align:-10;">
 
 ![CA Peñarol]<img src="https://capeniarol.github.io/inicio/favicon.ico" width="24.5px"> [CA Peñarol](http://xn--capearol-g3a.cf) nace de la necesidad de obtener toda la información de Peñarol en un único lugar. Reseñas de los medios de prensa escritos junto a reseñas de los medios de prensa radios, más toda la información que aparece en YouTube de los medios de prensa televisivos.
 
