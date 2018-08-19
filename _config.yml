@@ -37,7 +37,7 @@ source:			"."
 destination:		"/_site"
 port:			4001
 baseurl:		""
-url:			http://xn--capearol-g3a.cf
+url:			https://xn--capearol-g3a.cf
 encoding:		UTF-8
 
 
