@@ -6,13 +6,30 @@ author: CA Peñarol
 ---
 
 <html>
+<div class="content">
+<br>
+<style>
+#actual a:hover {
+		color: #a95401;
+		font-weight: 900;
+}
+</style>
+
+<div id="actual" style="color:#fff;font-size:1.1em;">
+   <p>Peñarol le ganó a Liverpool por 4-2 por la <a href="{{ siute.url }}/futbol/uruguayo/clausura/...">cuarta fecha</a> del Campeonato Clausura 2018, destacándose la actuación de Gabriel '**el Toro**' Fernández quien logró el HatTrick (3 goles)</p>
+</div>
+
+<hr />
 
 <br>
 
-
 <div width="280px" style="display:inline-block;float:left;">
 <iframe src="http://widgets.datafactory.la/es/uruguay/posiciones.html#championship=uruguay&appIdTrack=15023&show-descentTable=1&team=98&lang=es&show-positionsTable=1&show-PlayedGames=1&show-Goals=0&show-AgainstGoals=0&show-WinGames=0&show-TieGames=0&show-LostGames=0&show-Diff=1&show-DescentPlayedGames=1&show-DescentPoints=1&show-fixtureTable=1&show-nameDays=1&dateFormat=mmdd&show-goalsTable=1&show-GoalsColumnTeams=1&show-GoalsDetails=1&css-width=280&css-backgroundColor=%23f9f9ea&css-textColor=%23343434&css-desTxtColor=%23343434&css-lineColor=%23000000&css-desEquipoBgColor=%23000000&css-desEquipoTxtColor=%23f5c115&css-navBgColorSel=%23030303&css-navColorSel=%23FFFFFF&css-navBgColor=%236F7072&css-navColor=%23FFFFFF&css-titleFontFamily=%22Exo%22%2C%20sans-serif&css-titlePoints=15&css-titleWeight=1&css-titleItalic=0&css-tabsFontFamily=%22Lucida%20Sans%20Unicode%22%2C%22Lucida%20Grande%22%2Csans-serif&css-tabsPoints=11&css-tabsWeight=0&css-tabsItalic=0&css-mainFontFamily=Arial%2CHelvetica%2Csans-serif&css-mainPoints=11&css-mainWeight=1&css-mainItalic=0&css-height=697&css-tabsColor=%23FFFFFF&css-rowColor=%23BD0926&css-textRowColor=%23FFFFFF&css-borderColor=%23D1D3D4&css-golColor=%23BD0926&css-estadoColor=%23BD0926"  frameborder="0"  width="280"  height="697" style="display:inline-block"  ></iframe>
+
+<br>
+
 </div>
+
 <style>
 .entrada_al_costado {
 	width: 200px;
@@ -25,19 +42,19 @@ author: CA Peñarol
 <div class="entrada_al_costado" style="display:inline-block;float:right;">
   <br>
 
-	<div id="capsula" style="border:1px solid #c7c7c7;">  
+	<div id="capsula1" style="border:1px solid #c7c7c7;">  
 	  <h2 style="background:#c7c7c7;color:#83711d;padding:10px;font-size:1.0em;">Último Partido</h2>
 	  <center><div style="display:inline-block;">
-	    <img src="{{ site.url }}/images/98.gif" style="margin-right:10px;" width="45px"> <span style="color:#000;"> 1:4 </span><img src="{{ site.url }}/images/4314.gif" style="margin-left:10px;" width="45px">
+	    <img src="{{ site.url }}/images/191.gif" style="margin-right:10px;" width="45px"> <span style="color:#fff;"> 2:4 </span><img src="{{ site.url }}/images/98.gif" style="margin-left:10px;" width="45px">
 	  </div></center>
 	</div>
 
 	<br>
 
-	<div id="capsula" style="border:1px solid #c7c7c7;">
+	<div id="capsula2" style="border:1px solid #c7c7c7;">
 	  <h2 style="background:#c7c7c7;color:#ac8f07;padding:10px;font-size:1.0em;">Próximo Partido</h2>
 	  <center><div style="inline-block">
-	    <img src="{{ site.url }}/images/191.gif" style="margin-right:10px;" width="45px"><span style="color:#000;"> vs </span><img src="{{ site.url }}/images/98.gif" style="margin-left:10px;" width="45px">
+	    <img src="{{ site.url }}/images/961.gif" style="margin-right:10px;" width="45px"><span style="color:#fff;"> vs </span><img src="{{ site.url }}/images/98.gif" style="margin-left:10px;" width="45px">
 	  </div></center>
 	</div>
 
@@ -286,3 +303,5 @@ tabindex="-1" href="{{ post.url }}"><span style="color:#fff;">{{ post.title }}</
 </h1>
 
 </html>-->
+</div>
+</html>

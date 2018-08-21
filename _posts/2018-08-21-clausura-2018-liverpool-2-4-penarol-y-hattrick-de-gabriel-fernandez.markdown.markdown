@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Clausura 2018, Liverpool 2:4 Peñarol y HatTrick de Gabriel Fernández"
+name: "2018-08-21-clausura-2018-liverpool-2-4-penarol-y-hattrick-de-gabriel-fernandez.markdown"
+description: "Peñarol volvió a la senda del triunfo después del traspié sufrido entre semana contra el Atlético Paranaense, el ambiente antes del duelo con Liverpool era de nerviosismo en la dirigencia"
+tags: "Clausura, Peñarol, Liverpool, 2-4, Bellvedere, Ezequiel Busquets, Giovani González, Cristian Rodriguez, Guzmán Pereira, Freitas, Lores, Agustín Canobbio, Lucas Viatri, Gabriel Fernández, Fútbol Uruguayo, Diego López, Lolo Estoyanoff, Negro de la Cuchilla, HatTrick, Maxi Rodriguez, Torneo Local, Nacioinal, San Lorenzo, Clásico, bolso, Carbonero"
+date: 2018-08-21 05:30:00 +01:00:00
+image1: "https://i.imgur.com/YChecGJ.jpg"
+categories: futbol uruguayo clausura
+author: CA Peñarol
+fbcomments: true
+---
+
+El <strong>CA Peñarol</strong> se presentó en <strong>Bellvedere</strong> con un juvenil debutante, <strong>Ezequiel Busquets</strong>, quien ocupó el lateral derecho por la lesión de <strong>Giovani</strong> y cumplió un muy buen trabajo defensivo. Por el medio vuelve el <strong>Cebolla Rodriguez</strong> a ocupar el doble cinco con <strong>Guzmán Pereira</strong>, en lugar de <strong>Freitas</strong>. Por izquierda de ese medio campo <strong>Lores</strong> y por derecha <strong>Canobbio</strong>. Adelante dos puntas-puntas <strong>Lucas Viatri</strong> y <strong>Gabriel Fernández</strong>. Es la primera vez que juegan juntos y yo creo que deberían ser los titulares indiscutidos arriba. En nuestro medio desnivelan por goleada ante cualquier adversario del <strong>Fútbol Uruguayo</strong>.
+
+Gran dinámica y movilidad en el arranque, <strong>Peñarol</strong> sabía que debía ganar si o si después del toque que le dió <strong>Atlético Paranaense</strong>. Primero se lo pierde <strong>Canobbio</strong> que con su habilidad genera una oprtunidad que infortunadamente no puede concretar. Un centro de <strong>Lores</strong> encuentra a <strong>Fernández</strong> quien define con gran aplomo. Se va el primer tiempo con un justo vencedor.
+
+En el segundo tiempo se rearma <strong>Liverpool</strong> que arranca mejor que <strong>Peñarol</strong> y se adueña de la pelota. <strong>Diego Lopez</strong> contesta con dos cambios: <strong>Estoyanoff</strong> por <strong>Lores</strong> y <strong>Freitas</strong> por <strong>Canobbio</strong> sin embargo viene el empate de <strong>Liverpool</strong> que no nos dolió porque entre medio de los festejos del <strong>Negro de la Cuchilla</strong> en la contracarga define nuevamente con gran categoría el <strong>Toro Fernández</strong> tras gran pase de <strong>Viatri</strong> para ponerse 2-1 por delante el <strong>aurinegro</strong>. Éste gol fue lapidario, desvastador para los de la <strong>Cuchilla</strong>. <strong>Peñarol</strong> vuelve otra vez a controlar un partido que a priori era complicado. <strong>Peñarol</strong> queda agasapado como para pegar el sarpazo y lo logra, primero define de cabeza el <strong>Cebolla</strong> y se pone 3 a 1. <strong>Liverpool</strong> recibe un regalo del árbitro quién les da un penal que fué menos penal que uno que le hicieron a <strong>Fernández</strong>. Pero éste día era el de <strong>Gabriel "Toro" Fernández</strong> que remata la tarde con el mejor tanto del equipo mirasol. Escape por la punta de <strong>Maxi Rodriguez</strong> y pase preciso en el momento preciso para <strong>Gabriel Fernández</strong> quién define notablemente al segundo palo logrando un <strong>HatTrick</strong>.
+
+<strong>Peñarol</strong> encuentra respuestas después de haber quedado eliminado de la <strong>Copa Sudamericana</strong> y ahora si pone la mira en el <strong>Torneo Local</strong>. <strong>Nacional</strong> señores y señoras tiene duelo con el <strong>Tornado de Boedo</strong>, viene una linda seguidilla ante un grande de la <strong>Argentina</strong> y se le puede sumar a la inefectividad que posee para tropezar y dejarnos en mejor posición para enfrentarlos en el <strong>Clásico</strong>, en donde hace tiempo que no nos ganas y suelen comenzar las dudas cuando se marca una racha notoria en este tipo de proceso de los <strong>Clásicos</strong>. Buena suerte y mucha suerte al <strong>bolso</strong> pero como el águila que perfora a su presa desde la copa del árbol, el <strong>Carbonero</strong> aguarda...
+
+<center><strong>--== Aguante Carbonero!!! ==--</strong></center>
