@@ -13,7 +13,7 @@ body {
 	font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; /* Tahoma, Arial, Helvetica, sans-serif;
   */
 	font-size: 16px;
- 
+
 	color: #382b2b;/*#382b2b;
 */
 	background-image: url(/images/fondo_122B.jpg);
@@ -197,9 +197,9 @@ img.right {
 }
 
 #page-bg {
-	
+
 	/*margin: 0 650px auto; */
-	
+
 }
 
 /* Latest Post */
@@ -215,12 +215,14 @@ img.right {
 	float: left;
 	width: 520px; /* 460 */
 	margin: 0px 40px 40px 40px;
+	font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 .post {
 	padding-bottom: 15px;
 	font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; /* Tahoma, Arial, Helvetica, sans-serif;^M  */
-        font-size: 16px;
+  font-size: 16px;
+	text-align: left;
 	line-height: 124%;
 	letter-spacing: 0.0em;
 /*	border-bottom: 1px #2C4449 solid;

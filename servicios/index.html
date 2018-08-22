@@ -22,10 +22,10 @@ tags: "Club Atlético Peñarol, Blog, Carbonero, CA Peñarol, lista entradas"
 <br>
 
 <div class="post">
-   
-  <p class="byline" style="color:#fff;border:1px solid #fff;background:#3c4449;width:520px;padding-left:10px;margin-bottom:10px;" width="520px">
+
+  <p class="byline" style="color:#fff;border:1px solid #fff;background:#3c4449;width:520px;padding-left:10px;margin-bottom:-20px;" width="520px">
     Postiado en
-   <i class="glyphicon glyphicon-calendar" style="padding:5px;"></i> 
+   <i class="glyphicon glyphicon-calendar" style="padding:5px;"></i>
    <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
     	{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
    	{{ post.date | date: date_format }}
@@ -33,7 +33,7 @@ tags: "Club Atlético Peñarol, Blog, Carbonero, CA Peñarol, lista entradas"
    {% if post.author %}
    <span style="padding:5px;">
     por
-   </span> 
+   </span>
    <a href="http://capeñarol.cf" rel="nofollow">
      <i class="glyphicon glyphicon-user" style="padding:5px;color:yellow;"></i>
      <span style="color:yellow;font-weight=900;">
@@ -42,17 +42,17 @@ tags: "Club Atlético Peñarol, Blog, Carbonero, CA Peñarol, lista entradas"
    </a>
    {% endif %}
    {% if post.tiempo_de_lectura %}
-   <i class="glyphicon glyphicon-time" style="padding:5px;"></i> 
+   <i class="glyphicon glyphicon-time" style="padding:5px;"></i>
    <span>
       lectura: {{ post.tiempo_de_lectura }}
    </span>
    {% endif %}
   </p>
- 
+
  <p>
   {% if post.image2 %}
    <img src="{{ post.image2 }}" class="right" height="300px" style="border:2px solid #fff;">
-  {% endif %} 
+  {% endif %}
   <h1 class="title font-effect-shadow-multiple" style="font-family:;letter-spacing:0;"> <!-- <h1 style="color:#3e3434;">-->
     <a href="{{ post.url }}" style="text-decoration:none;">
       <span class="font-effect-shadow-multiple" style="color:#3e3434;">
@@ -60,25 +60,20 @@ tags: "Club Atlético Peñarol, Blog, Carbonero, CA Peñarol, lista entradas"
       </span>
     </a>
   </h1>
- 
-  <br>
-
-  <div id="border-guzmán" style="border:2px solid #fff;"></div>
+  <div id="border-guzmán" style="border:1px solid #fff;"></div>
  </p>
-     
-<!--<h1 class="title post-title font-effect-shadow-multiple" style="margin-top:0px;"><a href="{{ post.url }}"><span style="color:#3e3434;margin-top:0px;">{{ post.title }}</span></a></h1>
--->
-  <br>
-    
+
+ <br>
+
  <div class="entry">
   <p>
     {% if post.image1 %}
    <img src="{{ post.image1 }}" class="right" width="300px" style="border:2px solid #fff;">
     {% endif %}
-    
+
     <!--{% if post.image2 %} -->
    <!--<img src="{{ post.image2 }}" class="right" height="300px" style="padding:10px;">-->
-    <!--{% endif %}--> 
+    <!--{% endif %}-->
     {{ post.description }}
   </p>
   <p class="links">
@@ -94,9 +89,9 @@ tags: "Club Atlético Peñarol, Blog, Carbonero, CA Peñarol, lista entradas"
   <br>
 
  </div>
-    
-</div>                                                
-         
+
+</div>
+
 {% endfor %}
 
 <br>
@@ -120,5 +115,5 @@ tags: "Club Atlético Peñarol, Blog, Carbonero, CA Peñarol, lista entradas"
   {% else %}
     <span class="next" style="margin-right:10px;font-weight:900;">Next <span> </span><i class="glyphicon glyphicon-chevron-right"></i></span>
   {% endif %}
-</div>              
+</div>
 </html>
