@@ -12,22 +12,22 @@ fbcomments: true
 ---
 
 
-El delantero de Peñarol, Lucas Viatri, afirmó que desea continuar en la institución al término de la temporada.
+El delantero de <strong>Peñarol</strong>, <strong>Lucas Viatri</strong>, afirmó que desea continuar en la <strong>Institución</strong> al término de la temporada.
 
-<bloquote>
+<blockquote>
   Si es por mí, firmo ahora lo que sea para quedarme unos años más. Cuando a uno le va bien y se siente cómodo, siempre quiere quedarse
-</bloquote>
-, aseguró en diálogo con #TirandoParedes. Además, reiteró en varias oportunidades que el club lo trata de la mejor manera.
+</blockquote>
+, aseguró en diálogo con <strong>#TirandoParedes</strong>. Además, reiteró en varias oportunidades que el <strong>Club</strong> lo trata de la mejor manera.
 
 Por otro lado, se refirió al accidente que sufrió con pirotecnia en navidad y a su evolución tras volver a tener minutos en el campo de juego:
-<bloquote>
+<blockquote>
   Estuve a un centímetro de perder el ojo. Siempre habrá una preocupación pero estamos al habla con los doctores todo el tiempo. Hasta ahora venimos bien porque no me jode
-</bloquote>
+</blockquote>
 
-A su vez, habló sobre la realidad deportiva del equipo carbonero y la importancia de enfocarse en el Campeonato Uruguayo:
-<bloquote>
-  Estamos en el club más grande del país y hay que mirar para adelante. Dimos vuelta la página de lo que fue la Sudamericana. Fue doloroso porque veníamos con una ilusión muy grande
-</bloquote>
+A su vez, habló sobre la realidad deportiva del equipo <strong>Carbonero</strong> y la importancia de enfocarse en el <strong>Campeonato Uruguayo</strong>:
+<blockquote>
+  Estamos en el <strong>Club</strong> más grande del país y hay que mirar para adelante. Dimos vuelta la página de lo que fue la <strong>Sudamericana</strong>. Fue doloroso porque veníamos con una ilusión muy grande
+</blockquote>
 
 <br>
 
