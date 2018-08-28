@@ -6,13 +6,13 @@ date: 2018-08-28 04:00:00 +01:00:00
 tags: "CA Peñarol, Boston River, Rivera, Anual, Clausura, Gabriel Toro Fernández, Lucas Viatri, Agustín Canobbio, Cristian Cebolla Rodriguez, Diego Memo Lopez, Lolo Estoyanoff, Ignacio Lores, Darwin Nuñez, Gonzalo Freitas"
 description: "El CA Peñarol se presentó en Rivera ante el Boston River, trás un primer tiempo donde hizo méritos para irse arriba en el marcador pero no lo logró, pudo Peñarol sentenciar el partido con un penal indiscutible a Gabriel Fernández que el Cebolla cambió penal por gol"
 image1: https://i.imgur.com/hZeQpqo.jpg
-image2: https://i.imgur.com/XWZJmQe.jpg
-image3: https://i.imgur.com/xDF1SkR.jpg
+image4: https://i.imgur.com/XWZJmQe.jpg
+image5: https://i.imgur.com/xDF1SkR.jpg
 author: CA Peñarol
 fbcomments: true
 ---
 
-<strong>Peñarol</strong> afirmó en <strong>Rivera</strong> que no quiere perder más puntos si quiere salir campeón de la tabla <strong>Anual</strong>. Se enfrentó a <strong>Boston River</strong> por la 6ta fecha del <strong>Clausura</strong> derrotándolo por 2 a 1 en un partido de trámite disputado. El aurinegro ingresó a la cancha con Dawson; Busquets, Formiliano, C Rodriguez; Canobbio, Guzmán Perira, Cristian Rodriguez, Ignacio Lores; Viatri y Fernández arriba.
+<strong>Peñarol</strong> afirmó en <strong>Rivera</strong> que no quiere perder más puntos si quiere salir campeón de la tabla <strong>Anual</strong>. Se enfrentó a <strong>Boston River</strong> por la 6ta fecha del <strong>Clausura</strong> derrotándolo por 2 a 1 en un partido de trámite disputado. El aurinegro ingresó a la cancha con Dawson; Busquets, Formiliano, C Rodriguez, Lucas Hernández; Canobbio, Guzmán Perira, Cristian Rodriguez, Ignacio Lores; Viatri y Fernández arriba.
 
 En un encuentro donde el aurinegro fué acompañado por un público muy numeroso y un estadio que presentó una cancha un espectáculo, <strong>Peñarol</strong> debió irse arriba en el marcador en el primer tiempo. La velocidad de <strong>Fernández</strong> fue un azote para el <strong>Boston River</strong>, más aún cuando <strong>Viatri</strong> arrastra marcas o simplemente busca conectar con el <strong>Toro</strong> en velocidad, se lo perdió <strong>Canobbio</strong> y el <strong>Cebolla</strong> también, <strong>Viatri</strong> tuvo un tiro desviado en ese primer tiempo pero la jugada de más riesgo la propició <strong>Gabriel Fernández</strong> que eludió al golero pero se quedó sin tiro trás una muy buena habilitación de <strong>Cristian Rodriguez</strong>.
 
