@@ -1,5 +1,5 @@
 ---
-layout: entrada
+layout: post
 title:  "Cristian Rodriguez quedó desafectado del viaje con la selección y será baja contra Cerro"
 name: "2018-09-02-cristian-rodriguez-quedo-desafectado-del-viaje-con-la-seleccion.markdown"
 date: 2018-09-02 20:30:00 +01:00:00
