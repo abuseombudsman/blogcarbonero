@@ -10,8 +10,6 @@ author: "CA Peñarol"
 comments: true
 ---
 
-# Cristian Rodriguez quedó desafectado del viaje con la selección y será baja contra Cerro
-
 Cristian el Cebolla Rodriguez se desgarró y lo tacharon de la lista de la selección para el viaje a México por el encuentro amistoso de la selección y obviamente será baja ante Cerro este domingo en Peñarol. Se podría especular que aparezca en el primer equipo el nombre de Freitas como en el doble cinco con Guzmán Pereira este doming ante CA Cerro.
 
 Por otra parte el Toto Da Silveira cree que Peñarol está jugando más que Nacional, escuchar el comienzo de A Fondo por 1010 AM el pasado martes:
