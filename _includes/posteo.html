@@ -6,7 +6,7 @@
   <br>
   <br>
 
-  <p class="byline" style="margin-bottom:0px;border:1px solid #fff;background:#3c4449;padding-left:10px;">Postiado
+  <p class="byline" style="margin-bottom:0px;border:1px solid #fff;background:#2a7ae2;padding-left:10px;font-size:15px;font-weight:900;border-radius:15px;">Postiado
    <i class="glyphicon glyphicon-calendar" style="padding:5px;"></i>
    <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
@@ -14,31 +14,31 @@
    </time>
         {% if page.author %}
    <span style="padding:5px;">por</span><a href="http://capeñarol.cf" rel="nofollow"><i class="glyphicon glyphicon-user" style="padding:5px;color:yellow;"></i>
-        <span style="color:yellow;font-weight=900;">CAPeñarol.CF</span> </a>
+	   <span style="color:yellow;font-weight=900;">{{ page.author }}</span> </a>
         {% endif %}
         {% if page.tiempo_de_lectura %}
   <i class="glyphicon glyphicon-time" style="padding:5px;"></i> <span>lectura: {{ page.tiempo_de_lectura }}</span>
         {% endif %}
   </p>
 
-  <h1 class="title font-effect-shadow-multiple" style="font-family:color:#3e3434;letter-spacing:0;">
+  <h1 class="title content" style="letter-spacing:0;">
     <a href="{{ page.url }}" style="text-decoration:none;">
-      <span class="font-effect-shadow-multiple" style="color:#3e3434;">
+      <span class="content">
         {{ page.title }}<!-- Progreso vs Peñarol en el Nasazzi a las 15:30 hora uruguaya-->
       </span>
     </a>
   </h1>
-  <div id="border-guzmán" style="border:1px solid #fff;"></div>
+ {% if page.image1 %}
 
-  <br>
-  <br>
   <br>
 
   <img src="{{ page.image1 }}" style="border:2px solid #fff;" width="520px">
 
   <br>
-  <br>
-  <br>
+ 
+ {% endif %}
+
+ <br>
 
  <div class="entry">
 	{{ content }}

@@ -45,7 +45,7 @@ author: CA Peñarol
 	<div id="capsula1" style="border:1px solid #c7c7c7;">  
 	  <h2 style="background:#c7c7c7;color:#83711d;padding:10px;font-size:1.0em;">Último Partido</h2>
 	  <center><div style="display:inline-block;">
-	    <img src="{{ site.url }}/images/957.gif" style="margin-right:10px;" width="45px"> <span style="color:#fff;"> 1:2 </span><img src="{{ site.url }}/images/98.gif" style="margin-left:10px;" width="45px">
+	    <img src="{{ site.url }}/images/98.gif" style="margin-right:10px;" width="45px"> <span style="color:#fff;"> 3:2 </span><img src="{{ site.url }}/images/188.gif" style="margin-left:10px;" width="45px">
 	  </div></center>
 	</div>
 
@@ -54,7 +54,7 @@ author: CA Peñarol
 	<div id="capsula2" style="border:1px solid #c7c7c7;">
 	  <h2 style="background:#c7c7c7;color:#ac8f07;padding:10px;font-size:1.0em;">Próximo Partido</h2>
 	  <center><div style="inline-block">
-	    <img src="{{ site.url }}/images/98.gif" style="margin-right:10px;" width="45px"><span style="color:#fff;"> vs </span><img src="{{ site.url }}/images/188.gif" style="margin-left:10px;" width="45px">
+	    <img src="{{ site.url }}/images/98.gif" style="margin-right:10px;" width="45px"><span style="color:#fff;"> vs </span><img src="{{ site.url }}/images/955.gif" style="margin-left:10px;" width="45px">
 	  </div></center>
 	</div>
 

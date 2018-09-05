@@ -2931,12 +2931,12 @@ a.btn.disabled, fieldset[disabled] a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #2C4449;
-  border-color: #223539; }
+  background-color: #27ae;
+  border-color: #539; }
   .btn-primary:focus, .btn-primary.focus {
     color: #fff;
-    background-color: #192629;
-    border-color: black; }
+    background-color: #539;
+    border-color: #539; }
   .btn-primary:hover {
     color: #fff;
     background-color: #192629;
