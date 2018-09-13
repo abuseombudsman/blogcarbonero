@@ -2,7 +2,7 @@
 layout: post
 title: "Clausura 2018: Peñarol hizo los deberes y derroto a Atenas 2-0"
 name: 2018-09-12-clausura-2018-penarol-hizo-los-deberes-y-derroto-a-atenas-2-0.markdown
-keywords: "Fútbol, 2018, Uruguayo, Clausura, Peñarol, Atenas, San Carlos, CDS, profesionalismo, Kevin Dawson, Gabriel Fernández, Campeonato Uruguayo, Nacional, Cristian Rodriguez, Ignacio Lores, Agustín Canobbio, aurinegro, Fabián Estoyanoff, Darwin Núñez, Maximiliano Rodriguez, Lucas Viatri, Lucas Hernández, Danubio, Jardínes"
+tags: "Fútbol, 2018, Uruguayo, Clausura, Peñarol, Atenas, San Carlos, CDS, profesionalismo, Kevin Dawson, Gabriel Fernández, Campeonato Uruguayo, Nacional, Cristian Rodriguez, Ignacio Lores, Agustín Canobbio, aurinegro, Fabián Estoyanoff, Darwin Núñez, Maximiliano Rodriguez, Lucas Viatri, Lucas Hernández, Danubio, Jardínes"
 description: "Peñarol realizó un partido concentrado donde no se dejó sorprender en ningún momento por Atenas y aunque demoró el segundo gol se puede decir que obtuvo una victoria holgada y que Atenas estuvo controlado sin patear ni un tiro a la portería de Dawson. Peñarol mostró que pasa un buen momento y estuvo lejos del alcance del Atenas."
 author: CA Peñarol
 gosne: CA Peñarol

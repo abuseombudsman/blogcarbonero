@@ -2,7 +2,7 @@
 layout: post
 title: "El Tito fue importante ante Cerro cuando subió a cabecear"
 name: 2018-09-07-el-tito-fue-importante-ante-cerro-cuando-subió.markdown
-keywords: "Fútbol 2018 Uruguayo Clausura Peñarol Tito Formiliano audio youtube"
+tags: "Fútbol 2018 Uruguayo Clausura Peñarol Tito Formiliano audio youtube"
 description: "El Tito fue importante llendo a cabecear al área de Cerro el domingo, en conferencia de prensa habló del partido, la tranquilidad que da el resultado y de lo que se viene. Grabamos el audio del programa de Da Silveira A Fondo por 1010 AM"
 author: CA Peñarol
 gosne: CA Peñarol

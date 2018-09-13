@@ -2,7 +2,7 @@
 layout: post
 title: "Video: PASIÓN (VTV) Fecha 08 Torneo Clausura 2018"
 name: 2018-09-13-video-pasion-vtv-fecha-08-torneo-clausura-2018.markdown
-keywords: "Fútbol, 2018, Uruguayo, Clausura, fecha 08, video, youtube"
+tags: "Fútbol, 2018, Uruguayo, Clausura, fecha 08, video, youtube"
 description: "Resúmen de la fecha 08 del Torneo Clausura 2018 del programa PASIÓN de VTV con todos los goles de la fecha y el análisis de los partidos."
 author: CA Peñarol
 gosne: CA Peñarol
