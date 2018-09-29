@@ -33,3 +33,5 @@ Locutor 1: Bueno pero en el medio Freitas está definido y el otro podría ser M
 Locutor 3: Creo que podría ser una especulación, podría ser Maxi, habría que ver lo que Diego López pretende. Tampoco tiene mucho para elegir!? De todos modos va a haber varios cambios, retorna Lucas Hernández después de la gripe, veremos si C Rodriguez llega o no, después de la contractura.
 
 Locutor 2: Él técnico fué optimista en la Conferencia veremos lo que dice el médico...
+
+<iframe width="521" height="360" src="https://www.youtube.com/embed/gtwleluKPLs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
