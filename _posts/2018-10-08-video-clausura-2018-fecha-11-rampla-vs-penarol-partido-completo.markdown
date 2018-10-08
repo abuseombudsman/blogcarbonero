@@ -6,7 +6,7 @@ keywords: "Fútbol, 2018, Uruguayo, Clausura, fecha 11, Rampla vs Peñarol, Part
 description: "Video del partido entre el Rampla y Peñarol en el Estadio Centenario el 07 de octubre por la undécima fecha del Campeonato Clausura 2018. Transmición de VTV, Producción Tenfield por el stream de FutbolAndres en internet, servicio de interés público."
 author: CA Peñarol
 gosne: CA Peñarol
-fbcomments: true
+comments: true
 Campeonato: "Clausura 2018"
 Fecha: 11
 Partido: "Rampla vs Peñarol"
