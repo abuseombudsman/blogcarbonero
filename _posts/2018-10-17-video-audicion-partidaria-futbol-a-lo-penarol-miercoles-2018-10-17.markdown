@@ -5,7 +5,7 @@ name: 2018-10-17-video-audicion-partidaria-futbol-a-lo-penarol-miercoles-2018-10
 keywords: "Fútbol, 2018, Peñarol, Fútbol A Lo Peñarol, Audición Partidaria de Peñarol, 1010 AM, video, youtube"
 description: "Audición Partidaria de Peñarol, Fútbol A Lo Peñarol edición del miércoles 17 de octubre por radio 1010 AM. Previa de la Fecha No 13 Clausura 2018 Nacional vs Peñarol."
 author: CA Peñarol
-gosne: [Grêmio-article]UnderControl El Clásico
+gosne: "[Grêmio-article]UnderControl El Clásico"
 comments: true
 Campeonato: "Clausura 2018"
 Fecha: 13
