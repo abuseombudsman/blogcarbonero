@@ -24,7 +24,7 @@ Video: false
 Campeonato: <span>{{ page.campeonato }}</span><br>
 Fecha: <span>{{ page.fecha }}</span><br>
 Encuentro: <span>{{ page.partido }}</span><br>
-<span style="color:red;font-weight:900">{{ page.Crónica }}</span>
+<span style="color:red;font-weight:900">Crónica</span>
 
 Nacional contó una vez más con una grandísima liga y para si fuera poco trajo un gol de vestuario para el segundo tiempo con el que pretendió organizarse mejor con la tranquilidad que le daba estar arriba en el marcador.
 
