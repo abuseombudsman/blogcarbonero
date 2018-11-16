@@ -10,11 +10,11 @@ comments: true
 Campeonato: ""
 Fecha:
 Partido: ""
-categories: Fútbol Peñarol Entrevista
+categories: Fútbol Peñarol Entrevistas
 image1: https://i.imgur.com/c591M1p.jpg
 Crónica: false
 Entrevista: true
-Duración: "38:13 minutos"
+duracion: "38:13 minutos"
 Partido-Completo: false
 Conferencia-de-Prensa: false
 Video: true
@@ -22,7 +22,7 @@ date: 2018-11-16 08:30:00 +01:00:00
 ---
 
 <span style="color:red;font-weight:900">Entrevista</span><br>
-<span>Duración: {{ page.Duración }}</span><br>
+<span>Duración: {{ page.duracion }}</span><br>
 
 <br>
 
