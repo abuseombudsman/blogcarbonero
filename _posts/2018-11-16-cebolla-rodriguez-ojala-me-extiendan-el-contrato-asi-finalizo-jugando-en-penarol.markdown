@@ -56,9 +56,6 @@ El Cebolla Rodríguez hablando después del partido clásico sobre el título qu
   El Mota es una garantía, es un lujo tenerlo en el equipo aparte también quiere al club simplemente hay que felicitarlo
 </blockquote>
 
-<blockquote>
-
-
 <br>
 
 <iframe width="521" height="360" src="https://www.youtube.com/embed/MjiCHOmwM0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
