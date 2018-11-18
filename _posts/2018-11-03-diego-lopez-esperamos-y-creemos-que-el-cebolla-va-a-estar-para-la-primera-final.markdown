@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: entrada
 title: "Diego López: Esperamos y creemos que el Cebolla va a estar para la primera final"
 name: 2018-11-03-diego-lopez-esperamos-y-creemos-que-el-cebolla-va-a-estar-para-la-primera-final.markdown
 keywords: "Fútbol, 2018, Uruguayo, Clausura, Fecha 15, Defensor Sporting vs Peñarol, Previa, Entrevista, Diego López, video YouTube"
