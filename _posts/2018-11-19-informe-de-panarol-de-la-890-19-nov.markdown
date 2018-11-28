@@ -11,7 +11,7 @@ Campeonato: ""
 Fecha: ""
 Partido: ""
 categories: Fútbol 2018 Peñarol Informe Sport890 Video
-image1: https://i.imgur.com/xqBDmqW.png
+image1: https://i.imgur.com/DRs7pxc.jpg
 Crónica: false
 Entrevista: false
 Partido-Completo: false
