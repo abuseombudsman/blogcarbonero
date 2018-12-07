@@ -10,7 +10,7 @@ comments: true
 Campeonato: ""
 Fecha: ""
 Partido: ""
-categories: Futbol 2018 Peñarol Entrevistas Videos Bongo
+categories: Futbol 2018 Peñarol Entrevistas Videos Bingo
 image1: https://i.imgur.com/NofG90n.jpg
 Crónica: false
 Entrevista: true
