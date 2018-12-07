@@ -30,9 +30,9 @@ Navascuéz rindió cuentas en el programa de Julio Ríos que la va siguiendo "La
 
 <br>
 
-<bloquote>
+<blockquote>
   Hay una posibilidad de que Peñarol pierda los puntos y en ese caso se debería jugar la semifinal de nuevo y si ahí ganara Nacional habría 2 finales más... !?!
-</bloquote>
+</blockquote>
 
 Dijo Navascuéz.
 
