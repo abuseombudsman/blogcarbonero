@@ -2,7 +2,7 @@
 layout: post
 title: "Video: Información de Peñarol por Radio Sport"
 name: 2018-12-08-informe-sport.markdown
-keywords: "Fútbol, 2018, Peñarol, Informe Sport, Video"
+keywords: "Fútbol, 2018, Peñarol, Informe, Sport 890, Video"
 description: "Noticias, así se desarrollarán los Torneos en el 2019"
 author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
@@ -11,7 +11,7 @@ Campeonato: ""
 Fecha:
 Partido: ""
 categories: Futbol 2018 Peniarol Informe-Sport Videos
-image1: https://i.imgur.com/XYAnY8a.png
+image1: https://i.imgur.com/6AhlLin.png
 Crónica: false
 Entrevista: false
 Partido-Completo: false
