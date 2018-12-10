@@ -11,7 +11,7 @@ Campeonato: ""
 Fecha:
 Partido: ""
 categories: Futbol 2018 Peniarol Informe-Sport Videos
-image1: https://i.imgur.com/6AhlLin.png
+image1: https://i.imgur.com/Woqsxsz.png
 Crónica: false
 Entrevista: false
 Partido-Completo: false
@@ -19,7 +19,7 @@ Conferencia-de-Prensa: false
 Video: true
 date: 2018-12-08 03:32:00 +01:00:00
 ---
-<!---
+<!---https://i.imgur.com/6AhlLin.png
 Campeonato: <span>{{ page.Campeonato }}</span><br>
 Fecha: <span>{{ page.Fecha }}</span><br>
 Encuentro: <span>{{ page.Partido }}</span><br>-->

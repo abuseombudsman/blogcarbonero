@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Video: Altas y Bajas en Peñarol para el 2019"
+name: 2018-12-10-informe-1010am.markdown
+keywords: "Fútbol, 2018, Peñarol, Informe, 1010 AM, Video"
+description: "Noticias peñarolenses, así se desarrollará la actividad en el 2019 y las altas y bajas en Peñarol para el 2019"
+author: CA Peñarol
+gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
+comments: true
+Campeonato: ""
+Fecha:
+Partido: ""
+categories: Futbol 2018 Peniarol Informe-1010AM Videos
+image1: https://i.imgur.com/zbRZule.png
+Crónica: false
+Entrevista: false
+Partido-Completo: false
+Conferencia-de-Prensa: false
+Video: true
+date: 2018-12-10 19:50:00 +01:00:00
+---
+<!---https://i.imgur.com/6AhlLin.png
+Campeonato: <span>{{ page.Campeonato }}</span><br>
+Fecha: <span>{{ page.Fecha }}</span><br>
+Encuentro: <span>{{ page.Partido }}</span><br>-->
+<span style="color:red;font-weight:900">Informe 1010 AM</span>
+
+Noticias de Peñarol, Así se desarrollará la actividad futbolística para el 2019 y las altas y bajas que tendrá Peñarol en el 2019. Entendemos que el pase de el Toro Fernández es 50% de Peñarol y entraría una buena suma a las arcas aurinegras de lo contrario se mantendría el cuadro que ganó el Campeonato Uruguayo y entraría más plata al realizarse la transferencia en julio - agosto donde el mercado de pases se mueve más.
+
+
+<br>
+
+<iframe src="https://www.youtube.com/embed/1KLEaIxSFds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+<span style="color:yellow;">RIPIADO CON</span> <a href="http://ffmpeg.org"><img src="{{ site.url }}/images/ffmpeg.png" width="65px" height="45px" style="border:1px solid green;"></a>
