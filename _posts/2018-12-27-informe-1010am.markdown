@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Peñarol 2019: transferencias, negociaciones y mercado de pases"
+name: 2018-12-27-informe-1010am.markdown
+keywords: "Fútbol, 2019, Peñarol, Informe, 1010 AM, Video, Transferencias, Negociaciones, Mercado de Pases, Pretemporada 2019"
+description: "Actualidad peñarolense, informe de las negociaciones por Maxi Rodriguez, Viatri, Estoyanoff y Novick, Arias se acercaría a Peñarol después del alejamiento de C Rodriguez a Liga de Quito y Lucas Hernández junto a Rodrigo Rojo podrían irse de Peñarol, habría ofertas del exterior"
+author: CA Peñarol
+gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
+comments: true
+Campeonato: ""
+Fecha:
+Partido: ""
+categories: Futbol 2018 Peniarol Informe Videos
+image1: https://i.imgur.com/zQpUkho.jpg
+Crónica: false
+Entrevista: false
+Partido-Completo: false
+Conferencia-de-Prensa: false
+Informe: true
+Video: true
+date: 2018-12-27 05:30:00 +01:00:00
+---
+<!---https://i.imgur.com/6AhlLin.png
+Campeonato: <span>{{ page.Campeonato }}</span><br>
+Fecha: <span>{{ page.Fecha }}</span><br>
+Encuentro: <span>{{ page.Partido }}</span><br>-->
+<span style="color:red;font-weight:900">Informe 1010 AM</span>
+
+Según la 1010 el Cachila Arias estaría cada vez más cerca de Peñarol sin embargo el vice-presidente de Peñarol Adolfo Catino, Arias tiene contrato vigente con el cuadro árabe por dos años más y la recinción del contrato es una sifra demasiado alto a donde Peñarol no llegaría jamás.
+
+Carlos Rodriguez se fué de Peñarol, el Plaza dueño de su pase lo vendió a Liga Deportiva de Quito, rival de Peñarol en la fase de grupos de la Copa Libertadores. Según la 1010 la relación entre Plaza de Colonia y Peñarol está tensa y Plaza si recibe una oferta por Dawson lo vende y ya no correría si Peñarol la iguala se queda, esto debido a la intervención de Peñarol para impedir el traspaso de C Rodriguez al Deportivo Cali que se cayó.
+
+Según DaSilveira en su programa A Fondo de la 1010 dijó que de muy buena fuente estaba enterado que Rodrigo Rojo no seguiría en Peñarol. Según también DaSilveira, Maxi Rodriguez habría arreglado ya con **Peñarol** por una temporada más así como también el representante de Viatri que es una persona muy difícil de negociar y Peñarol habrían acercado sus posiciones, el problema es que Viatri ahora es ciudadano y los impuestos más altos por lo que Peñarol aunque pague lo mismo que el año pasado se dispararía igualmente la sifra por el tema de los impuestos.
+
+Según Foliati de A Fondo por la 1010 Fleitas no seguiría en Peñarol, Peñarol seguiría pagando las cuotas por los 400 mil dólares que costó el jugador. Mientras que Tirando Paredes en su edición de la mañana también por la 1010 aseguró que el Toro preferiría esperar hasta junio para ser transferido a España y aparentemente se habría enfriado su traspaso inminente y se quedaría en Peñarol seis meses más.
+
+<br>
+
+<iframe width="521" height="360" src="https://www.youtube.com/embed/PUOUzlfq49E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+<span style="color:yellow;">RIPIADO CON</span> <a href="http://ffmpeg.org"><img src="{{ site.url }}/images/ffmpeg.png" width="65px" height="45px" style="border:1px solid green;"></a>
