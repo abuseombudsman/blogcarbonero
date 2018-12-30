@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Maxi Rodriguez hacía meses ya tenía todo cocinado para volver a Newell's"
+name: 2018-12-30-informe-1010am.markdown
+keywords: "Fútbol, 2019, Peñarol, Informe, 1010 AM, Video, Transferencias, Negociaciones, Mercado de Pases, Pretemporada 2019, Maxi Rodriguez"
+description: "Su mujer se había despedido de todas sus amigas porque se iban y a los hijos ya les habían reservado lugar en la escuela en Rosario, aparte se arregló con Rodrigo Rojo para el 2019, Informe Peñarol"
+author: CA Peñarol
+gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
+comments: true
+Campeonato: ""
+Fecha:
+Partido: ""
+categories: Futbol 2019 Peniarol Informe Videos Informe-1010AM
+image1: https://i.imgur.com/QFiDIpn.jpg
+Crónica: false
+Entrevista: false
+Partido-Completo: false
+Conferencia-de-Prensa: false
+Informe: true
+Video: true
+date: 2018-12-30 23:30:00 +01:00:00
+---
+<!---https://i.imgur.com/6AhlLin.png
+Campeonato: <span>{{ page.Campeonato }}</span><br>
+Fecha: <span>{{ page.Fecha }}</span><br>
+Encuentro: <span>{{ page.Partido }}</span><br>-->
+<span style="color:red;font-weight:900">Informe **1010** AM</span>
+
+Maxi Rodriguez ya había preparado todo para partir hacia la Argentina desde hace mucho tiempo. Su mujer ya se había despedido de sus amigas hacía semanas y los hijos de Maxi ya tenían reservado el lugar en la escuela. Todavía no se entiende el simulacro del arreglo con Barrera en donde Peñarol había cerrado el alargue del contrato por un año más con Maxi Rodriguez.
+
+Aparentemente habría sido una maniobra para no develar hasta último momento su desvinculación de Peñarol, incluso en una entrevista a FOX Maxi no soltó prenda si volvería a Newell's o no para la próxima temporada. Aparentemente habría arreglado con Peñarol simplemente para que las negociaciones por atrás con Newell's llegaran a buen puerto sin causar sospechas en el entorno de él.
+
+Por otro lado Peñarol arregló con Rodrigo Rojo por un año más seguramente para cubrirse de un eventual traspaso de Lucas Hernández lo que arroja aún más incertidumbre en torno al plantel que Peñarol pueda formar para esta temporada.
+
+<br>
+
+<iframe width="521" height="360" src="https://www.youtube.com/embed/wwitKH6gHlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+<span style="color:yellow;">RIPIADO CON</span> <a href="http://ffmpeg.org"><img src="{{ site.url }}/images/ffmpeg.png" width="65px" height="45px" style="border:1px solid green;"></a>
