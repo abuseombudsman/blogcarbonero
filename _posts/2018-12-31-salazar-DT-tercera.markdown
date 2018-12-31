@@ -24,7 +24,7 @@ Video: true
 date: 2018-12-31 00:30:00 +01:00:00
 ---
 
-<span style="color:red;font-weight:900">Entrevista a Rodolfo Catino (vice-presidente de Peñarol)</span><br>
+<span style="color:red;font-weight:900">Entrevista a Raúl Salazar</span><br>
 <span>Duración: {{ page.duracion }}</span><br>
 
 Raúl Salazar fue confirmado como técnico de tercera división en Peñarol. El técnico proviene de las juveniles de Danubio y un paso por el Racing Club. Se planea una reunión en breve con el Memo López para coordinar el trabajo del técnico con la tercera división.
