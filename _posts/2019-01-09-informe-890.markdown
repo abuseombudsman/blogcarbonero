@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Peñarol 2019: Viatri se acercaría nuevamente y van por Jonathan Álves"
+name: 2019-01-09-informe-890.markdown
+keywords: "Fútbol, 2019, Peñarol, Informe, Pretemporada, Video, Transferencias, Altas y Bajas"
+description: "Se reflotó el tema Viatri, aparentemente el contratista bajaría sus pretenciones de la compra del 50% de la ficha, además se acercan por la contratación de Jonathan Álves"
+author: CA peñarol
+gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
+comments: true
+Campeonato: ""
+Fecha:
+Partido: ""
+category: informe
+categoria: informe
+image1: https://i.imgur.com/QQ5kwp9.jpg
+Video: true
+date: 2019-01-09 19:00:00 +01:00:00
+---
+<!---https://i.imgur.com/6AhlLin.png
+Campeonato: <span>{{ page.Campeonato }}</span><br>
+Fecha: <span>{{ page.Fecha }}</span><br>
+Encuentro: <span>{{ page.Partido }}</span><br>-->
+<span style="color:red;font-weight:bold;">Informe</span>
+
+<br>
+
+Según de acuerdo a este informe de la 890 se acercarían nuevamente Viatri y Peñarol para arreglar por una temporada más, además Peñarol va a la carga con más intensidad por el concurso de Jonathan Álves, jugador que el técnico Diego López pidió.
+
+El tema Erazo aparentemente quedó cerrado por parte de Peñarol que no lo contrataría por no pasar la revisación médica, el representante del jugador estaría muy enojado con esto y habría ofrecido el zaguero a Nacional.
+
+<br>
+
+<iframe width="521" height="360" src="https://www.youtube.com/embed/SaoSdTfrdqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<span style="color:yellow;background:black;margin-top:0px;">grabado con</span> <a href="http://ffmpeg.org"><img src="{{ site.url }}/images/ffmpeg.png" width="50px" style="border:1px solid green;vertical-align: sub;margin-left:7px;"></a>
