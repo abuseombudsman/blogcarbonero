@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Selección sub-20: Así será el 11 inicial de Uruguay en el Sudamericano sub-20 Chile 2019"
+name: 2019-01-16-sub-20.markdown
+keywords: "Fútbol, 2019, Selección sub-20 Urguay, Informe, Video"
+description: "Un informe de la 1010 sobre el probable 11 inicial de la selección uruguaya sub-20 para el sudamericano de Chile 2019 en donde Uruguay intentará obtener la clasificación para el mundial de Polonia 2019"
+author: CA peñarol
+gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
+comments: true
+Campeonato: ""
+Fecha: ""
+Partido: ""
+category: seleccion
+categoria: seleccion
+seleccion: informe
+fuente: radio 1010 am
+image1: https://i.imgur.com/XEnmsvm.jpg
+entrevistado: ""
+duracion: "02:08 minutos"
+leyenda: "Sudamericano sub-20: Así será el 11 inicial de Uruguay en el Sudamericano sub-20"
+Video: true
+date: 2019-01-15 19:30:00 +01:00:00
+---
+
+Este es un informe de la 1010 sobre el proceso de selección sub-20 de Fabián Coito para el Sudamericano Chile 2019. En el informe podemos escuchar cuál será el más que probable equipo titular para el debut de Uruguay ante Perú. A pesar  de eso lo más probable viniendo de Coito es que halla una gran rotación de jugadores para afrontar el largo torneo.
+
+El plantel completo de Uruguay sub-20 es el siguiente: Franco Israel (Juventus, Ita); Renzo Rodriguez (Independiente Arg); Mauro Silveira (Wanderers); Bruno Méndez (Wanderers); Sebastián Cáceres (Liverpool); Edgar Elizalde (Pescara Ita); Mathías Laborda (Nacional); Ezequiel Busquéts (Peñarol); Maximiliano Araújo (Wanderers); Emiliano Ancheta (Danubio); Erik de los Santos (Peñarol); Martín Barrios (Racing); Rodrigo Zalazar (Málaga Esp); Nicolás Acevedo (Liverpool); Juan Manuel Sanabria (Atletico de Madrid Esp); Emiliano Gómez (Defensor Sporting); Nicolás Schiappacasse (Atlético de Madrid Esp); Pablo García (River Plate Arg); Agustín Dávila (Real Sociedad Esp); Juan Manuel Bosselli (Defensor Sporting); Thomás Chacón (Danubio); Facundo Batista (Chiasso Sui); Darwin Nuñez (Peñarol); DT: Fabián Coito.
+
+<br>
+
+<iframe width="521" height="360" src="https://www.youtube.com/embed/lSUPfbEQE7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<span style="color:yellow;margin-top:0px;">grabado con</span> <a href="http://ffmpeg.org"><img src="{{ site.url }}/images/ffmpeg.png" width="50px" style="border:1px solid green;vertical-align: sub;margin-left:7px;"></a>
