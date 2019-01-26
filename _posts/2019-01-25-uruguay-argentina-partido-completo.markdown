@@ -17,7 +17,7 @@ image1: https://i.imgur.com/UwK1M2g.jpg
 image3:
 date: 2019-01-25 16:30:00 +01:00:00
 Video: true
----j
+---
 
 Partido completo por el Sudamericano SUB 20 Chile 2019, entre Uruguay U20 vs Argentina U20 por la cuarta fecha de la fase de grupos correspondiente al grupo B y disputado en el 2019-01-24.
 
