@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Peñarol 2019: Novik y Gargano trabajaron diferenciados por lesiones en aductores"
+name: 2019-02-13-informe-la1010.markdown
+keywords: "Fútbol, 2019, Peñarol, Informe, Pretemporada, Video"
+description: "Gargano y Novik trabajaron diferenciados, hoy se resuelve si Peñarol sigue buscando un 10 para esta temporada, Wilson Méndez y un completo informe de Peñarol"
+author: CA peñarol
+gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
+comments: true
+Campeonato: ""
+Fecha:
+Partido: ""
+category: informe
+categoria: informe
+fuente: la 1010
+duracion: "04:29 minutos"
+image1: https://i.imgur.com/xoLVKJ4.jpg
+Video: true
+date: 2019-02-13 19:00:00 +01:00:00
+---
+
+Gargano y Novik trabajaron difernciados y están en duda para el inicio del Campeonato Apertura 2019, se resuelve hoy si Peñarol sigue buscando un No 10 para el inicio del Campeonato. Hoy se comienza a trabajar a puertas cerradas y se aguarda el sorteo del Apertura 2019.
+
+<br>
+
+<iframe width="521" height="360" src="https://www.youtube.com/embed/EBAW4-9pvZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<span style="color:yellow;">grabado con</span> <a href="http://ffmpeg.org"><img src="{{ site.url }}/images/ffmpeg.png" width="50px" style="border:1px solid green;vertical-align: sub;margin-left:7px;"></a>
