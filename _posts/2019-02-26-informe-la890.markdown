@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Apertura 2019 FECHA 2: Peñarol 5:0 Rampla Juniors, Comentarios, Conferencia, Informe - Sport890"
+name: 2019-02-26-informe-la890.markdown
+keywords: "Fútbol, Campeonato Uruguayo 2019, Apertura 2019, Peñarol, Informe, Video"
+description: "Apertura 2019: Peñarol 5:0 Rampla Juniors, los comentarios del programa Quiero Fútbol de la Sport 890 por Diego Jokas y Mohar, además conferencia de prensa hablan Brian Rodriguez y Diego López, se maneja también la posibilidad que en la fecha 3 Juventud reciba a Peñarol en el Paiva Olivera de Rivera o el Campus de Maldonado, según Banewur ???"
+author: CA peñarol
+gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
+comments: true
+Campeonato: "Apertura 2019"
+Fecha: "2"
+Partido: "Peñarol vs Rampla Juniors"
+category: informe
+categoria: informe
+fuente: la 890
+duracion: "28:12 minutos"
+image1: https://i.imgur.com/hPnpqPK.jpg
+Video: true
+date: 2019-02-26 20:30:00 +01:00:00
+---
+
+Quiero Fútbol por Sport 890 analiza el triunfo de Peñarol a Rampla Juniors X 5 a 0, también se pueden escuchar las conferencias de Brian Rodriguez y Diego López así como un informe de Banewur como que Juventud en caso de que no se apruebe el Parque Artigas de Las Piedras para la fecha No 3, propondrían el Atilio Paiva Olivera de Rivera o El Campus de Maldonado. Compacto resúmen de Peñarol en la FECHA 2 del Apertura 2019 y lo que hay que saber sobre lo que viene, la FECHA 3 que marca Juventud (Las Piedras) vs Peñarol.
+
+<br>
+
+<iframe width="521" height="360" src="https://www.youtube.com/embed/wuaGTHaEpxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<span style="color:yellow;">grabado con</span> <a href="http://ffmpeg.org"><img src="{{ site.url }}/images/ffmpeg.png" width="50px" style="border:1px solid green;vertical-align: sub;margin-left:7px;"></a>
