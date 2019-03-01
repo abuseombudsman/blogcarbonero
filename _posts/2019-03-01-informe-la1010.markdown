@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Peñarol: Equipos con máscara detectará que jugadores rendiran en la altura"
+name: 2019-03-01-informe-la1010.markdown
+keywords: "Fútbol, Campeonato Uruguayo 2019, Apertura 2019, Peñarol, Informe, Video"
+description: "Peñarol compró equipos especiales en los que se puede ver de antemano que jugadores van a rendir en la altura y que jugadores van a tener problemas en la altura. Recordar que Peñarol tiene que jugar en Quito y en San José de Oruro a más de 2000 metros de altura"
+author: CA peñarol
+gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
+comments: true
+Campeonato: "Apertura 2019"
+Fecha: "3"
+Partido: "Peñarol vs Juventud"
+category: informe
+categoria: informe
+fuente: la 1010
+duracion: "14:30 minutos"
+image1: https://i.imgur.com/hNFS167.jpg
+Video: true
+date: 2019-03-01 14:30:00 +01:00:00
+---
+
+Se informó desde Peñarol que la institución había adquirido equipos especiales para preveer que jugadores van a rendir más en la altura. Recordemos que Peñarol tendrá dos partidos en la altura por la Copa Libertadores 2019, uno en Quito contra LDQ y otro en Oruro cuando enfrente al San José de Oruro. Por otra parte Guzmán tiene un desgarro y está descartado para el partido contra Juventud y también se perderá el debut en la Libertadores el jueves contra LDQ.
+
+<br>
+
+<iframe width="521" height="360" src="https://www.youtube.com/embed/5cYUs6vBG4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<span style="color:yellow;">grabado con</span> <a href="http://ffmpeg.org"><img src="{{ site.url }}/images/ffmpeg.png" width="50px" style="border:1px solid green;vertical-align: sub;margin-left:7px;"></a>
