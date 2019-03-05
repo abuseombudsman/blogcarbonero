@@ -50,11 +50,11 @@
 
  <br>
 
- <h3 class="font-effect-shadow-multiple tag" style="background:transparent;color:3e3434;">Tags</h3>
-    {% unless page.tags == empty %}
+ <h3 class="font-effect-shadow-multiple tag" style="background:green;padding:3px;color:3e3434;">Tags</h3>
+    {% unless page.keywords == empty %}
     <div class="post" style="color:white;font-weight:900;">
-       {% for tag in page.tags %}
-          <span style="display:inline-block;">{{ tag,  }}</span>
+       {% for keyword in page.keywords %}
+          <span style="display:inline-block;">{{ keyword,  }}</span>
        {% endfor %}
     </div>
     {% endunless %}
