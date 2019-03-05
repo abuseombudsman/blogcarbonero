@@ -14,7 +14,7 @@ category: conferencia
 categoria: conferencia
 entrevistado: "Marcel -Vikingo- Novick (jugador de Peñarol)"
 duracion: "03:08 minutos"
-image1: https://i.imgur.com/iYg62Dq.jpg
+image1: https://i.imgur.com/eVR0wBa.jpg
 Video: true
 date: 2019-02-27 20:00:00 +01:00:00
 ---
