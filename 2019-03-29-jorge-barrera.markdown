@@ -26,7 +26,7 @@ Jorge también dice que él es realista cuando ve chances de sorprender a Flamen
 
 <br>
 
-El Ferroviario Sudamericano *** <img src="https://i.imgur.com/kle4hEU.jpg" width="50px"> *** Grêmio
+El Ferroviario Sudamericano *** <img src="{{ post.gosne }}" width="50px"> *** Grêmio
 
 <br>
 
