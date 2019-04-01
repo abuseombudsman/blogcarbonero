@@ -3,8 +3,7 @@ layout: post
 title: "Apertura 2019 FECHA 2: Peñarol dijo que es serio candidato a ser tricampeón uruguayo, DaSilveira"
 name: 2019-02-26-comentario-la1010.markdown
 keywords: "Fútbol, Apertura 2019, Peñarol, Comentario, Video"
-description: "Da Silveira por radio 1010 en su programa A Fondo comentó el partido por la FECHA No 2 del Apertura 2019 en que Peñarol le ganó a Rampla Juniors por 5:0. Entre otras cosas Peñarol tiene mejor plantel que el año pasado y figuras desequilibrantes"
-y contundentes como Gastón Rodriguez."
+description: "Da Silveira por radio 1010 en su programa A Fondo comentó el partido por la FECHA No 2 del Apertura 2019 en que Peñarol le ganó a Rampla Juniors por 5:0. Entre otras cosas Peñarol tiene mejor plantel que el año pasado y figuras desequilibrantes y contundentes como Gastón Rodriguez."
 author: CA peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
 comments: true
