@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Libertadores 2019: Análisis de Flamengo 0-1 Peñarol en Tirando radio 1010"
+name: 2019-04-04-analisis-1010AM.markdown
+keywords: "Fútbol, Libertadores 2019, Peñarol, Análisis, Video"
+description: "El panel de Tirando Paredes, radio 1010 analiza el partido de anoche, el gran triunfo de Peñarol en el plano internaci0nal"
+author: CA peñarol
+gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
+comments: true
+Campeonato: "Libertadores 2019"
+Fecha: "3 [Fase De Grupos]"
+Partido: "Flamengo vs Peñarol"
+category: análisis
+categoria: análisis
+fuente: radio 1010AM
+duracion: "15:08 minutos"
+image1: https://i.imgur.com/TWEU50S.jpg
+Video: true
+date: 2019-04-04 17:30:00 +01:00:00
+---
+
+El cuadro del Memo López se mostró prolijo y ordenado para contrarestar el juego efectivo de un Flamengo que se vió maniatado por Peñarol desde el minuto No 1 y en ningún momento Peñarol pasó peligro durante el partido, Dawson tuvo una o dos y respondió como siempre, afianzando tranquilidad en el equipo. El Memo felicito a todo el plantel quienes evidentemente también creyeron en el plan del técnico, Barrera muy tocado, indudablemente el mayor triunfo internacional de Peñarol desde su mandato. Pero nada será comparable a ganar el trieño a fin de año e insumir al tradicional rival en una pequeña crisis ya un poco más que solamente en el aspecto deportivo un poco de estress. Pero al bolso lo veo bien, Cerro Porteño no es tan cuco ahora que lo vimos. Suerte!
+
+<br>
+
+<iframe width="521" height="360" src="https://www.youtube.com/embed/4io8SuCJ0c0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<span style="color:yellow;">grabado con</span> <a href="http://ffmpeg.org"><img src="{{ site.url }}/images/ffmpeg.png" width="50px" style="border:1px solid green;vertical-align: sub;margin-left:7px;"></a>
