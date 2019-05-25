@@ -22,9 +22,6 @@ Video: true
 Partido completo online por la Sudamericana 2019, 16avos de final, entre Deportivo Cali vs Peñarol en Cali.
 
 <br>
-<!--
-<iframe src="https://openload.pw/embed/7ELntA5_Uo8/UCL.2019.04.17-Quarter.Finals-POR.vs.LIV.mkv" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
--->
 
 <center><iframe width="560" height="315" src="//ok.ru/videoembed/1265883810483" frameborder="0" allowfullscreen></iframe></center>
 
