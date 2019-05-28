@@ -15,7 +15,7 @@ categoria: partido-completo
 duracion: "01:51:30 horas"
 image1: https://i.imgur.com/M7pm88k.jpg
 link:
-date: 2019-05-20 21:45:00 +02:00:00
+date: 2019-05-28 21:45:00 +02:00:00
 Video: true
 ---
 
