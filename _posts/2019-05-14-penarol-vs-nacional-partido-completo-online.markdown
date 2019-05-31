@@ -23,7 +23,7 @@ Partido completo online por el Apertura 2019, Fecha Nr 12, entre Peñarol vs Nac
 
 <br>
 
-<iframe width="521" height="360" src="https://www.youtube.com/embed/uzOe6fmWreI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="//ok.ru/videoembed/1275780401843" frameborder="0" allow="autoplay" allowfullscreen></iframe></center>
 
 <br>
 
